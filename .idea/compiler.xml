@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-web" />
+        <module name="springboot-web-jsp" />
+        <module name="web-app-jsp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-thymeleaf" target="11" />
+      <module name="springboot-web" target="11" />
+      <module name="springboot-web-jsp" target="11" />
+      <module name="springboot-web-thymeleaf" target="11" />
+      <module name="web-app-jsp" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-thymeleaf" options="-parameters" />
+      <module name="springboot-web" options="-parameters" />
+      <module name="springboot-web-jsp" options="-parameters" />
+      <module name="springboot-web-thymeleaf" options="-parameters" />
+    </option>
+  </component>
+</project>

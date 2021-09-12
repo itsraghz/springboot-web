@@ -1,0 +1,3 @@
+2021-09-12 22:20:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "QUOTE" not found; SQL statement:
+select quote0_.id as id1_0_0_, quote0_.author as author2_0_0_, quote0_.category as category3_0_0_, quote0_.date_added as date_add4_0_0_, quote0_.quote as quote5_0_0_, quote0_.is_used as is_used6_0_0_ from quote quote0_ where quote0_.id=? [42102-200]
