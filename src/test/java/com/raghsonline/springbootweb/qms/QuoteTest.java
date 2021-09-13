@@ -3,9 +3,6 @@ package com.raghsonline.springbootweb.qms;
 import com.raghsonline.springbootweb.qms.model.Quote;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class QuoteTest {
 
     @Test

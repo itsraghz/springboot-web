@@ -2,11 +2,10 @@ package com.raghsonline.springbootweb.qms.controller;
 
 import com.raghsonline.springbootweb.qms.dto.QuoteDTO;
 import com.raghsonline.springbootweb.qms.dto.QuoteSearchDTO;
-import com.raghsonline.springbootweb.qms.model.APIResponse;
 import com.raghsonline.springbootweb.qms.model.Category;
 import com.raghsonline.springbootweb.qms.model.Quote;
-import com.raghsonline.springbootweb.qms.repository.QuoteRepository;
 import com.raghsonline.springbootweb.qms.service.QuoteService;
+import com.raghsonline.springbootweb.qms.util.WebUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
@@ -188,6 +187,10 @@ public class QuoteController {
     public String searchQuote(@RequestParam String quote, @RequestParam String isCaseSensitive, Model model) {
         System.out.println("/search POST page requested");
         List<Quote> quoteList = quoteService.getAllQuotesByMatchingQuote(quote, isCaseSensitive.equalsIgnoreCase("Y"));
+        List<String> stringList = WebUtil.highlightMatchingWords(WebUtil.getStringFromQuoteList(quoteList), quote);
+        //System.out.println("[**] stringList :: " + stringList);
+        quoteList = WebUtil.getQuoteFromStringList(stringList, quoteList);
+        //System.out.println("[**] quoteList :: " + quoteList);
         model.addAttribute("quotes", quoteList);
         model.addAttribute("searchResult", true);
         String searchInput = quote + " - Case" + (isCaseSensitive.equalsIgnoreCase("Y") ? " Sensitive" : "Insensitive");
