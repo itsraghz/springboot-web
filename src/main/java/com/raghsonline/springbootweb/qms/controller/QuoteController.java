@@ -6,10 +6,13 @@ import com.raghsonline.springbootweb.qms.model.Category;
 import com.raghsonline.springbootweb.qms.model.Quote;
 import com.raghsonline.springbootweb.qms.service.QuoteService;
 import com.raghsonline.springbootweb.qms.util.WebUtil;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import org.springframework.web.servlet.view.RedirectView;
@@ -17,10 +20,13 @@ import org.springframework.web.servlet.view.RedirectView;
 import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 @Controller
 @RequestMapping("/qms")
 public class QuoteController {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(QuoteController.class);
 
     @Autowired
     private QuoteService quoteService;
@@ -32,7 +38,7 @@ public class QuoteController {
 
     @PostConstruct
     public void postConstruct() {
-        System.out.println("QuoteController - PostConstruct called");
+        LOGGER.info("QuoteController - PostConstruct called");
         String[] quoteArray = new String[] {
                 "Sometimes you just need to forget what is gone, appreciate what still remains, and look forward to what’s coming next.",
                 "The secret of your FUTURE is hidden in your daily ROUTINE.",
@@ -61,7 +67,7 @@ public class QuoteController {
                 "Plenty of people miss their share of happiness, not because they never found it, but because they didn’t stop to enjoy it.",
                 "Sometimes god breaks your heart to save your soul."
         };
-        quoteService.saveQuote(new Quote("Beginning is half done!", "Raghavan Muthu"));
+        //quoteService.saveQuote(new Quote("Beginning is half done!", "Raghavan Muthu"));
         List<Quote> quoteList = new ArrayList<>();
         long idCounter = 2; //1 - has already been added in the Service class @PostConstruct
         int categoryCounter = 0;
@@ -70,11 +76,11 @@ public class QuoteController {
             quoteList.add(new Quote(idCounter++, quote, "UnKnown", Category.values()[categoryCounter].name()));
         }
         quoteService.saveAllQuotes(quoteList);
-        System.out.println("Quote entries added");
+        LOGGER.info("QuoteController - Quote entries added");
     }
 
     private int getCategoryIndex(int currVal) {
-        System.out.println("currVal : " + currVal + ", Category.values().length : " + Category.values().length);
+        LOGGER.debug("currVal : " + currVal + ", Category.values().length : " + Category.values().length);
         return (currVal+1) >= Category.values().length ? 0 : currVal+1;
     }
 
@@ -87,7 +93,7 @@ public class QuoteController {
 
     @GetMapping("/all/{field}")
     public String fetchAllQuotesWithSort(@PathVariable String field, Model model) {
-        System.out.println("fetchAllQuotesWithSort - /qms/all/{field} has been requested");
+        LOGGER.info("fetchAllQuotesWithSort - /qms/all/{field} has been requested");
         List<Quote> quoteList = quoteService.getAllQuotesWithSorting(field);
         model.addAttribute("quotes", quoteList);
         return "qms/list";
@@ -98,7 +104,7 @@ public class QuoteController {
             @PathVariable int offset,
             @PathVariable int pageSize,
             Model model) {
-        System.out.println("fetchAllQuotesWithPagination - " +
+        LOGGER.info("fetchAllQuotesWithPagination - " +
                 "/api/qms/all/{offset}/{pageSize} has been requested");
         Page<Quote> quoteList = quoteService.getAllQuotesWithPagination(offset, pageSize);
         List<Quote> quoteList1 = quoteList.getContent();
@@ -112,7 +118,7 @@ public class QuoteController {
             @PathVariable int pageSize,
             @PathVariable String field,
             Model model) {
-        System.out.println("fetchAllQuotesWithPaginationAndSort - " +
+        LOGGER.info("fetchAllQuotesWithPaginationAndSort - " +
                 "/api/qms/all/{offset}/{pageSize}/{field} has been requested");
         Page<Quote> quoteList = quoteService.getAllQuotesWithPaginationAndSort(offset, pageSize, field);
         List<Quote> quoteList1 = quoteList.getContent();
@@ -124,8 +130,7 @@ public class QuoteController {
     public String addQuote(Model model) {
         /* Error Message : java.lang.IllegalStateException: Neither BindingResult nor plain target object for bean name 'quote' */
         /* https://stackoverflow.com/questions/8781558/neither-bindingresult-nor-plain-target-object-for-bean-name-available-as-request */
-        System.out.println("/add GET request received");
-
+        LOGGER.info("/add GET request received");
 
         /* Has an NumberFormatException as it tried to map the quote with the Id.
         Not sure how to exclude Id, tried to have a hidden variable in the form but did not help.
@@ -138,24 +143,24 @@ public class QuoteController {
 
     @RequestMapping(value = "/insert2",method = RequestMethod.POST)
     public RedirectView insertQuote2(@ModelAttribute("quote") QuoteDTO quoteDTO, Model model, RedirectAttributes redirectAttributes) {
-        System.out.println("/insert2 POST request received,  quoteDTO :: " + quoteDTO);
+        LOGGER.info("/insert2 POST request received,  quoteDTO :: " + quoteDTO);
         final RedirectView redirectView = new RedirectView("/qms/add", true);
         Quote quote = getModelFromDTO(quoteDTO);
         long quoteId = quoteService.saveQuote(quote);
         redirectAttributes.addFlashAttribute("addSuccess", true);
         redirectAttributes.addFlashAttribute("savedQuoteId", quoteId);
-        System.out.println("quoteId inserted :: "+quoteId);
+        LOGGER.info("quoteId inserted :: "+quoteId);
         return redirectView;
     }
 
     @RequestMapping(value = "/insert",method = RequestMethod.POST)
     public String insertQuote(@ModelAttribute("quote") QuoteDTO quoteDTO, Model model) {
-        System.out.println("/insert POST request received,  quoteDTO :: " + quoteDTO);
+        LOGGER.info("/insert POST request received,  quoteDTO :: " + quoteDTO);
         Quote quote = getModelFromDTO(quoteDTO);
         long quoteId = quoteService.saveQuote(quote);
         model.addAttribute("addSuccess", true);
         model.addAttribute("savedQuoteId", quoteId);
-        System.out.println("quoteId inserted :: "+quoteId);
+        LOGGER.info("quoteId inserted :: "+quoteId);
         return "qms/add";
     }
 
@@ -166,36 +171,101 @@ public class QuoteController {
 
     @GetMapping("/about")
     public String aboutPage() {
-        System.out.println("/about page requested");
+        LOGGER.info("/about page requested");
         return "qms/about";
     }
 
     @GetMapping("/history")
     public String historyPage() {
-        System.out.println("/history page requested");
+        LOGGER.info("/history page requested");
         return "qms/history";
     }
 
     @GetMapping("/search")
     public String searchPage(Model model) {
-        System.out.println("/search page requested");
+        LOGGER.info("/search page requested");
         model.addAttribute("quote", new QuoteSearchDTO());
         return "qms/search";
     }
 
     @PostMapping("/search")
     public String searchQuote(@RequestParam String quote, @RequestParam String isCaseSensitive, Model model) {
-        System.out.println("/search POST page requested");
+        LOGGER.info("/search POST page requested");
         List<Quote> quoteList = quoteService.getAllQuotesByMatchingQuote(quote, isCaseSensitive.equalsIgnoreCase("Y"));
         List<String> stringList = WebUtil.highlightMatchingWords(WebUtil.getStringFromQuoteList(quoteList), quote);
-        //System.out.println("[**] stringList :: " + stringList);
+        LOGGER.debug("[**] stringList :: " + stringList);
         quoteList = WebUtil.getQuoteFromStringList(stringList, quoteList);
-        //System.out.println("[**] quoteList :: " + quoteList);
+        LOGGER.debug("[**] quoteList :: " + quoteList);
         model.addAttribute("quotes", quoteList);
         model.addAttribute("searchResult", true);
         String searchInput = quote + " - Case" + (isCaseSensitive.equalsIgnoreCase("Y") ? " Sensitive" : "Insensitive");
         model.addAttribute("searchInput", searchInput);
         return "qms/list";
+    }
+
+    @GetMapping("/edit/{quoteId}")
+    public String editQuote(@PathVariable Long quoteId, Model model) {
+        LOGGER.info("/edit POST page requested");
+        Optional<Quote> quote = quoteService.getQuote(quoteId);
+        if(quote.isPresent()) {
+            model.addAttribute("quoteObj", quote.get());
+            LOGGER.info("/edit quote :: "+ quote);
+        } else {
+            model.addAttribute("error", true);
+        }
+
+        return "qms/edit";
+    }
+
+    @RequestMapping(value = "/updateDTO",method = RequestMethod.POST)
+    public String updateQuoteWithDTO(@ModelAttribute("quoteObj") QuoteDTO quoteDTO, Model model,
+                              BindingResult bindingResult) {
+        LOGGER.info("/updateQuoteWithDTO POST request received,  quoteDTO :: " + quoteDTO);
+
+        if (bindingResult.hasErrors()) {
+            LOGGER.error("/update POST request has errors :: " + bindingResult.getAllErrors());
+            model.addAttribute("error", bindingResult.getAllErrors());
+            return "qms/edit";
+        }
+
+        Quote quote = getModelFromDTO(quoteDTO);
+        //quote.setId(quote.)
+        quoteService.updateQuote(quote);
+        return "qms/list";
+    }
+
+    @RequestMapping(value = "/update",method = RequestMethod.POST)
+    public String updateQuote(@ModelAttribute("quoteObj") Quote quoteObj) {
+        LOGGER.info("/update POST request received,  quote :: " + quoteObj);
+
+        /**
+         * Reference : https://stackoverflow.com/questions/69252187/springboot-web-jpa-jsp-with-jstl-type-conversion-error/69635785#69635785
+         * My own answer : https://stackoverflow.com/a/69635785/1001242
+         */
+
+        /*if (bindingResult.hasErrors()) {
+            LOGGER.error("/update POST request has errors :: " + bindingResult.getAllErrors());
+            model.addAttribute("error", bindingResult.getAllErrors());
+            return "qms/edit";
+        }*/
+
+        quoteService.updateQuote(quoteObj);
+        //return "qms/list";
+        return "qms/view";
+    }
+
+    @GetMapping("/view/{quoteId}")
+    public String viewQuote(@PathVariable Long quoteId, Model model) {
+        LOGGER.info("/view POST page requested, quoteId : " + quoteId);
+        Optional<Quote> quote = quoteService.getQuote(quoteId);
+        if(quote.isPresent()) {
+            model.addAttribute("quoteObj", quote.get());
+            LOGGER.info("/view quote :: "+ quote);
+        } else {
+            model.addAttribute("error", true);
+        }
+
+        return "qms/view";
     }
 
 }

@@ -1,11 +1,17 @@
 package com.raghsonline.springbootweb.qms.util;
 
 import org.junit.jupiter.api.Test;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Collectors;
 
 public class WebUtilTest {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(WebUtilTest.class);
 
     @Test
     public void testColoredOutput(){
@@ -22,10 +28,25 @@ public class WebUtilTest {
         String color = "maroon";
 
         for(String input : inputArray) {
-            System.out.println(WebUtil.highlightMatchingWords(input, target, color));
+            LOGGER.info(WebUtil.highlightMatchingWords(input, target, color));
         }
 
-        System.out.println(WebUtil.highlightMatchingWords(
+        List<String> stringList = (WebUtil.highlightMatchingWords(
                 Arrays.stream(inputArray).collect(Collectors.toList()), target));
+
+        LOGGER.info(stringList.toString());
+    }
+
+    @Test
+    public void testMatchHighlightingWords()
+    {
+        String quote1 = "Beginning is half done!";
+        String quote2 = "Where there is a will, there is a way!";
+
+        List<String> quote1List = new ArrayList<>();
+        List<String> quote2List = new ArrayList<>();
+
+        //quote1List.stream().map(x -> )
+
     }
 }

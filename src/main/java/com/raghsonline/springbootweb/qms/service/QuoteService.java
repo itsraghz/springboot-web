@@ -2,6 +2,8 @@ package com.raghsonline.springbootweb.qms.service;
 
 import com.raghsonline.springbootweb.qms.model.Quote;
 import com.raghsonline.springbootweb.qms.repository.QuoteRepository;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -9,20 +11,22 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
-import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class QuoteService {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(QuoteService.class);
 
     @Autowired
     private QuoteRepository quoteRepository;
 
     @PostConstruct
     public void postConstruct() {
-        System.out.println("QuoteService - PostConstruct called");
-        quoteRepository.saveAndFlush(new Quote(1L, "Beginning is half done!", "Raghavan Muthu"));
-        System.out.println("Quote entries added");
+        LOGGER.info("QuoteService - PostConstruct called");
+        //quoteRepository.saveAndFlush(new Quote(1L, "Beginning is half done!", "Raghavan Muthu"));
+        LOGGER.info("QuoteService - Quote entries added");
     }
 
     public Long saveQuote(Quote quote) {
@@ -57,5 +61,13 @@ public class QuoteService {
         return isCaseSensitive ?
                 quoteRepository.findQuotesByQuoteContaining(quote) :
                 quoteRepository.findQuotesByQuoteContainingIgnoreCase(quote);
+    }
+
+    public Optional<Quote> getQuote(Long quoteId) {
+        return quoteRepository.findById(quoteId);
+    }
+
+    public void updateQuote(Quote quote) {
+        quoteRepository.save(quote);
     }
 }

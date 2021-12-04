@@ -1,6 +1,9 @@
 package com.raghsonline.springbootweb.qms.util;
 
+import com.raghsonline.springbootweb.qms.controller.QuoteController;
 import com.raghsonline.springbootweb.qms.model.Quote;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.util.StringUtils;
 
 import java.util.List;
@@ -8,6 +11,8 @@ import java.util.Random;
 import java.util.stream.Collectors;
 
 public class WebUtil {
+
+    private static final Logger LOGGER = LoggerFactory.getLogger(WebUtil.class);
 
     public static final String DEFAULT_HIGHLIGHT_COLOR = "yellow";
 
@@ -41,11 +46,11 @@ public class WebUtil {
 
     public static List<Quote> getQuoteFromStringList(List<String> stringList, List<Quote> quoteList) {
         for(int i=0; i <= quoteList.size()-1; i++) {
-            //System.out.println("[---*--] stringList(" + i + ") : "+ stringList.get(i));
-            //System.out.println("[---*--] quoteList(" + i + ") : "+ quoteList.get(i));
+            //LOGGER.debug("[---*--] stringList(" + i + ") : "+ stringList.get(i));
+            //LOGGER.debug("[---*--] quoteList(" + i + ") : "+ quoteList.get(i));
             quoteList.get(i).setQuote(stringList.get(i));
         }
-        //System.out.println("quoteList --> " + quoteList);
+        //LOGGER.debug("quoteList --> " + quoteList);
         return quoteList;
     }
 
@@ -61,8 +66,22 @@ public class WebUtil {
                 //.filter(x -> x.contains(target))
                 .map(x -> x.replaceAll(target, coloredTarget))
                 .collect(Collectors.toList());
-
     }
+
+    public static List<String> highlightMatchingWordsWithFilter(List<String> inputList, String target) {
+        if(inputList==null || inputList.size()<=0) {
+            return inputList;
+        }
+
+        String coloredTarget = "<span style='background-color:" + getRandomColor() + "'>" + target + "</span>";
+
+        return inputList
+                .stream()
+                .filter(x -> x.contains(target))
+                .map(x -> x.replaceAll(target, coloredTarget))
+                .collect(Collectors.toList());
+    }
+
     public static String highlightMatchingWords(String input, String target) {
         return highlightMatchingWords(input, target, DEFAULT_HIGHLIGHT_COLOR);
     }
@@ -77,10 +96,10 @@ public class WebUtil {
         }
 
         String coloredTarget = "<span style='background-color:" + color + "'>" + target + "</span>";
-        //System.out.println("Colored Target : " + coloredTarget);
+        //LOGGER.debug("Colored Target : " + coloredTarget);
 
         String coloredOutput = input.replaceAll(target, coloredTarget);
-        //System.out.println("Colored Output : " + coloredOutput);
+        //LOGGER.debug("Colored Output : " + coloredOutput);
 
         return coloredOutput;
     }

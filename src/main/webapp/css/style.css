@@ -42,6 +42,18 @@ input[type=text] {
     font-weight: bold;
 }
 
+textarea, textarea.input {
+    font-family: "Bradley Hand ITC";
+    color: green;
+    font-weight: bold;
+}
+
+td.quote {
+    font-family: "Bradley Hand ITC";
+    color: gray;
+    font-weight: bold;
+}
+
 .colspan2 {
     text-align: center;
 }
@@ -124,7 +136,7 @@ span.searchHighlighted {
     color: black;
 }
 
-span.error {
+.error {
     color: red;
 }
 
@@ -154,4 +166,8 @@ a::after {
 a:hover::after {
     animation: anchor-underline 2s cubic-bezier(0,.5,0,1) infinite;
     border-color: #457DFB;
+}
+
+* {
+    font-family: 'Lora', serif;
 }

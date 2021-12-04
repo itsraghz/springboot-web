@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-web" />
-        <module name="springboot-web-jsp" />
         <module name="web-app-jsp" />
+        <module name="spring-security-demo" />
+        <module name="springboot-web-jsp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-security-demo" target="11" />
       <module name="springboot-thymeleaf" target="11" />
       <module name="springboot-web" target="11" />
       <module name="springboot-web-jsp" target="11" />
@@ -22,6 +24,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-security-demo" options="-parameters" />
       <module name="springboot-thymeleaf" options="-parameters" />
       <module name="springboot-web" options="-parameters" />
       <module name="springboot-web-jsp" options="-parameters" />

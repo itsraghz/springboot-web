@@ -16,5 +16,14 @@ List of activities - Completed
 * Create - JSP flow
 * Create - Controller, Service, Repository Link
 * End-to-End Testing - Create Flow 
+* Cosmetic changes - Highlight the search keyword in the result
 
+## WIP 
+
+* Use logger framework (logback)
+* Audit columns to be used for the Entities - `Quote`
+
+## Pending
+
+* Change to MongoDB
 * Data Set up - Part II (Data Migration - ETL)

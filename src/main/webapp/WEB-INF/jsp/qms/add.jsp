@@ -45,7 +45,5 @@
                     </td>
                 </tr>
             </table>
-
-
         </form:form>
 <%@ include file="footer.jsp"%>
