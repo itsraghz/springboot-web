@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+    <div th:replace="fragments/header :: headers"></div>
+    <body>
+        <div th:replace="fragments/menu :: menu"></div>
+        <h3>Free Learning Entry Details</h3>
+        <p>The details of the requested entry is given below.</p>
+        <table>
+            <thead>
+                <th>Field</th>
+                <th>Value</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Id</td>
+                    <td th:text="${entry.id}"></td>
+                </tr>
+                <tr>
+                    <td>Order Date</td>
+                    <td th:text="${#dates.format(entry.orderDate,'dd MMM yyyy')}"></td>
+                </tr>
+                <tr>
+                    <td>Title</td>
+                    <td>
+                        <a th:href="@{/book/get(id=${entry.book.id})}">
+                            <span th:text="${entry.book.title}"/>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Downloaded Source ?</td>
+                    <td th:text="${entry.downloadedSource}? 'Yes' : 'No'"></td>
+                </tr>
+                <tr>
+                    <td>Downloaded Book ?</td>
+                    <td th:text="${entry.downloadedBook}? 'Yes' : 'No'"></td>
+                </tr>
+                <tr>
+                    <td>Duplicate ?</td>
+                    <td th:text="${entry.duplicate}? 'Yes' : 'No'"></td>
+                </tr>
+                <tr>
+                    <td>ReadOnly ?</td>
+                    <td th:text="${entry.readOnly}? 'Yes' : 'No'"></td>
+                </tr>
+                <tr>
+                    <td>Survey Gift ?</td>
+                    <td th:text="${entry.surveyGift}? 'Yes' : 'No'"></td>
+                </tr>
+                <tr>
+                    <td>Description</td>
+                    <td th:text="${entry.description}"></td>
+                </tr>
+                <tr>
+                    <td>Raw Text</td>
+                    <td th:text="${entry.rawText}"></td>
+                </tr>
+                <tr>
+                    <td>Remarks</td>
+                    <td th:text="${entry.remarks}"></td>
+                </tr>
+                <tr>
+                    <td>Created Date</td>
+                    <td th:text="${entry.createdDate}"></td>
+                </tr>
+                <tr>
+                    <td>Created By</td>
+                    <td th:text="${entry.createdBy}"></td>
+                </tr>
+                <tr>
+                    <td>Modified Date</td>
+                    <td th:text="${entry.modifiedDate}"></td>
+                </tr>
+                <tr>
+                    <td>Modified By</td>
+                    <td th:text="${entry.modifiedBy}"></td>
+                </tr>
+            </tbody>
+        </table>
+        <div th:replace="fragments/footer :: copy"></div>
+    </body>
+</html>

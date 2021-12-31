@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+    <div th:replace="fragments/header :: headers"></div>
+    <body>
+        <div th:replace="fragments/menu :: menu"></div>
+        <h3>Add a new book</h3>
+        <p>Enter the details pertaining to the book</p>
+        <form name="bookAddForm" method="POST"
+              th:action="@{/book/save}"
+              th:object="${book}">
+            <table>
+                <thead>
+                    <th>Field</th>
+                    <th>Value</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Title</td>
+                        <td>
+                            <input type="text" name="title" class="form-control"
+                                   size="50" th:required="true"
+                                   placeholder="Title of the Book"
+                                   value="AWS Certified Solutions Architect - Associate Guide"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{title}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>ISBN</td>
+                        <td>
+                            <input type="text" name="isbn" class="form-control"
+                                   size="50" th:required="false"
+                                   value="9781785287817"
+                                   placeholder="ISBN of the Book"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{isbn}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Author(s)</td>
+                        <td>
+                            <input type="text" name="authors" class="form-control"
+                                   size="50" th:required="true"
+                                   value="Gabriel Ramirez, Stuart Scott"
+                                   placeholder="Authors of the Book"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{authors}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Publication Date</td>
+                        <td>
+                            <input type="text" name="publicationDate" class="form-control"
+                                   size="50" th:required="true"
+                                   value="October 201"
+                                   placeholder="Publication Date of the Book"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{publicationDate}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Has Source Code?</td>
+                        <td>
+                            <input class="form-control" type="radio" th:field="*{hasSourceCode}" value="Yes" />Yes
+                            <input class="form-control" type="radio" th:field="*{hasSourceCode}" value="No" th:checked="true"/>No
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>URL</td>
+                        <td>
+                            <input type="text" name="url" class="form-control"
+                                   size="50"
+                                   value="https://subscription.packtpub.com/book/virtualization-and-cloud/9781789130669"
+                                   placeholder="URL of the Book"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{url}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Remarks</td>
+                        <td>
+                            <input type="text" name="remarks" class="form-control"
+                                   size="50"
+                                   value="ISBN : 9781789130669"
+                                   placeholder="Remarks of the Book"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{remarks}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+
+                        </td>
+                        <td>
+                            <input type="submit" name="Add" value="Add"/>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+        <div th:replace="fragments/footer :: copy"></div>
+    </body>
+</html>

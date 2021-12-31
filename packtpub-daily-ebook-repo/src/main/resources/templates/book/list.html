@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+    <div th:replace="fragments/header :: headers"></div>
+    <body>
+        <div th:replace="fragments/menu :: menu"></div>
+        <hr/>
+        <b>Database Used : </b> <span th:text="${databaseName}"/>
+        <hr/>
+        <h3>Listing all the books</h3>
+        <p>Below are the set of books currently available in the repository.</p>
+        <table>
+            <thead>
+                <th>Id</th>
+                <th>Title</th>
+                <th>Author(s)</th>
+                <th>Publication Date</th>
+                <th>ISBN</th>
+                <!--<th>Has Source Code?</th>
+                <th>URL</th>-->
+                <th>Remarks</th>
+            </thead>
+            <tbody>
+                <tr th:each="book: ${books}">
+                   <!-- <td th:text="${book.id}"></td>-->
+                    <td class="center">
+                        <a th:href="@{/book/get(id=${book.id})}">
+                            <span th:text="${book.id}"/>
+                        </a>
+                        &nbsp; | &nbsp;
+                        <a th:href="@{/book/edit(id=${book.id})}">
+                            <span th:text="E"/>
+                        </a>
+                    </td>
+                    <td th:text="${book.title}"></td>
+                    <td th:text="${book.authors}"></td>
+                    <td th:text="${book.publicationDate}"></td>
+                    <td th:text="${book.isbn}"></td>
+                    <!--<td th:text="${book.hasSourceCode}? 'Yes' : 'No'"></td>
+                    <td>
+                        &lt;!&ndash;/* Reference:
+                        https://blog.bolajiayodeji.com/the-security-vulnerabilities-of-the-target_blank-attribute */&ndash;&gt;
+                        <a th:href="@{${book.url}}" target="_blank" rel="noopener noreferrer">
+                            <span th:text="${book.url}"/>
+                        </a>
+                    </td>-->
+                    <td th:text="${book.remarks}"></td>
+                </tr>
+            </tbody>
+        </table>
+        <div th:replace="fragments/footer :: copy"></div>
+    </body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+    <div th:replace="fragments/header :: headers"></div>
+    <body>
+        <div th:replace="fragments/menu :: menu"></div>
+        <h3>Search Book Details</h3>
+        <span class="error">Enter minimum 3 characters for an optimal/efficient search</span> <br/>
+        <form name="bookSearchForm" id="bookSearchForm"
+              method="POST"
+              th:action="@{/book/search}"
+              th:object="${book}">
+            <table>
+                <tr>
+                    <td>
+                        <input type="text" name="searchTxt"
+                               id="searchTxt" class="form-control"
+                               size="250" th:required="true"
+                               value="Gabriel Ramirez, Stuart Scott"
+                               placeholder="Title/ISBN/Authors of the Book"
+                               th:onkeyup = "javascript:searchBooks();"
+                               th:attr="value = 2021-12-21"
+                               th:field="*{searchTxt}"
+                        />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input class="form-control" type="radio" id="searchCriteria" th:field="*{searchCriteria}" value="Title" th:onclick="changeRadio()">Title</input>
+                        <input class="form-control" type="radio" id="searchCriteria" th:field="*{searchCriteria}" value="ISBN" th:onclick="changeRadio()" >ISBN</input>
+                        <input class="form-control" type="radio" id="searchCriteria" th:field="*{searchCriteria}" value="Authors" th:onclick="changeRadio()" >Authors</input>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="submit" name="Search" value="Search"/>
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <div id="results">
+
+        </div>
+        <div th:replace="fragments/footer :: copy"></div>
+    </body>
+</html>

@@ -36,6 +36,12 @@ public class QuoteController {
         return "qms/list";
     }
 
+    @RequestMapping("/webfontDemo")
+    public static String webFontDemoPage() {
+        LOGGER.info("QuoteController - webfontDemo called");
+        return "webFontDemo/LoraFontDemo";
+    }
+
     @PostConstruct
     public void postConstruct() {
         LOGGER.info("QuoteController - PostConstruct called");

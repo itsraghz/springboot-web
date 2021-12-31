@@ -1,0 +1,37 @@
+server:
+  port: 11111
+
+# ------------------------------------------
+#       H2 Database Settings
+# ------------------------------------------
+# temporary data storage
+# spring.datasource.url=jdbc:h2:mem:testdb
+
+spring:
+  session:
+    store-type: jdbc
+    jdbc:
+        initialize-schema: always
+    timeout: 600
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/packtpub-freelearning?createDatabaseIfNotExist=true
+      #url: jdbc:mysql://localhost:3306/bkup-packtpub-freelearning?createDatabaseIfNotExist=true
+      username: raghs
+      password: RaghsMySQL12#
+
+  jpa:
+    hibernate:
+      #ddl-auto: create
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+      #javax-persistence:
+      #    schema-generation:
+      #      scripts:
+      #          action:
+      #          create-target: create.sql
