@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/packtpub-daily-ebook-repo/packtpub-daily-ebook-repo.iml" filepath="$PROJECT_DIR$/packtpub-daily-ebook-repo/packtpub-daily-ebook-repo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-security-demo/spring-security-demo.iml" filepath="$PROJECT_DIR$/spring-security-demo/spring-security-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-web.iml" filepath="$PROJECT_DIR$/springboot-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-web-jsp/springboot-web-jsp.iml" filepath="$PROJECT_DIR$/springboot-web-jsp/springboot-web-jsp.iml" />

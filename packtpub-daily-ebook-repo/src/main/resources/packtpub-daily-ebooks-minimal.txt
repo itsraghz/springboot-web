@@ -37,3 +37,12 @@
 29 Dec 2021 - #ReadOnly Free eBook - Network Programming with Rust ISBN: 9781788624893 By Abhishek Chanda Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788624893/1 } #CodeNotDownloaded
 30 Dec 2021 - Free eBook - Pocket CIO - The Guide to Successful IT Asset Management ISBN : 9781783001002 By Phara Estime McLachlan Publication date: Mar 2018 { URL : https://subscription.packtpub.com/book/business/9781783001002/1 } #CodeNotAvailable
 31 Dec 2021 - #Duplicate Free eBook - PostgreSQL 11 Administration Cookbook ISBN : 9781789537581 By Simon Riggs , Gianni Ciolli , Sudheer Kumar Meesala Publication date: May 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789537581/1 } #CodeNotDownloaded
+
+01 Jan 2022 - Free eBook - Python For Offensive PenTest ISBN : 9781788838979 By Hussam Khrais Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788838979/1 }
+02 Jan 2022 - Free eBook - Python Microservices Development ISBN : 9781785881114 By Tarek Ziadé Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/web-development/9781785881114/1 }
+03 Jan 2022 - Free eBook - React Material-UI Cookbook ISBN : 9781789615227 By Adam Boduch Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789615227/1 }
+04 Jan 2022 - Free eBook - React Native Cookbook - Second Edition ISBN : 9781788991926 By Daniel Ward Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781788991926/1 }
+05 Jan 2022 - Free eBook - User Experience Mapping ISBN : 9781787123502 By Peter W. Szabo Publication date: May 2017 { URL : https://subscription.packtpub.com/book/application-development/9781787123502/1 } #CodeNotAvailable
+06 Jan 2022 - Free eBook - UX Design for Mobile By Pablo Perea , Pau Giner Publication date: Jul 2017 Pages: 354 { URL : https://subscription.packtpub.com/book/application-development/9781787283428/1 }
+07 Jan 2022 - Free eBook - WordPress Plugin Development Cookbook - Second Edition ISBN : 9781788291187 By Yannick Lefebvre Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/web-development/9781788291187/1} #BookNotDownloaded #CodeNotDownloaded
+08 Jan 2022 - { URL : }

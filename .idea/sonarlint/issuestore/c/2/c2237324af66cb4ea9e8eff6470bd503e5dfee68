@@ -1,0 +1,16 @@
+
+K
+java:S3740!"/Provide the parametrized type for this generic.(¼ïh8õÏ¶µ½/
+K
+java:S3740("/Provide the parametrized type for this generic.(¼ïh8Á·¶½/
+L
+java:S37402"/Provide the parametrized type for this generic.(ˆ»‚€8‰ß·½/
+L
+java:S3740="/Provide the parametrized type for this generic.(ˆ»‚€8°Ş·½/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‘˜Éúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ĞêÁ
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Õ¤œÿÿÿÿÿ8›Á·¶½/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ä™‘øÿÿÿÿ8šß·½/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(—‹şò8§°Ş·½/
+{
+java:S1128"YRemove this unused import 'com.raghsonline.springbootweb.qms.repository.QuoteRepository'.(Àâ¡ßıÿÿÿÿ8“Ğ¤»½/

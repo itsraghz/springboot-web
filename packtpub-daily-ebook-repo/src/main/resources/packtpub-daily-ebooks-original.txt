@@ -615,7 +615,7 @@ Packtpub Free Ebook
 20 Dec 2021 - Free eBook - Hands-On Embedded Programming with C++17 By Maya Posch Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781788629300/1 } #CodeNotDownloaded #ReadOnly
 21 Dec 2021 - Free eBook - IPython Interactive Computing and Visualization Cookbook - Second Edition By Cyrille Rossant Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781785888632/1 }
 22 Dec 2021 - Free eBook - Learn Social Engineering ISBN : 9781788837927 By Dr. Erdal Ozkaya Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788837927/1 } #CodeNotAvailable
-22 Dec 2021 - #SurveyGift Free eBook - Mastering Machine Learning on AWS ISBN : 9781789349795  By Dr. Saket S.R. Mengle, Maximo Gurmendez Publication date: May 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789349795/1 }
+22 Dec 2021 - #SurveyGift Free eBook - Mastering Machine Learning on AWS ISBN : 9781789349795  By Dr. Saket S.R. Mengle, Maximo Gurmendez Publication date: May 2019 {URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789349795/1 }
 23 Dec 2021 - Free eBook - LLVM Essentials ISBN : 9781785280801 By Suyog Sarda , Mayur Pandey Publication date: Dec 2015 { URL : https://subscription.packtpub.com/book/application-development/9781785280801/1 }
 24 Dec 2021 - Free eBook - Machine Learning with R - Second Edition ISBN : 9781784393908 By Brett Lantz Publication date: Jul 2015 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781784393908/1 } #CodeNotDownloaded
 25 Dec 2021 - Free eBook - Mastering Drupal 8 ISBN : 9781785885976 By Chaz Chumley , William Hurley Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/web-development/9781785885976/1 }  #CodeNotDownloaded
@@ -626,3 +626,14 @@ Packtpub Free Ebook
 30 Dec 2021 - Free eBook - Pocket CIO - The Guide to Successful IT Asset Management ISBN : 9781783001002 By Phara Estime McLachlan Publication date: Mar 2018 { URL : https://subscription.packtpub.com/book/business/9781783001002/1 } #CodeNotAvailable
 31 Dec 2021 - #Duplicate Free eBook - PostgreSQL 11 Administration Cookbook ISBN : 9781789537581 By Simon Riggs , Gianni Ciolli , Sudheer Kumar Meesala Publication date: May 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789537581/1 } #CodeNotDownloaded
 
+01 Jan 2022 - Free eBook - Python For Offensive PenTest ISBN : 9781788838979 By Hussam Khrais Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788838979/1 }
+02 Jan 2022 - Free eBook - Python Microservices Development ISBN : 9781785881114 By Tarek Ziadé Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/web-development/9781785881114/1 }
+03 Jan 2022 - Free eBook - React Material-UI Cookbook ISBN : 9781789615227 By Adam Boduch Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789615227/1 }
+04 Jan 2022 - Free eBook - React Native Cookbook - Second Edition ISBN : 9781788991926 By Daniel Ward Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781788991926/1 }
+05 Jan 2022 - Free eBook - User Experience Mapping ISBN : 9781787123502 By Peter W. Szabo Publication date: May 2017 { URL : https://subscription.packtpub.com/book/application-development/9781787123502/1 } #CodeNotAvailable
+06 Jan 2022 - Free eBook - UX Design for Mobile By Pablo Perea , Pau Giner Publication date: Jul 2017 Pages: 354 { URL : https://subscription.packtpub.com/book/application-development/9781787283428/1 }
+07 Jan 2022 - Free eBook - WordPress Plugin Development Cookbook - Second Edition ISBN : 9781788291187 By Yannick Lefebvre Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/web-development/9781788291187/1} #BookNotDownloaded #CodeNotDownloaded
+08 Jan 2022 - { URL : }
+09 Jan 2022 - { URL : }
+10 Jan 2022 - { URL : }
+11 Jan 2022 - { URL : }
