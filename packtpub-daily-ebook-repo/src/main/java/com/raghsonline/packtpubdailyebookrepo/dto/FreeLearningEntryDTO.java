@@ -5,6 +5,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import javax.persistence.Column;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -26,6 +28,7 @@ public class FreeLearningEntryDTO {
 
     private boolean surveyGift = false;
 
+    @Column(length = 500)
     private String description;
 
     private String rawText;

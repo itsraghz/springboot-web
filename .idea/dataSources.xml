@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/packtpub-freelearning</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="MySQL - bkup-packtpub-freelearning@localhost" uuid="015a1a3f-f3d1-4b34-9bec-0e42cbb286c7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/bkup-packtpub-freelearning</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>

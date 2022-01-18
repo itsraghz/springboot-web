@@ -67,9 +67,10 @@
                         </thead>
                         <tbody>
                                 <c:forEach items="${quotes}" var="quote">
+                                        <c:url var="view_book_url" value="/qms/view/${quote.id}"/>
                                         <c:url var="edit_book_url" value="/qms/edit/${quote.id}"/>
                                         <tr>
-                                                <td>${quote.id} | <a href=${edit_book_url}>E</a></td>
+                                                <td>${quote.id} | <a href=${view_book_url}>V</a> | <a href=${edit_book_url}>E</a></td>
                                                 <td>${quote.category}</td>
                                                 <td>${quote.author}</td>
                                                 <c:set var="dateActual" value="${quote.dateAdded}"/>

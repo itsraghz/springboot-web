@@ -11,17 +11,19 @@
                 </div>
             </c:when>
             <c:otherwise>
-                <c:url var="update_quote_url" value="/qms/update"/>
-                <form:form action="${update_quote_url}" method="post" modelAttribute="quote">
+                <c:url var="update_quote_url_not-working" value="/qms/update"/>
+                <c:url var="update_quote_url" value="/qms/update/${quote.id}"/>
+                <form:form action="${update_quote_url}" method="post" modelAttribute="quoteObj">
                     <form:errors path="*" cssClass="errorBox"/>
                     <table class='table table-striped'>
-                        <form:hidden path="id"/>
+                        <%--<form:input type="hidden" path="id" type="number" value="${quote.id}"/>--%>
                         <tr>
                             <td>
                                 <form:label path="id">Id: </form:label>
                             </td>
                             <td>
-                                <form:label path="id">${quote.id}</form:label>
+                            <%-- ${quote.id} --%>
+                                <form:input path="id" type="number" value="${quote.id}" readonly="true"/>
                             </td>
                         </tr>
                         <tr>
@@ -29,8 +31,9 @@
                                 <form:label path="quote">Quote: </form:label>
                             </td>
                             <td>
-                                <form:input type="text" path="quote" size="50"
-                                        placeholder="Beginning is half done!"
+                                <form:textarea path="quote"
+                                               rows = "3" cols = "70"
+                                               placeholder="Beginning is half done!"
                                         value="${quote.quote}"/>
                             </td>
                         </tr>
@@ -53,9 +56,9 @@
                             </td>
                         </tr>
                         <tr>
-`                           <td colspan="2" class='colspan2'>
+                            <td colspan="2" class='colspan2'>
                                 <input type="submit" value="Update"/>
-                            </td>`
+                            </td>
                         </tr>
                     </table>
                 </form:form>

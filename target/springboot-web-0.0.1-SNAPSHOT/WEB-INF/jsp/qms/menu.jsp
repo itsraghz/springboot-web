@@ -10,4 +10,6 @@
                 <a href=<%=request.getContextPath()%>/qms/search>Search a Quote</a>
                 &nbsp;&nbsp; | &nbsp;&nbsp;
                 <a href=<%=request.getContextPath()%>/qms/history>Version History</a>
+            &nbsp;&nbsp;     | &nbsp;&nbsp;
+                <a href=<%=request.getContextPath()%>/qms/webfontDemo>Lora Font Demo</a>
         </p>

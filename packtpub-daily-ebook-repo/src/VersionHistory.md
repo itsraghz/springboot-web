@@ -1,5 +1,28 @@
 # Version History
 
+## ToDO
+
+* Make a default selection of the latest entry of the Book, in the new Free Learning Entry page.
+* If Duplicate is chosen, automatically it should select No for Downloaded Book or Source.
+
+## MySQL Commands 
+
+```sql
+mysqldump --quote-names -q -u username1 --password='password1' originalDB | mysql -u username2 --password='password2' duplicateDB
+
+mysqldump -u raghs -p'RaghsMySQL12\#' `packtpub-freelearning` --single-transaction | mysql -u raghs -p'RaghsMySQL12\#' `bkup-packtpub-freelearning`
+
+mysql -u base_user -pbase_user_pass -e "create database new_db; GRANT ALL PRIVILEGES ON new_db.* TO new_db_user@localhost IDENTIFIED BY 'new_db_user_pass'"
+
+mysql -u raghs -pRaghsMySQL12\# -e "create database bkup-packtpub-freelearning"
+```
+## V2.2 - 18 Jan 2022, Tuesday
+
+* Copied the `Remarks` from FreeLearningEntry to the Book in the `/saveRaw` method.
+
+## V2.1 - 15 Jan 2022, Sunday
+
+* Utility to grab a Raw Text and parse the fields appropriately for all the entries, description and remarks can be additional - `addRaw` and `saveRaw`.
 ## V 2.0 - 01 Jan 2022, Saturday
 
 * Spring Session enabled with the MVC

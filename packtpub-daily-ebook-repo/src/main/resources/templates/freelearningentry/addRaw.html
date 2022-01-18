@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+    <div th:replace="fragments/header :: headers"></div>
+    <body>
+        <div th:replace="fragments/menu :: menu"></div>
+        <h3>Add a new Free Learning Entry - Raw Text</h3>
+        <p>Enter the details pertaining to the entry</p>
+        <form name="entryAddForm" method="POST"
+              th:action="@{/freelearningentry/saveRaw}"
+              th:object="${rawEntryDTO}">
+            <table>
+                <thead>
+                    <th>Field</th>
+                    <th>Value</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Raw Text</td>
+                        <td>
+                            <input type="text" name="rawText" class="form-control"
+                                   size="50" th:required="true"
+                                   th:placeholder="*{rawText}"
+                                   th:attr="value = RawText"
+                                   th:field="*{rawText}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Remarks</td>
+                        <td>
+                            <input type="text" name="remarks" class="form-control"
+                                   size="50" th:required="false"
+                                   placeholder="Description of the Book"
+                                   th:placeholder="*{Remarks}"
+                                   th:attr="value = Remarks"
+                                   th:field="*{Remarks}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Description</td>
+                        <td>
+                            <input type="text" name="description" class="form-control"
+                                   size="50" th:required="false"
+                                   placeholder="Raw Text of the Book"
+                                   th:placeholder="*{description}"
+                                   th:attr="value = Description"
+                                   th:field="*{description}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Test</td>
+                        <td>
+                            <input type="text" name="test" class="form-control"
+                                   size="50" th:required="false"
+                                   placeholder="Raw Text of the Book"
+                                   th:placeholder="*{test}"
+                                   th:attr="value = Test"
+                                   th:field="*{test}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="submit" name="Add" value="Add"/>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+        <div th:replace="fragments/footer :: copy"></div>
+    </body>
+</html>
