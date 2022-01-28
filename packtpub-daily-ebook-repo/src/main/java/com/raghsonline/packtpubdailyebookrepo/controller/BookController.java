@@ -2,8 +2,10 @@ package com.raghsonline.packtpubdailyebookrepo.controller;
 
 import com.raghsonline.packtpubdailyebookrepo.dto.SearchBookDTO;
 import com.raghsonline.packtpubdailyebookrepo.entity.Book;
+import com.raghsonline.packtpubdailyebookrepo.entity.FreeLearningEntry;
 import com.raghsonline.packtpubdailyebookrepo.service.BookService;
 import com.raghsonline.packtpubdailyebookrepo.util.SearchUtil;
+import com.raghsonline.packtpubdailyebookrepo.util.StringUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
@@ -96,9 +98,14 @@ public class BookController {
         log.info("BookController - Request received to update a book - " + book);
         book.setModifiedBy("Raghs");
         book.setModifiedDate(new java.util.Date());
+
+        book.setRemarks(StringUtil.getUTF8String(book.getRemarks()));
+        book.setAuthors(StringUtil.getUTF8String(book.getAuthors()));
+        book.setRemarks(StringUtil.getUTF8String(book.getRemarks()));
+
         log.info("BookController - updated Book Info - " + book);
         book = bookService.saveBook(book);
-        log.info("BookController - Book Details uddated!:");
+        log.info("BookController - Book Details updated!:");
         book = bookService.getBook(book.getId());
         model.addAttribute("book", book);
         return "book/view";

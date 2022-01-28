@@ -138,8 +138,6 @@ W
 'packtpub-daily-ebook-repo/sql/backup.sh,9\f\9f45286da886085e3a7a617232fc37adac54b0fe
 ò
 hpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/types/BookFormatEnum.java,c\d\cd0e8482b0b257a6ccb99980308a9cc43c890c56
-õ
-kpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/runner/BookInsertRunner.java,6\4\64ea615461afa9ff4a854397cc24414c9c350026
 ù
 mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/repository/BookRepository.java,a\f\af3a227241839ef007007aa6b2532571feb74998
 ó
@@ -154,8 +152,6 @@ b
 lpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/entity/FreeLearningEntry.java,b\0\b055b75e2ac8dbffd4a595361bc73fe797af7cd1
 ™
 zpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/repository/FreeLearningEntryRepository.java,e\b\eb703df6e2737d4ee09b3e82925e482938c23b4d
-§
-tpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/service/FreeLearningEntryService.java,9\4\94ae9ae56531d8cdedf6d1c3a261772b28552ded
 ≠
 }packtpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/service/impl/FreeLearningEntryServiceImpl.java,6\d\6de2ebfdcc9764b4e55192269a3b0e9822dbeed6
 b
@@ -402,3 +398,5 @@ _packtpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/
 mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/HomeController.java,b\e\be6c04eef6d941fe74faa40238e630c78625fc3e
 °
 qpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/BookRestController.java,9\2\92aa2ed1603aaebe6dc306be73d2ae82f170073d
+ñ
+fpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/util/TextExtractor.java,1\6\16c5e33047ebefebd9b31ce35359990fc2d5eaa0

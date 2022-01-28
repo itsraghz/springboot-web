@@ -16,6 +16,12 @@ mysql -u base_user -pbase_user_pass -e "create database new_db; GRANT ALL PRIVIL
 
 mysql -u raghs -pRaghsMySQL12\# -e "create database bkup-packtpub-freelearning"
 ```
+
+## V2.3 - 28 Jan 2022, Friday
+
+* Source text files updated with up-to-date book details
+* WIP - /updateRaw for the Edit free learning entry
+
 ## V2.2 - 18 Jan 2022, Tuesday
 
 * Copied the `Remarks` from FreeLearningEntry to the Book in the `/saveRaw` method.

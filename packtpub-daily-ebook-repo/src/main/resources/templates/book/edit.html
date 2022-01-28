@@ -5,7 +5,7 @@
         <div th:replace="fragments/menu :: menu"></div>
         <h3>Edit the book</h3>
         <p>Enter the details pertaining to the book</p>
-        <form name="bookAddForm" method="POST"
+        <form name="bookEditForm" method="POST"
               th:action="@{/book/update}"
               th:object="${book}">
             <table>

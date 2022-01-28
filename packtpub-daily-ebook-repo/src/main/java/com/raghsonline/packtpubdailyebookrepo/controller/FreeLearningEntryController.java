@@ -6,6 +6,7 @@ import com.raghsonline.packtpubdailyebookrepo.entity.Book;
 import com.raghsonline.packtpubdailyebookrepo.entity.FreeLearningEntry;
 import com.raghsonline.packtpubdailyebookrepo.service.BookService;
 import com.raghsonline.packtpubdailyebookrepo.service.FreeLearningEntryService;
+import com.raghsonline.packtpubdailyebookrepo.util.StringUtil;
 import com.raghsonline.packtpubdailyebookrepo.util.TextExtractor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
@@ -13,6 +14,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
+import java.nio.charset.StandardCharsets;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
@@ -163,6 +165,7 @@ public class FreeLearningEntryController {
     }
 
     private FreeLearningEntry getModelFromDTO(RawEntryDTO rawEntryDTO) {
+        log.info("FreeLearningEntryController - getModelFromDTO() invoked with rawEntryDTO - " + rawEntryDTO);
         FreeLearningEntry entry = new FreeLearningEntry();
 
         String rawText = rawEntryDTO.getRawText();
@@ -188,12 +191,90 @@ public class FreeLearningEntryController {
         entry.setReadOnly(rawEntryDTO.isReadOnly());
         entry.setSurveyGift(rawEntryDTO.isSurveyGift());*/
 
-        entry.setDescription(rawEntryDTO.getDescription());
-        entry.setRawText(rawEntryDTO.getRawText());
-        entry.setRemarks(rawEntryDTO.getRemarks());
+        entry.setDescription(StringUtil.getUTF8String(rawEntryDTO.getDescription()));
+        entry.setRawText(StringUtil.getUTF8String(rawEntryDTO.getRawText()));
+        entry.setRemarks(StringUtil.getUTF8String(rawEntryDTO.getRemarks()));
 
         entry.getBook().setRemarks(rawEntryDTO.getRemarks());
 
         return entry;
     }
+
+    @GetMapping("/edit")
+    public String editEntry(@RequestParam("id") Long id, Model model) {
+        log.info("FreeLearningEntryController - Request received for editing an entry with Id - " + id);
+
+        FreeLearningEntry entry = freeLearningEntryService.getLearningEntry(id);
+        model.addAttribute("entry", entry);
+
+        FreeLearningEntryDTO entryDTO = getDTOFromEntry(entry);
+        model.addAttribute("entryDTO", entryDTO);
+
+        Page<Book> books = bookService.getAllBooksWithPaginationAndSort(0, 10, "Id");
+        model.addAttribute("books", books);
+
+        return "freelearningentry/edit";
+    }
+
+    private FreeLearningEntryDTO getDTOFromEntry(FreeLearningEntry entry) {
+        log.info("FreeLearningEntryController - getDTOFromEntry() , entry : " + entry);
+
+        FreeLearningEntryDTO entryDTO = new FreeLearningEntryDTO();
+
+        entryDTO.setBookId(null!=entry.getBook() ? entry.getBook().getId() : -1);
+        entryDTO.setDescription(entry.getDescription());
+        entryDTO.setDuplicate(entry.isDuplicate());
+        entryDTO.setDownloadedBook(entry.isDownloadedBook());
+        entryDTO.setDownloadedSource(entry.isDownloadedSource());
+        entryDTO.setOrderDate(String.valueOf(entry.getOrderDate()));
+        entryDTO.setRemarks(entry.getRemarks());
+        entryDTO.setSurveyGift(entry.isSurveyGift());
+        entryDTO.setRawText(entry.getRawText());
+        entryDTO.setReadOnly(entry.isReadOnly());
+
+        return entryDTO;
+    }
+
+    @PostMapping("/updateRaw")
+    public String updateRawEntry(@ModelAttribute("rawEntryDTO") FreeLearningEntryDTO entryDTO, Model model) {
+        log.info("FreeLearningEntryController - Request received to update an entryDTO - " + entryDTO);
+
+        //ERRENOUS! FreeLearningEntry entry = getModelFromDTO(rawEntryDTO);
+        FreeLearningEntry entry = getEntryFromDTO(entryDTO);
+        log.info("FreeLearningEntryController - the entry from getModelFromDTO : " + entry);
+
+        entry.setModifiedBy("Raghs");
+        entry.setModifiedDate(new java.util.Date());
+
+        //entry = freeLearningEntryService.saveLearningEntry(entry);
+        log.info("FreeLearningEntryController - entry is updated - entry : " + entry);
+
+        entry = freeLearningEntryService.getLearningEntry(entry.getId());
+        log.info("FreeLearningEntryController - entry with the ID : " + entry.getId() + " : " + entry);
+
+        model.addAttribute("entry", entry);
+        return "freelearningentry/view";
+    }
+
+    private FreeLearningEntry getEntryFromDTO(FreeLearningEntryDTO entryDTO) {
+        log.info("FreeLearningEntryController - getDTOFromEntry() , entryDTO : " + entryDTO);
+
+        FreeLearningEntry entry = new FreeLearningEntry();
+
+        //entry.setBookId(null!=entryDTO.getBook() ? entryDTO.getBook().getId() : -1);
+        entry.setId(entryDTO.getId());
+        entry.setDescription(entryDTO.getDescription());
+        entry.setDuplicate(entryDTO.isDuplicate());
+        entry.setDownloadedBook(entryDTO.isDownloadedBook());
+        entry.setDownloadedSource(entryDTO.isDownloadedSource());
+        //entry.setOrderDate(String.valueOf(entryDTO.getOrderDate()));
+        entry.setOrderDate(getDateFromString(entryDTO.getOrderDate()));
+        entry.setRemarks(entryDTO.getRemarks());
+        entry.setSurveyGift(entryDTO.isSurveyGift());
+        entry.setRawText(entryDTO.getRawText());
+        entry.setReadOnly(entryDTO.isReadOnly());
+
+        return entry;
+    }
+
 }

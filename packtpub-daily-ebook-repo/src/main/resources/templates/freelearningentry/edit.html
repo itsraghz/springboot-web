@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://www.thymeleaf.org/">
+    <div th:replace="fragments/header :: headers"></div>
+    <body>
+        <div th:replace="fragments/menu :: menu"></div>
+        <h3>Add a new Free Learning Entry</h3>
+        <p>Enter the details pertaining to the entry</p>
+        <form name="entryEditdForm" method="POST"
+              th:action="@{/freelearningentry/updateRaw}"
+              th:object="${entryDTO}">
+            <table>
+                <thead>
+                    <th>Field</th>
+                    <th>Value</th>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Order Date</td>
+                        <td>
+                            <input type="text" name="orderDate" class="form-control"
+                                   size="50" th:required="true"
+                                   placeholder="Order Date of the Book"
+                                   th:attr="value = 2021-12-21"
+                                   th:field="*{orderDate}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Title</td>
+                        <td>
+                            <select class="form-control" th:field="*{bookId}"  id="bookId"
+                                    onchange="javascript:getSourceCodeStatus();">
+                                <option value="-1">--- Select ---</option>
+                                <option th:each="book : ${books}"
+                                        th:value="${book.id}"
+                                        th:text="${book.id} +' - '+ ${book.title}">
+                                </option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Downloaded Source ?</td>
+                        <td>
+                            <input class="form-control" type="radio" id="sourceCodeDownloadYes" th:field="*{downloadedSource}" value="Yes" />Yes
+                            <input class="form-control" type="radio" id="sourceCodeDownloadNo" th:field="*{downloadedSource}" value="No" />No
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Downloaded Book ?</td>
+                        <td>
+                            <input class="form-control" type="radio" th:field="*{downloadedBook}" value="Yes" />Yes
+                            <input class="form-control" type="radio" th:field="*{downloadedBook}" value="No" />No
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Duplicate ?</td>
+                        <td>
+                            <input class="form-control" type="radio" th:field="*{duplicate}" value="Yes" />Yes
+                            <input class="form-control" type="radio" th:field="*{duplicate}" value="No" />No
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>ReadOnly ?</td>
+                        <td>
+                            <input class="form-control" type="radio" th:field="*{readOnly}" value="Yes" />Yes
+                            <input class="form-control" type="radio" th:field="*{readOnly}" value="No" />No
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Survey Gift ?</td>
+                        <td>
+                            <input class="form-control" type="radio" th:field="*{surveyGift}" value="Yes" />Yes
+                            <input class="form-control" type="radio" th:field="*{surveyGift}" value="No" />No
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Description</td>
+                        <td>
+                            <input type="text" name="description" class="form-control"
+                                   size="50" th:required="false"
+                                   placeholder="Description of the Book"
+                                   th:attr="value = Description"
+                                   th:field="*{description}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Raw Text</td>
+                        <td>
+                            <input type="text" name="rawText" class="form-control"
+                                   size="50" th:required="false"
+                                   placeholder="Raw Text of the Book"
+                                   th:attr="value = RawText"
+                                   th:field="*{rawText}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Remarks</td>
+                        <td>
+                            <input type="text" name="remarks" class="form-control"
+                                   size="50" th:required="false"
+                                   placeholder="Remarks of the Book"
+                                   th:attr="value = Remarks"
+                                   th:field="*{remarks}"
+                            />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <input type="submit" name="Update" value="Update"/>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+        <div th:replace="fragments/footer :: copy"></div>
+    </body>
+</html>

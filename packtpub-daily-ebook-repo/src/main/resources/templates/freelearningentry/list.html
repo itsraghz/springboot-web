@@ -23,6 +23,10 @@
                         <a th:href="@{/freelearningentry/get(id=${entry.id})}">
                             <span th:text="${entry.id}"/>
                         </a>
+                        &nbsp; | &nbsp;
+                        <a th:href="@{/freelearningentry/edit(id=${entry.id})}">
+                            <span th:text="E"/>
+                        </a>
                     </td>
                     <!--<td class="center" th:text="${entry.orderDate}"/>-->
                     <td class="center" th:text="${#dates.format(entry.orderDate,'dd MMM yyyy')}"></td>

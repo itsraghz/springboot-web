@@ -15,7 +15,7 @@ spring:
     timeout: 600
   datasource:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/packtpub-freelearning?createDatabaseIfNotExist=true
+      url: jdbc:mysql://localhost:3306/packtpub-freelearning?createDatabaseIfNotExist=true&useUnicode=yes&characterEncoding=UTF-8
       #url: jdbc:mysql://localhost:3306/bkup-packtpub-freelearning?createDatabaseIfNotExist=true
       username: raghs
       password: RaghsMySQL12#

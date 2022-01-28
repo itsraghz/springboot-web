@@ -5,6 +5,7 @@
         <div th:replace="fragments/menu :: menu"></div>
         <h3>Free Learning Entry Details</h3>
         <p>The details of the requested entry is given below.</p>
+        <b>Edit : </b> Click here to <a th:href="@{/freelearningentry/edit(id=${entry.id})}">edit</a> the entry.
         <table>
             <thead>
                 <th>Field</th>
