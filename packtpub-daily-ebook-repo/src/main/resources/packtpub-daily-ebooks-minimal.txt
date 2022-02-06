@@ -67,4 +67,24 @@
 26 Jan 2022 - Free eBook - Penetration Testing with Shellcode ISBN : 9781788473736 By Hamza Megahed Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788473736/1 } #ReadOnly #CodeNotDownloaded
 27 Jan 2022 - Free eBook - Practical Mobile Forensics - Third Edition ISBN : 9781788839198 By Rohit Tamma , Oleg Skulkin , Heather Mahalik and 1 more Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788839198/1 } #CodeNotAvailable #BookNotDownloaded
 28 Jan 2022 - #ReadOnly Free eBook - Python Machine Learning By Example - Second Edition ISBN : 9781789616729 By Yuxi (Hayden) Liu Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789616729/1 } #CodeNotDownloaded
-29 Jan 2022 -
+29 Jan 2022 - Free eBook - PyTorch 1.x Reinforcement Learning Cookbook ISBN : 9781838551964 By Yuxi (Hayden) Liu Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/data/9781838551964/1 }
+30 Jan 2022 - Free eBook - Raspberry Pi 3 Cookbook for Python Programmers - Third Edition ISBN : 9781788629874 By Tim Cox , Dr. Steven Lawrence Fernandes Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781788629874/1 }
+31 Jan 2022 - Free eBook - Salesforce Platform Developer I Certification Guide ISBN : 9781789802078 By Jan Vandevelde , Gunther Roskams Publication date: May 2019 { URL : https://subscription.packtpub.com/book/business/9781789802078/1 } #BookNotDownloaded #CodeNotDownloaded
+
+01 Feb 2022 - #Duplicate Free eBook - Splunk 7.x Quick Start Guide ISBN : 9781789531091 By James H. Baxter Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789531091/1 }
+02 Feb 2022 - Free eBook - TensorFlow Reinforcement Learning Quick Start Guide ISBN : 9781789533583 By Kaushik Balakrishnan Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789533583/1 } #ReadOnly #CodeNotDownloaded SubscriptionRenewalIssue
+03 Feb 2022 - Free eBook - Wireframing Essentials ISBN: 9781849698542  By Matthew J. Hamm Publication date: Jan 2014 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849698542/1 } #ReadOnly SubscriptionRenewalIssue
+04 Feb 2022 - Free eBook - Beginning Data Science with Python and Jupyter ISBN :  9781789532029 By Alex Galea Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789532029/1 }
+05 Feb 2022 - #ReadOnly Free eBook - Digital Forensics and Incident Response ISBN : 9781787288683By Gerard Johansen Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781787288683/1 } #CodeNotAvailable
+06 Feb 2022 - Free eBook - Hands-On Chatbots and Conversational UI Development ISBN : 9781788294669 By Srini Janarthanam Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/application-development/9781788294669/1 }
+07 Feb 2022 - { URL : }
+08 Feb 2022 - { URL : }
+09 Feb 2022 - { URL : }
+10 Feb 2022 - { URL : }
+11 Feb 2022 - { URL : }
+12 Feb 2022 - { URL : }
+13 Feb 2022 - { URL : }
+14 Feb 2022 - { URL : }
+15 Feb 2022 - { URL : }
+16 Feb 2022 - { URL : }
+17 Feb 2022 - { URL : }
