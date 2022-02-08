@@ -659,12 +659,12 @@
 
 01 Feb 2022 - #Duplicate Free eBook - Splunk 7.x Quick Start Guide ISBN : 9781789531091 By James H. Baxter Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789531091/1 }
 02 Feb 2022 - Free eBook - TensorFlow Reinforcement Learning Quick Start Guide ISBN : 9781789533583 By Kaushik Balakrishnan Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789533583/1 } #ReadOnly #CodeNotDownloaded SubscriptionRenewalIssue
-03 Feb 2022 - Free eBook - Wireframing Essentials ISBN: 9781849698542  By Matthew J. Hamm Publication date: Jan 2014 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849698542/1 } #ReadOnly SubscriptionRenewalIssue
+03 Feb 2022 - Free eBook - Wireframing Essentials ISBN: 9781849698542 By Matthew J. Hamm Publication date: Jan 2014 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849698542/1 } #ReadOnly SubscriptionRenewalIssue
 04 Feb 2022 - Free eBook - Beginning Data Science with Python and Jupyter ISBN :  9781789532029 By Alex Galea Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789532029/1 }
-05 Feb 2022 - #ReadOnly Free eBook - Digital Forensics and Incident Response ISBN : 9781787288683By Gerard Johansen Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781787288683/1 } #CodeNotAvailable
+05 Feb 2022 - #ReadOnly Free eBook - Digital   and Incident Response ISBN : 9781787288683By Gerard Johansen Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781787288683/1 } #CodeNotAvailable
 06 Feb 2022 - Free eBook - Hands-On Chatbots and Conversational UI Development ISBN : 9781788294669 By Srini Janarthanam Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/application-development/9781788294669/1 }
-07 Feb 2022 - { URL : }
-08 Feb 2022 - { URL : }
+07 Feb 2022 - Free eBook - Hands-On Design Patterns with C# and .NET Core ISBN : 9781789133646 By Gaurav Aroraa , Jeffrey Chilberto Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789133646/1 }
+08 Feb 2022 - Free eBook - Hands-On SAS for Data Analysis ISBN : 9781788839822 By Harish Gulati Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788839822/1 }
 09 Feb 2022 - { URL : }
 10 Feb 2022 - { URL : }
 11 Feb 2022 - { URL : }
