@@ -665,12 +665,22 @@
 06 Feb 2022 - Free eBook - Hands-On Chatbots and Conversational UI Development ISBN : 9781788294669 By Srini Janarthanam Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/application-development/9781788294669/1 }
 07 Feb 2022 - Free eBook - Hands-On Design Patterns with C# and .NET Core ISBN : 9781789133646 By Gaurav Aroraa , Jeffrey Chilberto Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789133646/1 }
 08 Feb 2022 - Free eBook - Hands-On SAS for Data Analysis ISBN : 9781788839822 By Harish Gulati Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788839822/1 }
-09 Feb 2022 - { URL : }
-10 Feb 2022 - { URL : }
-11 Feb 2022 - { URL : }
-12 Feb 2022 - { URL : }
-13 Feb 2022 - { URL : }
-14 Feb 2022 - { URL : }
-15 Feb 2022 - { URL : }
+09 Feb 2022 - Free eBook - Implementing Cloud Design Patterns for AWS ISBN : 9781782177340 By Marcus Young Publication date: Apr 2015 { URL : https://subscription.packtpub.com/book/web-development/9781782177340/1 }
+10 Feb 2022 - #ReadOnly Free eBook - Kali Linux CTF Blueprints ISBN : 9781783985982 By Cameron Buchanan Publication date: Jul 2014 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781783985982/1 } #CodeNotDownloaded
+11 Feb 2022 - #ReadOnly Free eBook - KVM Virtualization Cookbook ISBN : 9781788294676 By Konstantin Ivanov Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781788294676/1 } #CodeNotDownloaded
+12 Feb 2022 - Free eBook - Learn Ansible ISBN : 9781788998758 By Russ McKendrick Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781788998758/1 }
+13 Feb 2022 - Free eBook - Learn OpenGL ISBN : 9781789340365 By Frahaan Hussain Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/game-development/9781789340365/1 } #CodeNotDownloaded
+14 Feb 2022 - #ReadOnly Free eBook - Learning Jupyter 5 - Second Edition ISBN : 9781789137408 By Dan Toomey Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789137408/1} #CodeNotDownloaded
+15 Feb 2022 - Free eBook - Learning Pixelmator ISBN : 9781849694681 By Mark Stagi Publication date: Apr 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849694681/1 } #CodeNotAvailable
 16 Feb 2022 - { URL : }
 17 Feb 2022 - { URL : }
+18 Feb 2022 - { URL : }
+19 Feb 2022 - { URL : }
+20 Feb 2022 - { URL : }
+21 Feb 2022 - { URL : }
+22 Feb 2022 - { URL : }
+23 Feb 2022 - { URL : }
+24 Feb 2022 - { URL : }
+25 Feb 2022 - { URL : }
+26 Feb 2022 - { URL : }
+27 Feb 2022 - { URL : }

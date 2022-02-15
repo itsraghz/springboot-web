@@ -5,9 +5,6 @@ J
 springboot-web-jsp/HELP.md,a\8\a8377efc4fbfc46a2e8359bbfc0bb4f40429fb58
 M
 springboot-web-jsp/.gitignore,0\8\0890d5a0c58827e6a134cd0c9ffa2d6365998406
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 U
 %.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
 h
@@ -162,8 +159,6 @@ X
 (src/main/webapp/WEB-INF/jsp/qms/menu.jsp,e\9\e99fbdec3ef099986e349090493a62890b149636
 `
 0src/main/webapp/WEB-INF/jsp/webFontDemo/menu.jsp,c\5\c51dbba3d3caba558bcb998d5e2ad2164452e78b
-¥
-upacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/PacktpubDailyEbookRepoApplication.java,8\b\8bec6877e1d72a23b3e5712f97d0834923f1857a
 ª
 zpacktpub-daily-ebook-repo/src/test/java/com/raghsonline/packtpubdailyebookrepo/PacktpubDailyEbookRepoApplicationTests.java,0\d\0d12de7cb8a295642ca247c0143c4754505fa9ed
 
@@ -408,3 +403,10 @@ mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/
 zpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/FreeLearningEntryController.java,b\9\b9d94f3d0c89ea9d570814e2480a21da1dd85242
 “
 cpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/util/StringUtil.java,0\c\0cf244cb4c26e4d9f07473d32f69868387a3d0a3
+›
+kpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/runner/BookInsertRunner.java,6\4\64ea615461afa9ff4a854397cc24414c9c350026
+_
+/packtpub-daily-ebook-repo/src/VersionHistory.md,5\e\5ebe08949cb5034d970aaacec1e0877af905aad1
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
