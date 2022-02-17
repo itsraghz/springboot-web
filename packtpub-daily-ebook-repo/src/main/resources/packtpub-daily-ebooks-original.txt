@@ -672,8 +672,8 @@
 13 Feb 2022 - Free eBook - Learn OpenGL ISBN : 9781789340365 By Frahaan Hussain Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/game-development/9781789340365/1 } #CodeNotDownloaded
 14 Feb 2022 - #ReadOnly Free eBook - Learning Jupyter 5 - Second Edition ISBN : 9781789137408 By Dan Toomey Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789137408/1} #CodeNotDownloaded
 15 Feb 2022 - Free eBook - Learning Pixelmator ISBN : 9781849694681 By Mark Stagi Publication date: Apr 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849694681/1 } #CodeNotAvailable
-16 Feb 2022 - { URL : }
-17 Feb 2022 - { URL : }
+16 Feb 2022 - #ReadOnly Free eBook - Learning Qlik Sense: The Official Guide - Second Edition ISBN : 9781785887161 By Dr. Christopher Ilacqua , Dr. Henric Cronström , James Richardson Publication Date : Dec 2015 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781785887161/1 } #CodeNotAvailable
+17 Feb 2022 - Free eBook - Machine Learning for OpenCV 4 - Second Edition ISBN : 9781789536300 By Aditya Sharma , Vishwesh Ravi Shrimali , Michael Beyeler Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/data/9781789536300/1}
 18 Feb 2022 - { URL : }
 19 Feb 2022 - { URL : }
 20 Feb 2022 - { URL : }
@@ -684,3 +684,4 @@
 25 Feb 2022 - { URL : }
 26 Feb 2022 - { URL : }
 27 Feb 2022 - { URL : }
+28 Feb 2022 - { URL : }
