@@ -674,9 +674,9 @@
 15 Feb 2022 - Free eBook - Learning Pixelmator ISBN : 9781849694681 By Mark Stagi Publication date: Apr 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849694681/1 } #CodeNotAvailable
 16 Feb 2022 - #ReadOnly Free eBook - Learning Qlik Sense: The Official Guide - Second Edition ISBN : 9781785887161 By Dr. Christopher Ilacqua , Dr. Henric Cronström , James Richardson Publication Date : Dec 2015 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781785887161/1 } #CodeNotAvailable
 17 Feb 2022 - Free eBook - Machine Learning for OpenCV 4 - Second Edition ISBN : 9781789536300 By Aditya Sharma , Vishwesh Ravi Shrimali , Michael Beyeler Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/data/9781789536300/1}
-18 Feb 2022 - { URL : }
-19 Feb 2022 - { URL : }
-20 Feb 2022 - { URL : }
+18 Feb 2022 - Free eBook - Machine Learning in Java - Second Edition ISBN : 9781788474399 By AshishSingh Bhatia , Bostjan Kaluza Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788474399/1 }
+19 Feb 2022 - Free eBook - Magento 2 Developer's Guide ISBN : 9781785886584 By Branko Ajzele Publication date: Dec 2015 { URL : https://subscription.packtpub.com/book/web-development/9781785886584/1 }
+20 Feb 2022 - Free eBook - Mastering Azure Serverless Computing ISBN : 9781789951226 By Lorenzo Barbieri , Massimo Bonanni { URL : https://subscription.packtpub.com/book/cloud_and_networking/9781789951226/1 }
 21 Feb 2022 - { URL : }
 22 Feb 2022 - { URL : }
 23 Feb 2022 - { URL : }
