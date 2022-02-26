@@ -90,11 +90,11 @@
 18 Feb 2022 - Free eBook - Machine Learning in Java - Second Edition ISBN : 9781788474399 By AshishSingh Bhatia , Bostjan Kaluza Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788474399/1 }
 19 Feb 2022 - Free eBook - Magento 2 Developer's Guide ISBN : 9781785886584 By Branko Ajzele Publication date: Dec 2015 { URL : https://subscription.packtpub.com/book/web-development/9781785886584/1 }
 20 Feb 2022 - Free eBook - Mastering Azure Serverless Computing ISBN : 9781789951226 By Lorenzo Barbieri , Massimo Bonanni { URL : https://subscription.packtpub.com/book/cloud_and_networking/9781789951226/1 }
-21 Feb 2022 - { URL : }
-22 Feb 2022 - { URL : }
-23 Feb 2022 - { URL : }
-24 Feb 2022 - { URL : }
-25 Feb 2022 - { URL : }
-26 Feb 2022 - { URL : }
+21 Feb 2022 - Free eBook - Mastering PHP 7 ISBN : 9781785882814 By Branko Ajzele Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/application-development/9781785882814/1 }
+22 Feb 2022 - Free eBook - Mastering RStudio - Develop, Communicate, and Collaborate with R ISBN : 9781783982547 By Julian Hillebrand , Maximilian H. Nierhoff Publication date: Dec 2015 { URL : https://subscription.packtpub.com/book/application-development/9781783982547/1 } #CodeNotAvailable
+23 Feb 2022 - Free eBook - MySQL 8 Cookbook ISBN : 9781788395809 By Karthik Appigatla Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788395809/1 } #CodeNotAvailable
+24 Feb 2022 - Free eBook - Practical Network Automation - Second Edition ISBN : 9781789955651 By Abhishek Ratan Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781789955651/1 }
+25 Feb 2022 - Free eBook - RESTful Java Web Services - Third Edition ISBN : 9781788294041 By Bogunuva Mohanram Balachandar Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/application-development/9781788294041/1}
+26 Feb 2022 - Free eBook - Security with Go ISBN : 9781788627917 By John Daniel Leon Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788627917/1 }
 27 Feb 2022 - { URL : }
 28 Feb 2022 - { URL : }
