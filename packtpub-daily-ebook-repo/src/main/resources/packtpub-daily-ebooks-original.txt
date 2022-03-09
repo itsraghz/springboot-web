@@ -690,6 +690,13 @@
 02 Mar 2022 - Free eBook - Blender 3D Incredible Machines ISBN : 9781785282010 By Christopher Kuhn Publication date: Feb 2016 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781785282010/1 } #CodeNotAvailable #BookNotDownloaded
 03 Mar 2022 - Free eBook - Building RESTful Web Services with Spring 5 - Second Edition ISBN : 9781788475891 By Raja CSP Raman Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788475891/1 }
 04 Mar 2022 - Free eBook - C++ Data Structures and Algorithm Design Principles ISBN : 9781838828844 By John Carey , Shreyans Doshi , Payas Rajan Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/programming/9781838828844/1 }
-05 Mar 2022 - { URL : }
-06 Mar 2022 - { URL : }
-07 Mar 2022 - { URL : }
+05 Mar 2022 - #Duplicate Free eBook - C++ Data Structures and Algorithm Design Principles ISBN : 9781838828844 By John Carey , Shreyans Doshi , Payas Rajan Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/programming/9781838828844/1 }
+06 Mar 2022 - Free eBook - Docker Quick Start Guide ISBN : 9781789347326 By Earl Waud Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781789347326/1 }
+07 Mar 2022 - Free eBook - Enterprise Agility ISBN : 9781788990646 By Sunil Mundra Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/business/9781788990646/1} #CodeNotAvailable
+08 Mar 2022 - Free eBook - Game Programming using Qt 5 Beginner's Guide - Second Edition ISBN : 9781788399999 By Pavel Vladimirovich Strakhov Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/game-development/9781788399999/1 } #BookNotDownloaded #CodeNotDownloaded
+09 Mar 2022 - Free eBook - Go Programming Blueprints - Second Edition ISBN : 9781786468949 By Mat Ryer Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/application-development/9781786468949/1 }
+10 Mar 2022 - { URL : }
+11 Mar 2022 - { URL : }
+12 Mar 2022 - { URL : }
+13 Mar 2022 - { URL : }
+14 Mar 2022 - { URL : }
