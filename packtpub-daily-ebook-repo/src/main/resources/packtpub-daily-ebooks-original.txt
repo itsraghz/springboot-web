@@ -695,8 +695,14 @@
 07 Mar 2022 - Free eBook - Enterprise Agility ISBN : 9781788990646 By Sunil Mundra Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/business/9781788990646/1} #CodeNotAvailable
 08 Mar 2022 - Free eBook - Game Programming using Qt 5 Beginner's Guide - Second Edition ISBN : 9781788399999 By Pavel Vladimirovich Strakhov Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/game-development/9781788399999/1 } #BookNotDownloaded #CodeNotDownloaded
 09 Mar 2022 - Free eBook - Go Programming Blueprints - Second Edition ISBN : 9781786468949 By Mat Ryer Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/application-development/9781786468949/1 }
-10 Mar 2022 - { URL : }
-11 Mar 2022 - { URL : }
-12 Mar 2022 - { URL : }
-13 Mar 2022 - { URL : }
-14 Mar 2022 - { URL : }
+10 Mar 2022 - Free eBook - Hands-On Artificial Intelligence on Amazon Web Services ISBN : 9781789534146 By Subhashini Tripuraneni , Charles Song Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/data/9781789534146/1 }
+11 Mar 2022 - Free eBook - Hands-On Design Patterns with Java ISBN : 9781789809770 By Dr. Edward Lavieri Publication date: Apr 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789809770/1}
+12 Mar 2022 - Free eBook - Hands-On Serverless Applications with Go ISBN : 9781789134612 By Mohamed Labouardy Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/application-development/9781789134612/1}
+13 Mar 2022 - <Missed> Free eBook - Implementing Microsoft Dynamics 365 Business Central On-Premise - Fourth Edition By Roberto Stefanetti , Alex Chow Publication date: Dec 2018 { URL : }
+14 Mar 2022 - Free eBook - Julia 1.0 Programming Complete Reference Guide ISBN : 9781838822248 By Ivo Balbaert , Adrian Salceanu Publication date: May 2019 { URL : https://subscription.packtpub.com/book/application-development/9781838822248/1 }
+15 Mar 2022 - Free eBook - Kivy - Interactive Applications and Games in Python - Second Edition ISBN : 9781785286926 By Roberto Ulloa Publication date: Jun 2015 { URL : https://subscription.packtpub.com/book/application-development/9781785286926/1 }
+16 Mar 2022 - { URL : }
+17 Mar 2022 - { URL : }
+18 Mar 2022 - { URL : }
+19 Mar 2022 - { URL : }
+20 Mar 2022 - { URL : }
