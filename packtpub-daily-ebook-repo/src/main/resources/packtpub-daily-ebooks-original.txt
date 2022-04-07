@@ -718,8 +718,9 @@
 30 Mar 2022 - Free eBook - PowerShell for SQL Server Essentials ISBN : 9781784391492 By Donabel Santos Publication date: Feb 2015 { URL : https://subscription.packtpub.com/book/application-development/9781784391492/copyrightpg }
 31 Mar 2022 - Free eBook - Python: Advanced Guide to Artificial Intelligence ISBN : 9781789957211 By Giuseppe Bonaccorso , Armando Fandango , Rajalingappaa Shanmugamani Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789957211/pref01 }
 
-01 Apr 2022 - Free eBook - Raspberry Pi Super Cluster 9781783286195 ISBN: By Andrew K. Dennis Publication date: Nov 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781783286195/copyrightpg }
-02 Apr 2022 - { URL : }
-03 Apr 2022 - { URL : }
-04 Apr 2022 - { URL : }
-05 Apr 2022 - { URL : }
+01 Apr 2022 - Free eBook - Raspberry Pi Super Cluster 9781783286195 ISBN : 9781783286195 By Andrew K. Dennis Publication date: Nov 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781783286195/copyrightpg }
+02 Apr 2022 - #Duplicate Free eBook - Responsive Web Design with HTML5 and CSS3 - Second Edition ISBN : 9781784398934 By Ben Frain Publication date: Aug 2015 { URL : https://subscription.packtpub.com/book/web-development/9781784398934/copyrightpg }
+03 Apr 2022 - Free eBook - The Complete Kubernetes Guide By Jonathan Baier , Gigi Sayfan , Jesse White ISBN : 9781838647346 Publication date: May 2019 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781838647346/pref01 }
+04 Apr 2022 - #Duplicate Free eBook - The SQL Workshop ISBN : 9781838642358 By Frank Solomon , Prashanth Jayaram , Awni Al Saqqa Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/data/9781838642358/pref }
+05 Apr 2022 - Free eBook - Xamarin.Forms Projects ISBN : 9781789537505 By Johan Karlsson , Daniel Hindrikes Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/application-development/9781789537505/pref } #CodeNotDownloaded #BookNotDownloaded
+06 Apr 2022 - { URL : }

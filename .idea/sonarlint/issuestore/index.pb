@@ -416,3 +416,5 @@ Isrc/main/java/com/raghsonline/springbootweb/SpringbootWebApplication.java,2\4\
 upacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/PacktpubDailyEbookRepoApplication.java,8\b\8bec6877e1d72a23b3e5712f97d0834923f1857a
 Q
 !packtpub-daily-ebook-repo/pom.xml,3\8\38e01cc935f69442597e67fc2f239022fe8b192d
+œ
+lpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/dto/FreeLearningEntryDTO.java,3\e\3ef7ba61d8df28781e403c570da2d5c510b13acc
