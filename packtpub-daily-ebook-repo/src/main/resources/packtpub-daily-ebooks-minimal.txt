@@ -136,4 +136,28 @@
 03 Apr 2022 - Free eBook - The Complete Kubernetes Guide By Jonathan Baier , Gigi Sayfan , Jesse White ISBN : 9781838647346 Publication date: May 2019 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781838647346/pref01 }
 04 Apr 2022 - #Duplicate Free eBook - The SQL Workshop ISBN : 9781838642358 By Frank Solomon , Prashanth Jayaram , Awni Al Saqqa Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/data/9781838642358/pref }
 05 Apr 2022 - Free eBook - Xamarin.Forms Projects ISBN : 9781789537505 By Johan Karlsson , Daniel Hindrikes Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/application-development/9781789537505/pref } #CodeNotDownloaded #BookNotDownloaded
-06 Apr 2022 - { URL : }
+06 Apr 2022 - Free eBook - 3D Printing with SketchUp ISBN : 9781783284573 By Marcus Ritland Publication date: May 2014 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781783284573/copyrightpg} #CodeNotAvailable #BookNotDownloaded
+07 Apr 2022 - Free eBook - Advanced JavaScript ISBN : 9781789800104 By Zachary Shute Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789800104/copyrightpg}
+08 Apr 2022 - #ReadOnly Free eBook - arc42 by Example ISBN : 9781839214356 By Dr. Gernot Starke , Michael Simons , Stefan Zörner and 1 more Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/programming/9781839214356/pref01} #CodeNotAvailable
+09 Apr 2022 - Free eBook - Architecting Angular Applications with Redux, RxJS, and NgRx ISBN : 9781787122406 By Christoffer Noring Publication date: Mar 2018 { URL : https://subscription.packtpub.com/book/web-development/9781787122406/pref }
+10 Apr 2022 - Free eBook - Azure PowerShell Quick Start Guide ISBN : 9781789614954 By Thomas Mitchell Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789614954/pref } #CodeNotAvailable
+11 Apr 2022 - Free eBook - Azure Resource Manager Templates Quick Start Guide ISBN : 9781789803235 By Ritesh Modi Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789803235/pref }
+12 Apr 2022 - Free eBook - Big Data Analytics with R ISBN : 9781786466457 By Simon Walkowiak Publication date: Jul 2016 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781786466457/copyrightpg}
+13 Apr 2022 - Free eBook - Blender Quick Start Guide ISBN : 9781789619478 By Allan Brito Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/game-development/9781789619478/pref} #BookNotDownloaded #CodeNotDownloaded
+14 Apr 2022 - Free eBook - Boost.Asio C++ Network Programming Cookbook ISBN : 9781783986545 By Dmytro Radchuk Publication date: Jan 2016 { URL : https://subscription.packtpub.com/book/application-development/9781783986545/copyrightpg } #BookNotDownloaded #CodeNotDownloaded
+15 Apr 2022 - Free eBook - Building Microservices with Go ISBN : 9781786468666 By Nic Jackson Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/application-development/9781786468666/pref01}
+16 Apr 2022 - Free eBook - Building Smart Homes with Raspberry Pi Zero ISBN : 9781786466952 By Marco Schwartz Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781786466952/copyrightpg}
+17 Apr 2022 - #Duplicate Free eBook - Cybersecurity - Attack and Defense Strategies ISBN : 9781788475297 By Yuri Diogenes , Dr. Erdal Ozkaya Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788475297/pref01 } #CodeNotAvailable
+18 Apr 2022 - Free eBook - Delphi High Performance ISBN : 9781788625456 By Primoz Gabrijelcic Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788625456/pref01 } #BookNotDownloaded #CodeNotDownloaded
+19 Apr 2022 - #Duplicate Free eBook - Electron Projects ISBN : 9781838552206 By Denys Vuika Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/mobile/9781838552206/pref}
+20 Apr 2022 - Free eBook - Everyday Data Structures ISBN : 9781787121041 By William Smith Publication date: Mar 2017 { URL : https://subscription.packtpub.com/book/application-development/9781787121041/copyrightpg }
+21 Apr 2022 - { URL : }
+22 Apr 2022 - { URL : }
+23 Apr 2022 - { URL : }
+24 Apr 2022 - { URL : }
+25 Apr 2022 - { URL : }
+26 Apr 2022 - { URL : }
+27 Apr 2022 - { URL : }
+28 Apr 2022 - { URL : }
+29 Apr 2022 - { URL : }
+30 Apr 2022 - { URL : }
