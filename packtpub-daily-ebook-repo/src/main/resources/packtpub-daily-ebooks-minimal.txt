@@ -151,13 +151,25 @@
 18 Apr 2022 - Free eBook - Delphi High Performance ISBN : 9781788625456 By Primoz Gabrijelcic Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788625456/pref01 } #BookNotDownloaded #CodeNotDownloaded
 19 Apr 2022 - #Duplicate Free eBook - Electron Projects ISBN : 9781838552206 By Denys Vuika Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/mobile/9781838552206/pref}
 20 Apr 2022 - Free eBook - Everyday Data Structures ISBN : 9781787121041 By William Smith Publication date: Mar 2017 { URL : https://subscription.packtpub.com/book/application-development/9781787121041/copyrightpg }
-21 Apr 2022 - { URL : }
-22 Apr 2022 - { URL : }
-23 Apr 2022 - { URL : }
-24 Apr 2022 - { URL : }
-25 Apr 2022 - { URL : }
-26 Apr 2022 - { URL : }
-27 Apr 2022 - { URL : }
-28 Apr 2022 - { URL : }
-29 Apr 2022 - { URL : }
-30 Apr 2022 - { URL : }
+21 Apr 2022 - Free eBook - FreeCAD ISBN : 9781849518864 By Daniel Falck , Brad Collette Publication date: Sep 2012 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849518864/copyrightpg } #CodeNotDownloaded #BookNotDownloaded
+22 Apr 2022 - Free eBook - Hands-On Cloud-Native Applications with Java and Quarkus ISBN : 9781838821470 By Francesco Marchioni Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/cloud_and_networking/9781838821470/pref }
+23 Apr 2022 - Free eBook - Hands-On Continuous Integration and Delivery ISBN : 9781789130485 By Jean-Marcel Belmont Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789130485/pref }
+24 Apr 2022 - Free eBook - Hands-On Design Patterns with React Native  ISBN : 9781788994460 By Mateusz Grzesiukiewicz Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788994460/pref } #CodeNotAvailable
+25 Apr 2022 - Free eBook - Hands-On Parallel Programming with C# 8 and .NET Core 3 ISBN : 9781789132410 By Shakti Tanwar Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789132410/pref }
+26 Apr 2022 - Free eBook - Hands-On Test Management with Jira ISBN : 9781789954524 By Afsana Atar Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/business/9781789954524/pref01 } #CodeNotAvailable
+27 Apr 2022 - Free eBook - Hands-On Transfer Learning with Python ISBN : 9781788831307 By Dipanjan Sarkar , Raghav Bali , Tamoghna Ghosh Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788831307/pref }
+28 Apr 2022 - Free eBook - Internet of Things with Arduino Cookbook ISBN : 9781785286582 By Marco Schwartz Publication date: Sep 2016 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781785286582/copyrightpg }
+29 Apr 2022 - Free eBook - Lean Mobile App Development ISBN : 9781786467041 By Mike van Drongelen , Adam Dennis , Richard Garabedian and 2 more Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/application-development/9781786467041/pref }
+30 Apr 2022 - Free eBook - Learn Odoo ISBN : 9781789536898 By Greg Moss Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/programming/9781789536898/pref } #CodeNotAvailable
+
+01 May 2022 - { URL : }
+02 May 2022 - { URL : }
+03 May 2022 - { URL : }
+04 May 2022 - { URL : }
+05 May 2022 - { URL : }
+06 May 2022 - { URL : }
+07 May 2022 - { URL : }
+08 May 2022 - { URL : }
+09 May 2022 - { URL : }
+10 May 2022 - { URL : }
+11 May 2022 - { URL : }
