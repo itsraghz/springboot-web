@@ -1,0 +1,20 @@
+
+ž
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ°£Ä8„Âªïå/
+Z
+java:S1854Q"8Remove this useless assignment to local variable "book".(·ç…áþÿÿÿÿ8¢Âªïå/
+K
+java:S1481Q")Remove this unused "book" local variable.(·ç…áþÿÿÿÿ8±Âªïå/
+]	java:S125^"<This block of commented-out lines of code should be removed.(ÿÊºÈþÿÿÿÿ8²Âªïå/
+X
+java:S1854¤":Remove this useless assignment to local variable "length".(¥Ýøÿ8ºÂªïå/
+I
+java:S1481¤"+Remove this unused "length" local variable.(¥Ýøÿ8¼Âªïå/
+Y	java:S125¹"<This block of commented-out lines of code should be removed.(¢–öú8¾Âªïå/
+R	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ
+R	java:S125¦"<This block of commented-out lines of code should be removed.(ì‘òŠ
+W	java:S125Ù"<This block of commented-out lines of code should be removed.(¾™ÃÒùÿÿÿÿ
+Z
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(ºþ‡Ÿûÿÿÿÿ
+f
+java:S2583‹"CChange this condition so that it does not always evaluate to "true"(Çê ñýÿÿÿÿ8Ì¿ò›æ/

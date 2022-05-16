@@ -162,14 +162,19 @@
 29 Apr 2022 - Free eBook - Lean Mobile App Development ISBN : 9781786467041 By Mike van Drongelen , Adam Dennis , Richard Garabedian and 2 more Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/application-development/9781786467041/pref }
 30 Apr 2022 - Free eBook - Learn Odoo ISBN : 9781789536898 By Greg Moss Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/programming/9781789536898/pref } #CodeNotAvailable
 
-01 May 2022 - { URL : }
-02 May 2022 - { URL : }
-03 May 2022 - { URL : }
-04 May 2022 - { URL : }
-05 May 2022 - { URL : }
-06 May 2022 - { URL : }
-07 May 2022 - { URL : }
-08 May 2022 - { URL : }
-09 May 2022 - { URL : }
-10 May 2022 - { URL : }
-11 May 2022 - { URL : }
+01 May 2022 - Free eBook - Learn to Create WordPress Themes by Building 5 Projects ISBN : 9781787286641 By Eduonix Learning Solutions Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/web-development/9781787286641/pref } #CodeNotDownloaded #BookNotDownloaded
+02 May 2022 - Free eBook - Learning PostgreSQL 11 - Third Edition ISBN : 9781789535464 By Salahaldin Juba , Andrey Volkov Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789535464/1 }
+03 May 2022 - Free eBook - Learning Redux ISBN : 9781786462398 By Daniel Bugl Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/web-development/9781786462398/pref }
+04 May 2022 - Free eBook - Mastering Modern Web Penetration Testing ISBN : 9781785284588 By Prakhar Prasad Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785284588/copyrightpg }
+05 May 2022 - Free eBook - Mastering ROS for Robotics Programming - Second Edition ISBN : 9781788478953 By Lentin Joseph , Jonathan Cacace Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781788478953/pref01 }
+06 May 2022 - Free eBook - Mastering Software Testing with JUnit 5 ISBN : 9781787285736 By Boni Garcia Publication date: Oct 2017 { URL : https://subscription.packtpub.com/book/web-development/9781787285736/pref }
+07 May 2022 - Free eBook - Mastering UI Development with Unity ISBN : 9781787125520 By Dr. Ashley Godbold Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/game-development/9781787125520/pref } #ReadOnly #CodeNotDownloaded
+08 May 2022 - Free eBook - Migrating Applications to the Cloud with Azure ISBN : 9781839217470 By Sjoukje Zaal , Amit Malik , Sander Rossel and 3 more Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/cloud_and_networking/9781839217470/pref }
+09 May 2022 - Free eBook - Natural Language Processing and Computational Linguistics ISBN : 9781788838535 By Bhargav Srinivasa-Desikan Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788838535/pref01 } #BookNotDownloaded #CodeNotDownloaded
+10 May 2022 - Free eBook - Natural Language Processing with TensorFlow ISBN : 9781788478311 By Thushan Ganegedara Publication date: May 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788478311/copyrightpg } #CodeNotDownloaded #BookNotDownloaded
+11 May 2022 - Free eBook - Nginx HTTP Server - Third Edition ISBN : 9781785280337 By Clement Nedelcu Publication date: Nov 2015 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785280337/copyrightpg }
+12 May 2022 - Free eBook - Python Programming for Arduino ISBN : 9781783285938 By Pratik Desai Publication date: Feb 2015 { URL : https://subscription.packtpub.com/book/application-development/9781783285938/copyrightpg }
+13 May 2022 - Free eBook - Python Reinforcement Learning ISBN : 9781838649777 By Sudharsan Ravichandiran , Sean Saito , Rajalingappaa Shanmugamani and 1 more Publication date: Apr 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781838649777/pref01 } #ReadOnly #CodeNotDownloaded
+14 May 2022 - Free eBook - Python Web Scraping Cookbook ISBN : 9781787285217 By Michael Heydt Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781787285217/pref }
+15 May 2022 - Free eBook - SketchBook Pro Digital Painting Essentials ISBN : 9781849698207 By Gil Robles Publication date: Oct 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849698207/copyrightpg } #BookNotDownloaded #CodeNotAvailable
+16 May 2022 - { URL : }

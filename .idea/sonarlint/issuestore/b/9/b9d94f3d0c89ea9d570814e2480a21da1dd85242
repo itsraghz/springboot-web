@@ -1,0 +1,26 @@
+
+Q	java:S125."<This block of commented-out lines of code should be removed.(ß¥šŒ
+V	java:S1258"<This block of commented-out lines of code should be removed.(”î‚öûÿÿÿÿ
+S
+java:S1854a"8Remove this useless assignment to local variable "book".(·ç…áşÿÿÿÿ
+Q	java:S125b"<This block of commented-out lines of code should be removed.(ÛÅ¯È
+[
+java:S1854­"?Remove this useless assignment to local variable "description".(ÚòåÊùÿÿÿÿ
+R
+java:S1854¬";Remove this useless assignment to local variable "remarks".(½öÎ¾
+P
+java:S1854©"9Remove this useless assignment to local variable "entry".(İìÅ‹
+C
+java:S1481¬",Remove this unused "remarks" local variable.(½öÎ¾
+L
+java:S1481­"0Remove this unused "description" local variable.(ÚòåÊùÿÿÿÿ
+R	java:S125¯"<This block of commented-out lines of code should be removed.(«—×¢
+R	java:S125¶"<This block of commented-out lines of code should be removed.(ÎêöË
+R	java:S125ò"<This block of commented-out lines of code should be removed.(ÀÂö’
+W	java:S125ù"<This block of commented-out lines of code should be removed.(åæê‘ıÿÿÿÿ
+R	java:S125ˆ"<This block of commented-out lines of code should be removed.(ÃĞìÕ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿Å¥#
+m
+java:S1192D"WDefine a constant instead of duplicating this literal "freelearningentry/view" 4 times.(‰âÆ
+\
+java:S1192C"FDefine a constant instead of duplicating this literal "entry" 6 times.(ã©

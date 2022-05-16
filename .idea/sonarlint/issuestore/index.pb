@@ -414,3 +414,10 @@ _
 upacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/PacktpubDailyEbookRepoApplication.java,8\b\8bec6877e1d72a23b3e5712f97d0834923f1857a
 Q
 !packtpub-daily-ebook-repo/pom.xml,3\8\38e01cc935f69442597e67fc2f239022fe8b192d
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+:
+
+create.sql,c\4\c4e543c554b99ccccd987f50a97bdc2adf2ccccf
+œ
+lpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/dto/FreeLearningEntryDTO.java,3\e\3ef7ba61d8df28781e403c570da2d5c510b13acc

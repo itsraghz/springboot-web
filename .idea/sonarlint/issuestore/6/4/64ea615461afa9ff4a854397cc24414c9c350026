@@ -1,0 +1,14 @@
+
+b	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ê—•§8ä™æÔí/
+X	java:S125C"<This block of commented-out lines of code should be removed.(•œÑƒ8‚šæÔí/
+i
+java:S1854q"GRemove this useless assignment to local variable "freeLearningEntries".(˜åâÅüÿÿÿÿ8•šæÔí/
+]	java:S125q"<This block of commented-out lines of code should be removed.(˜åâÅüÿÿÿÿ8˜šæÔí/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(­ÈÍ€şÿÿÿÿ
+W	java:S125”"<This block of commented-out lines of code should be removed.(çêÎÉùÿÿÿÿ
+Q
+java:S1144^"6Remove this unused private "insertSampleBooks" method.(×™—²ÿÿÿÿÿ
+l
+java:S1192h"QDefine a constant instead of duplicating this literal "BookInsertRunner" 5 times.(–İá—ùÿÿÿÿ
+Y
+java:S1155}">Use isEmpty() to check whether the collection is empty or not.(½åìòüÿÿÿÿ

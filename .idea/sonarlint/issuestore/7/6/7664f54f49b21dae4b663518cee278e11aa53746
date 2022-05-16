@@ -1,0 +1,13 @@
+
+Q	java:S125."<This block of commented-out lines of code should be removed.(‘İü
+Q	java:S1258"<This block of commented-out lines of code should be removed.(‘İü
+[
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(º¹ñÕıÿÿÿÿ
+[
+java:S4684a"@Replace this persistent entity with a simple POJO or DTO object.(á¨Î½üÿÿÿÿ
+X
+java:S1854"ARemove this useless assignment to local variable "matchingBooks".(¾ì‘€
+`
+java:S1192C"JDefine a constant instead of duplicating this literal "book/view" 3 times.(±Éß©
+a
+java:S11920"FDefine a constant instead of duplicating this literal "books" 3 times.(ù”Éãøÿÿÿÿ
