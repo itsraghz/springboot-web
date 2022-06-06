@@ -771,4 +771,23 @@
 20 May 2022 - Free eBook - Windows Server 2016 Security, Certificates, and Remote Access Cookbook ISBN : 9781789137675 By Jordan Krause Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789137675/pref01 } #CodeNotAvailable
 21 May 2022 - Free eBook - Apache Kafka Quick Start Guide ISBN : 9781788997829 By Raul Estrada Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788997829/pref }
 22 May 2022 - Free eBook - AWS Automation Cookbook ISBN : 9781788394925 By Nikit Swaraj Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781788394925/pref } #CodeNotAvailable
-23 May 2022 - { URL : }
+23 May 2022 - Free eBook - AWS Certified Solutions Architect - Associate Guide ISBN : 9781789130669 By Gabriel Ramirez , Stuart Scott Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789130669/pref }
+24 May 2022 - Free eBook - Big Data Analytics with Hadoop 3 ISBN : 9781788628846 By Sridhar Alla Publication date: May 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788628846/pref01 }
+25 May 2022 - Free eBook - Blackboard Essentials for Teachers IBSN : 9781849692922 By William Rice Publication date: Jul 2012 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849692922/copyrightpg } #CodeNotAvailable
+26 May 2022 - Free eBook - CompTIA Network+ Certification Guide ISBN : 9781789340501 By Glen D. Singh , Rishi Latchmepersad Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781789340501/pref} #CodeNotAvailable
+27 May 2022 - Free eBook - Docker and Kubernetes for Java Developers ISBN : 9781786468390 By Jaroslaw Krochmalski Publication date: Aug 2017 { URL :  https://subscription.packtpub.com/book/virtualization-and-cloud/9781786468390/pref }
+28 May 2022 - Free eBook - Drupal 8 Module Development - Second Edition ISBN : 9781789612363 By Daniel Sipos Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/web-development/9781789612363/pref }
+29 May 2022 - { URL : } - #Missed due to the travel from Bangalore to Bangladesh from Milvik.
+30 May 2022 - Free eBook - Getting Started with Talend Open Studio for Data Integration ISBN : 9781849514729 By Jonathan Bowen { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781849514729 } #CodeNotDownloaded #BookNotDownloaded
+31 May 2022 - Free eBook - Git Version Control Cookbook - Second Edition ISBN : 9781789137545 By Kenneth Geisshirt , Emanuele Zattin , Aske Olsson and 1 more Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/application-development/9781789137545/pref01 } #CodeNotAvailable
+
+01 Jun 2022 - Free eBook - Hacking Android ISBN : 9781785883149 By Srinivasa Rao Kotipalli , Mohammed A. Imran Publication date: Jul 2016 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785883149/copyrightpg }
+02 Jun 2022 - Free eBook - Hands-On Embedded Programming with QT ISBN : 9781789952063 By John Werner Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789952063/pref  } #CodeNotDownloaded #BookNotDownloaded
+03 Jun 2022 - { URL : } - Missed due to return journey from Bangladesh to Bangalore
+04 Jun 2022 - Free eBook - Hands-On High Performance Programming with Qt 5 ISBN : 9781789531244 By Marek Krajewski Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789531244/pref } #CodeNotDownloaded #BookNotDownloaded
+05 Jun 2022 - Free eBook - Intelligent Mobile Projects with TensorFlow ISBN : 9781788834544 By Jeff Tang Publication date: May 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788834544/pref } #CodeNotDownloaded #BookNotDownloaded
+06 Jun 2022 - Free eBook - IoT Penetration Testing Cookbook ISBN : 9781787280571 By Aaron Guzman , Aditya Gupta Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781787280571/pref01 }
+07 Jun 2022 - { URL : }
+08 Jun 2022 - { URL : }
+09 Jun 2022 - { URL : }
+10 Jun 2022 - { URL : }
