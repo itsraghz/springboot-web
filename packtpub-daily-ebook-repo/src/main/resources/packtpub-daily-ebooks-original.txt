@@ -787,7 +787,18 @@
 04 Jun 2022 - Free eBook - Hands-On High Performance Programming with Qt 5 ISBN : 9781789531244 By Marek Krajewski Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789531244/pref } #CodeNotDownloaded #BookNotDownloaded
 05 Jun 2022 - Free eBook - Intelligent Mobile Projects with TensorFlow ISBN : 9781788834544 By Jeff Tang Publication date: May 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788834544/pref } #CodeNotDownloaded #BookNotDownloaded
 06 Jun 2022 - Free eBook - IoT Penetration Testing Cookbook ISBN : 9781787280571 By Aaron Guzman , Aditya Gupta Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781787280571/pref01 }
-07 Jun 2022 - { URL : }
-08 Jun 2022 - { URL : }
-09 Jun 2022 - { URL : }
+07 Jun 2022 - Free eBook - Java EE 8 Application Development ISBN : 9781788293679 By David R. Heffelfinger Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/application-development/9781788293679/pref01 }
+08 Jun 2022 - Free eBook - Kibana 7 Quick Start Guide ISBN : 9781789804034 By Anurag Srivastava Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789804034/pref }
+09 Jun 2022 - Free eBook - Learn Web Development with Python ISBN : 9781789953299 By Fabrizio Romano , Gaston C. Hillar , Arun Ravindran Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/web-development/9781789953299/pref01 }
 10 Jun 2022 - { URL : }
+11 Jun 2022 - { URL : }
+12 Jun 2022 - { URL : }
+13 Jun 2022 - { URL : }
+14 Jun 2022 - { URL : }
+15 Jun 2022 - { URL : }
+16 Jun 2022 - { URL : }
+17 Jun 2022 - { URL : }
+18 Jun 2022 - { URL : }
+19 Jun 2022 - { URL : }
+20 Jun 2022 - { URL : }
+21 Jun 2022 - { URL : }

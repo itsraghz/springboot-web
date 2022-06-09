@@ -1,42 +1,21 @@
-01 May 2022 - Free eBook - Learn to Create WordPress Themes by Building 5 Projects ISBN : 9781787286641 By Eduonix Learning Solutions Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/web-development/9781787286641/pref } #CodeNotDownloaded #BookNotDownloaded
-02 May 2022 - Free eBook - Learning PostgreSQL 11 - Third Edition ISBN : 9781789535464 By Salahaldin Juba , Andrey Volkov Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789535464/1 }
-03 May 2022 - Free eBook - Learning Redux ISBN : 9781786462398 By Daniel Bugl Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/web-development/9781786462398/pref }
-04 May 2022 - Free eBook - Mastering Modern Web Penetration Testing ISBN : 9781785284588 By Prakhar Prasad Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785284588/copyrightpg }
-05 May 2022 - Free eBook - Mastering ROS for Robotics Programming - Second Edition ISBN : 9781788478953 By Lentin Joseph , Jonathan Cacace Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781788478953/pref01 }
-06 May 2022 - Free eBook - Mastering Software Testing with JUnit 5 ISBN : 9781787285736 By Boni Garcia Publication date: Oct 2017 { URL : https://subscription.packtpub.com/book/web-development/9781787285736/pref }
-07 May 2022 - Free eBook - Mastering UI Development with Unity ISBN : 9781787125520 By Dr. Ashley Godbold Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/game-development/9781787125520/pref } #ReadOnly #CodeNotDownloaded
-08 May 2022 - Free eBook - Migrating Applications to the Cloud with Azure ISBN : 9781839217470 By Sjoukje Zaal , Amit Malik , Sander Rossel and 3 more Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/cloud_and_networking/9781839217470/pref }
-09 May 2022 - Free eBook - Natural Language Processing and Computational Linguistics ISBN : 9781788838535 By Bhargav Srinivasa-Desikan Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788838535/pref01 } #BookNotDownloaded #CodeNotDownloaded
-10 May 2022 - Free eBook - Natural Language Processing with TensorFlow ISBN : 9781788478311 By Thushan Ganegedara Publication date: May 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788478311/copyrightpg } #CodeNotDownloaded #BookNotDownloaded
-11 May 2022 - Free eBook - Nginx HTTP Server - Third Edition ISBN : 9781785280337 By Clement Nedelcu Publication date: Nov 2015 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785280337/copyrightpg }
-12 May 2022 - Free eBook - Python Programming for Arduino ISBN : 9781783285938 By Pratik Desai Publication date: Feb 2015 { URL : https://subscription.packtpub.com/book/application-development/9781783285938/copyrightpg }
-13 May 2022 - Free eBook - Python Reinforcement Learning ISBN : 9781838649777 By Sudharsan Ravichandiran , Sean Saito , Rajalingappaa Shanmugamani and 1 more Publication date: Apr 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781838649777/pref01 } #ReadOnly #CodeNotDownloaded
-14 May 2022 - Free eBook - Python Web Scraping Cookbook ISBN : 9781787285217 By Michael Heydt Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781787285217/pref }
-15 May 2022 - Free eBook - SketchBook Pro Digital Painting Essentials ISBN : 9781849698207 By Gil Robles Publication date: Oct 2013 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849698207/copyrightpg } #BookNotDownloaded #CodeNotAvailable
-16 May 2022 - Free eBook - TensorFlow Machine Learning Projects ISBN : 9781789132212 By Ankit Jain , Armando Fandango , Amita Kapoor Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789132212/pref01 } #CodeNotDownloaded
-17 May 2022 - Free eBook - The Art of CRM ISBN : 9781789538922 By Max Fatouretchi Publication date: May 2019 { URL : https://subscription.packtpub.com/book/business/9781789538922/copyrightpg } #CodeNotDownloaded
-18 May 2022 - Free eBook - Windows 10 for Enterprise Administrators ISBN : 9781786462824 By Jeff Stokes , Manuel Singer , Richard Diver Publication date: Sep 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781786462824/pref } #CodeNotAvailable
-19 May 2022 - Free eBook - Windows Server 2016 Hyper-V Cookbook - Second Edition ISBN : 9781785884313 By Patrick Lownds , Charbel Nemnom , Leandro Carvalho Publication date: Jan 2017 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781785884313/copyrightpg } #ReadOnly #CodeNotDownloaded
-20 May 2022 - Free eBook - Windows Server 2016 Security, Certificates, and Remote Access Cookbook ISBN : 9781789137675 By Jordan Krause Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789137675/pref01 } #CodeNotAvailable
-21 May 2022 - Free eBook - Apache Kafka Quick Start Guide ISBN : 9781788997829 By Raul Estrada Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788997829/pref }
-22 May 2022 - Free eBook - AWS Automation Cookbook ISBN : 9781788394925 By Nikit Swaraj Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781788394925/pref } #CodeNotAvailable
-23 May 2022 - Free eBook - AWS Certified Solutions Architect - Associate Guide ISBN : 9781789130669 By Gabriel Ramirez , Stuart Scott Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/virtualization-and-cloud/9781789130669/pref }
-24 May 2022 - Free eBook - Big Data Analytics with Hadoop 3 ISBN : 9781788628846 By Sridhar Alla Publication date: May 2018 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781788628846/pref01 }
-25 May 2022 - Free eBook - Blackboard Essentials for Teachers IBSN : 9781849692922 By William Rice Publication date: Jul 2012 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781849692922/copyrightpg } #CodeNotAvailable
-26 May 2022 - Free eBook - CompTIA Network+ Certification Guide ISBN : 9781789340501 By Glen D. Singh , Rishi Latchmepersad Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781789340501/pref} #CodeNotAvailable
-27 May 2022 - Free eBook - Docker and Kubernetes for Java Developers ISBN : 9781786468390 By Jaroslaw Krochmalski Publication date: Aug 2017 { URL :  https://subscription.packtpub.com/book/virtualization-and-cloud/9781786468390/pref }
-28 May 2022 - Free eBook - Drupal 8 Module Development - Second Edition ISBN : 9781789612363 By Daniel Sipos Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/web-development/9781789612363/pref }
-29 May 2022 - { URL : } - #Missed due to the travel from Bangalore to Bangladesh from Milvik.
-30 May 2022 - Free eBook - Getting Started with Talend Open Studio for Data Integration ISBN : 9781849514729 By Jonathan Bowen { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781849514729 } #CodeNotDownloaded #BookNotDownloaded
-31 May 2022 - Free eBook - Git Version Control Cookbook - Second Edition ISBN : 9781789137545 By Kenneth Geisshirt , Emanuele Zattin , Aske Olsson and 1 more Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/application-development/9781789137545/pref01 } #CodeNotAvailable
-
 01 Jun 2022 - Free eBook - Hacking Android ISBN : 9781785883149 By Srinivasa Rao Kotipalli , Mohammed A. Imran Publication date: Jul 2016 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785883149/copyrightpg }
 02 Jun 2022 - Free eBook - Hands-On Embedded Programming with QT ISBN : 9781789952063 By John Werner Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789952063/pref  } #CodeNotDownloaded #BookNotDownloaded
 03 Jun 2022 - { URL : } - Missed due to return journey from Bangladesh to Bangalore
 04 Jun 2022 - Free eBook - Hands-On High Performance Programming with Qt 5 ISBN : 9781789531244 By Marek Krajewski Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789531244/pref } #CodeNotDownloaded #BookNotDownloaded
 05 Jun 2022 - Free eBook - Intelligent Mobile Projects with TensorFlow ISBN : 9781788834544 By Jeff Tang Publication date: May 2018 { URL : https://subscription.packtpub.com/book/application-development/9781788834544/pref } #CodeNotDownloaded #BookNotDownloaded
 06 Jun 2022 - Free eBook - IoT Penetration Testing Cookbook ISBN : 9781787280571 By Aaron Guzman , Aditya Gupta Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781787280571/pref01 }
-07 Jun 2022 - { URL : }
-08 Jun 2022 - { URL : }
-09 Jun 2022 - { URL : }
+07 Jun 2022 - Free eBook - Java EE 8 Application Development ISBN : 9781788293679 By David R. Heffelfinger Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/application-development/9781788293679/pref01 }
+08 Jun 2022 - Free eBook - Kibana 7 Quick Start Guide ISBN : 9781789804034 By Anurag Srivastava Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781789804034/pref }
+09 Jun 2022 - Free eBook - Learn Web Development with Python ISBN : 9781789953299 By Fabrizio Romano , Gaston C. Hillar , Arun Ravindran Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/web-development/9781789953299/pref01 }
 10 Jun 2022 - { URL : }
+11 Jun 2022 - { URL : }
+12 Jun 2022 - { URL : }
+13 Jun 2022 - { URL : }
+14 Jun 2022 - { URL : }
+15 Jun 2022 - { URL : }
+16 Jun 2022 - { URL : }
+17 Jun 2022 - { URL : }
+18 Jun 2022 - { URL : }
+19 Jun 2022 - { URL : }
+20 Jun 2022 - { URL : }
+21 Jun 2022 - { URL : }
