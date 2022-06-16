@@ -795,8 +795,8 @@
 12 Jun 2022 - Free eBook - Learning R for Geospatial Analysis ISBN : 9781783984367 By Michael Dorman Publication date: Dec 2014 { URL : https://subscription.packtpub.com/book/big-data-and-business-intelligence/9781783984367/copyrightpg }
 13 Jun 2022 - Free eBook - Learning SaltStack - Second Edition ISBN : 9781785881909 By Colton Myers Publication date: Jun 2016 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781785881909/copyrightpg } #CodeNotAvailable
 14 Jun 2022 - Free eBook - Learning WebRTC ISBN : 9781783983667 By Dan Ristic Publication date: Jun 2015 { URL : https://subscription.packtpub.com/book/web-development/9781783983667/copyrightpg }
-15 Jun 2022 - { URL : }
-16 Jun 2022 - { URL : }
+15 Jun 2022 - Free eBook - Mastering Linux Kernel Development ISBN : 9781785883057 By Raghu Bharadwaj Publication date: Oct 2017 { URL : https://subscription.packtpub.com/book/application-development/9781785883057/pref01 } #CodeNotAvailable
+16 Jun 2022 - Free eBook - Mastering PostgreSQL 11 - Second Edition ISBN : 9781789537819 By Hans-Jürgen Schönig Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/data/9781789537819/pref }
 17 Jun 2022 - { URL : }
 18 Jun 2022 - { URL : }
 19 Jun 2022 - { URL : }
