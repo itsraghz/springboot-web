@@ -800,5 +800,14 @@
 17 Jun 2022 - Free eBook - Mastering Puppet 5 ISBN : 9781788831864 By Ryan Russell-Yates , Jason Southgate Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788831864/pref01 }
 18 Jun 2022 - Free eBook - Mastering QGIS - Second Edition ISBN : 9781786460370 By Kurt Menke , Dr. Richard Smith Jr. , Luigi Pirelli and 1 more Publication date: Sep 2016 { URL : https://subscription.packtpub.com/book/programming/9781786460370/copyrightpg }
 19 Jun 2022 - Free eBook - MicroStrategy Quick Start Guide ISBN : 9781789136241 By Fernando Carlos Rivero Esqueda Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789136241/pref01 }
-20 Jun 2022 - { URL : }
+20 Jun 2022 - #Duplicate Free eBook - Odoo 12 Development Cookbook - Third Edition ISBN : 9781789618921 By Parth Gajjar , Alexandre Fayolle , Holger Brunn and 1 more Publication date: Apr 2019 { URL : https://subscription.packtpub.com/book/business-other/9781789618921/pref }
 21 Jun 2022 - { URL : }
+22 Jun 2022 - { URL : }
+23 Jun 2022 - { URL : }
+24 Jun 2022 - { URL : }
+25 Jun 2022 - { URL : }
+26 Jun 2022 - { URL : }
+27 Jun 2022 - { URL : }
+28 Jun 2022 - { URL : }
+29 Jun 2022 - { URL : }
+30 Jun 2022 - { URL : }
