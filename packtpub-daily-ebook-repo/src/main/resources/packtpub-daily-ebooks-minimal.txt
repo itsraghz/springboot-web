@@ -1,5 +1,11 @@
 01 Jul 2022 - Free eBook - Software Architecture with Spring 5.0 ISBN : 9781788992992 By Rene Enríquez , Alberto Salazar Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/programming/9781788992992/pref01 }
 02 Jul 2022 - Free eBook - SQL Server 2017 Integration Services Cookbook ISBN : 9781786461827 By Christian Cote , Matija Lah , Dejan Sarka Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/data/9781786461827/pref01 }
-03 Jul 2022 - { URL : }
-04 Jul 2022 - { URL : }
-05 Jul 2022 - { URL : }
+03 Jul 2022 - Free eBook - WiX 3.6: A Developer's Guide to Windows Installer XML ISBN : 9781782160427 By Nick Ramirez Publication date: Dec 2012 { URL : https://subscription.packtpub.com/book/programming/9781782160427/copyrightpg }
+04 Jul 2022 - Free eBook - Advanced Deep Learning with Keras ISBN : 9781788629416 By Rowel Atienza Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/data/9781788629416/copyrightpg }
+05 Jul 2022 - Free eBook - Building Applications with Spring 5 and Vue.js 2 ISBN : 9781788836968 By James J. Ye Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788836968/pref01 }
+06 Jul 2022 - Free eBook - Building Wireless Sensor Networks Using Arduino ISBN : 9781784395582 By Matthijs Kooijman Publication date: Oct 2015 { URL : https://subscription.packtpub.com/book/iot-hardware/9781784395582/copyrightpg }
+07 Jul 2022 - { URL : }
+08 Jul 2022 - { URL : }
+09 Jul 2022 - { URL : }
+10 Jul 2022 - { URL : }
+11 Jul 2022 - { URL : }
