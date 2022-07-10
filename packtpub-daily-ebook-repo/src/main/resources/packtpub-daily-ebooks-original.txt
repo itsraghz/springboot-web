@@ -820,6 +820,15 @@
 06 Jul 2022 - Free eBook - Building Wireless Sensor Networks Using Arduino ISBN : 9781784395582 By Matthijs Kooijman Publication date: Oct 2015 { URL : https://subscription.packtpub.com/book/iot-hardware/9781784395582/copyrightpg }
 07 Jul 2022 - Free eBook - C++17 STL Cookbook ISBN : 9781787120495 By Jacek Galowicz Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/programming/9781787120495/pref01 }
 08 Jul 2022 - Free eBook - CompTIA Server+ Certification Guide ISBN : 9781789534818 By Ron Price Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789534818/pref } #CodeNotAvailable
-09 Jul 2022 - { URL : }
-10 Jul 2022 - { URL : }
+09 Jul 2022 - Free eBook - Designing Purpose-Built Drones for Ardupilot Pixhawk 2.1 ISBN : 9781786469168 By Ty Audronis Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/iot-hardware/9781786469168/pref01 } #CodeNotAvailable
+10 Jul 2022 - Free eBook - Developer, Advocate! ISBN : 9781789138740 By Geertjan Wielenga Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/business-other/9781789138740/1 } #CodeNotAvailable
 11 Jul 2022 - { URL : }
+12 Jul 2022 - { URL : }
+13 Jul 2022 - { URL : }
+14 Jul 2022 - { URL : }
+15 Jul 2022 - { URL : }
+16 Jul 2022 - { URL : }
+17 Jul 2022 - { URL : }
+18 Jul 2022 - { URL : }
+19 Jul 2022 - { URL : }
+20 Jul 2022 - { URL : }
