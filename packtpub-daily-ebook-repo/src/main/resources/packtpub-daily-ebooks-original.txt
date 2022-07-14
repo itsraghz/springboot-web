@@ -824,8 +824,8 @@
 10 Jul 2022 - Free eBook - Developer, Advocate! ISBN : 9781789138740 By Geertjan Wielenga Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/business-other/9781789138740/1 } #CodeNotAvailable
 11 Jul 2022 - Free eBook - Feature Engineering Made Easy ISBN : 9781787287600 By Sinan Ozdemir , Divya Susarla Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/data/9781787287600/pref01 }
 12 Jul 2022 - Free eBook - From Voices to Results - Voice of Customer Questions, Tools and Analysis ISBN : 9781783001446 By Robert Coppenhaver Publication date: Apr 2018 { URL :https://subscription.packtpub.com/book/business-other/9781783001446/copyrightpg } #CodeNotAvailable
-13 Jul 2022 - { URL : }
-14 Jul 2022 - { URL : }
+13 Jul 2022 - Free eBook - Full-Stack Vue.js 2 and Laravel 5 ISBN : 9781788299589 By Anthony Gore Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/web-development/9781788299589/pref01 }
+14 Jul 2022 - Free eBook - Game Physics Cookbook ISBN : 9781787123663 By Gabor Szauer Publication date: Mar 2017 { URL : https://subscription.packtpub.com/book/game-development/9781787123663/copyrightpg }
 15 Jul 2022 - { URL : }
 16 Jul 2022 - { URL : }
 17 Jul 2022 - { URL : }
