@@ -17,8 +17,8 @@
 17 Jul 2022 - Free eBook - Hands-On Deep Learning for Games ISBN : 9781788994071 By Micheal Lanham Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/data/9781788994071/pref } #CodeNotDownloaded #BookNotDownloaded
 18 Jul 2022 - Free eBook - Hands-On Deep Learning for IoT ISBN : 9781789616132 By Dr. Mohammad Abdur Razzaque , Md. Rezaul Karim Publication date: Jun 2019 { URL : https://subscription.packtpub.com/book/data/9781789616132/pref }
 19 Jul 2022 - Free eBook - Hands-On Design Patterns with Delphi ISBN : 9781789343243 By Primož Gabrijelcic Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/programming/9781789343243/pref01 } #CodeNotDownloaded #BookNotDownloaded
-20 Jul 2022 - { URL : }
-21 Jul 2022 - { URL : }
+20 Jul 2022 - Free eBook - Hands-On MQTT Programming with Python ISBN : 9781789138542 By Gaston C. Hillar Publication date: May 2018 { URL : https://subscription.packtpub.com/book/programming/9781789138542/pref }
+21 Jul 2022 - Free eBook - Learn QT 5 ISBN : 9781788478854 By Nicholas Sherriff Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/programming/9781788478854/pref }
 22 Jul 2022 - { URL : }
 23 Jul 2022 - { URL : }
 24 Jul 2022 - { URL : }
