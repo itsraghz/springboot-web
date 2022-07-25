@@ -839,9 +839,8 @@
 21 Jul 2022 - Free eBook - The Docker Workshop ISBN : 9781838983444 By Vincent Sesto, Onur Yilmaz, Sathsara Sarathchandra, and 3 more Publication date: Oct 2020 { URL : https://subscription.packtpub.com/book/cloud-and-networking/9781838983444/2/ch02lvl1sec10/introduction }
 22 Jul 2022 - Free eBook - Learning C# 7 By Developing Games with Unity 2017 - Third Edition Publication date: Dec 2017 ISBN : 9781788478922 By Micael DaGraca , Greg Lukosek { URL : https://subscription.packtpub.com/book/game-development/9781788478922/pref01 } #CodeNotAvailable
 23 Jul 2022 - Free eBook - Learning Predictive Analytics with Python ISBN : 9781783983261 By Ashish Kumar Publication date: Feb 2016 { URL : https://subscription.packtpub.com/book/data/9781783983261/copyrightpg }
-24 Jul 2022 - { URL : }
-25 Jul 2022 - { URL : }
-25 Jul 2022 - { URL : }
+24 Jul 2022 - Missed { URL : }
+25 Jul 2022 - Free eBook - Learning Social Media Analytics with R ISBN : 9781787127524 By Raghav Bali , Dipanjan Sarkar , Tushar Sharma Publication date: May 2017 { URL : https://subscription.packtpub.com/book/data/9781787127524/copyrightpg }
 26 Jul 2022 - { URL : }
 27 Jul 2022 - { URL : }
 28 Jul 2022 - { URL : }
