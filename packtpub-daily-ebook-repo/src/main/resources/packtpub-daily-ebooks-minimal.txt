@@ -29,7 +29,8 @@
 25 Jul 2022 - Free eBook - Learning Social Media Analytics with R ISBN : 9781787127524 By Raghav Bali , Dipanjan Sarkar , Tushar Sharma Publication date: May 2017 { URL : https://subscription.packtpub.com/book/data/9781787127524/copyrightpg }
 26 Jul 2022 - #Duplicate Free eBook - Machine Learning for Finance ISBN : 9781789136364 By Jannes Klaas Publication date: May 2019 { URL : https://subscription.packtpub.com/book/data/9781789136364/copyrightpg }
 27 Jul 2022 - Free eBook - Mastering Active Directory ISBN : 9781787289352 By Dishan Francis Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787289352/pref }
-28 Jul 2022 - { URL : }
-29 Jul 2022 - { URL : }
+28 Jul 2022 - Free eBook - Mastering Concurrency Programming with Java 9 - Second Edition ISBN : 9781785887949 By Javier Fernandez González Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/programming/9781785887949/pref01 }
+28 Jul 2022 - Free eBook - The Data Science Workshop - Second Edition ISBN : 9781800566927 By Anthony So, Thomas V. Joseph, Robert Thas John, and 3 more Publication date: Aug 2020 { URL : https://subscription.packtpub.com/book/data/9781800566927/pref }
+29 Jul 2022 - Free eBook - Mastering pfSense - Second Edition ISBN : 9781788993173 By David Zientara Publication date: May 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788993173/pref } #CodeNotAvailable
 30 Jul 2022 - { URL : }
 31 Jul 2022 - { URL : }
