@@ -847,4 +847,15 @@
 28 Jul 2022 - Free eBook - The Data Science Workshop - Second Edition ISBN : 9781800566927 By Anthony So, Thomas V. Joseph, Robert Thas John, and 3 more Publication date: Aug 2020 { URL : https://subscription.packtpub.com/book/data/9781800566927/pref }
 29 Jul 2022 - Free eBook - Mastering pfSense - Second Edition ISBN : 9781788993173 By David Zientara Publication date: May 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788993173/pref } #CodeNotAvailable
 30 Jul 2022 - Free eBook - Mastering Predictive Analytics with R ISBN : 9781783982806 By Rui Miguel Forte Publication date: Jun 2015 { URL : https://subscription.packtpub.com/book/data/9781783982806/copyrightpg }
-31 Jul 2022 - { URL : }
+31 Jul 2022 - Free eBook - Mastering Predictive Analytics with R - Second Edition ISBN : 9781787121393 By James D. Miller , Rui Miguel Forte Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/data/9781787121393/copyrightpg }
+
+01 Aug 2022 - Free eBook - Mastering Python Networking - Second Edition ISBN : 9781789135992 By Eric Chou Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789135992/pref }
+02 Aug 2022 - { URL : }
+03 Aug 2022 - { URL : }
+04 Aug 2022 - { URL : }
+05 Aug 2022 - { URL : }
+06 Aug 2022 - { URL : }
+07 Aug 2022 - { URL : }
+08 Aug 2022 - { URL : }
+09 Aug 2022 - { URL : }
+10 Aug 2022 - { URL : }

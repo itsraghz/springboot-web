@@ -1,36 +1,10 @@
-01 Jul 2022 - Free eBook - Software Architecture with Spring 5.0 ISBN : 9781788992992 By Rene Enríquez , Alberto Salazar Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/programming/9781788992992/pref01 }
-02 Jul 2022 - Free eBook - SQL Server 2017 Integration Services Cookbook ISBN : 9781786461827 By Christian Cote , Matija Lah , Dejan Sarka Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/data/9781786461827/pref01 }
-03 Jul 2022 - Free eBook - WiX 3.6: A Developer's Guide to Windows Installer XML ISBN : 9781782160427 By Nick Ramirez Publication date: Dec 2012 { URL : https://subscription.packtpub.com/book/programming/9781782160427/copyrightpg }
-04 Jul 2022 - Free eBook - Advanced Deep Learning with Keras ISBN : 9781788629416 By Rowel Atienza Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/data/9781788629416/copyrightpg }
-05 Jul 2022 - Free eBook - Building Applications with Spring 5 and Vue.js 2 ISBN : 9781788836968 By James J. Ye Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788836968/pref01 }
-06 Jul 2022 - Free eBook - Building Wireless Sensor Networks Using Arduino ISBN : 9781784395582 By Matthijs Kooijman Publication date: Oct 2015 { URL : https://subscription.packtpub.com/book/iot-hardware/9781784395582/copyrightpg }
-07 Jul 2022 - Free eBook - C++17 STL Cookbook ISBN : 9781787120495 By Jacek Galowicz Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/programming/9781787120495/pref01 }
-08 Jul 2022 - Free eBook - CompTIA Server+ Certification Guide ISBN : 9781789534818 By Ron Price Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789534818/pref } #CodeNotAvailable
-09 Jul 2022 - Free eBook - Designing Purpose-Built Drones for Ardupilot Pixhawk 2.1 ISBN : 9781786469168 By Ty Audronis Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/iot-hardware/9781786469168/pref01 } #CodeNotAvailable
-10 Jul 2022 - Free eBook - Developer, Advocate! ISBN : 9781789138740 By Geertjan Wielenga Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/business-other/9781789138740/1 } #CodeNotAvailable
-11 Jul 2022 - Free eBook - Feature Engineering Made Easy ISBN : 9781787287600 By Sinan Ozdemir , Divya Susarla Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/data/9781787287600/pref01 }
-12 Jul 2022 - Free eBook - From Voices to Results - Voice of Customer Questions, Tools and Analysis ISBN : 9781783001446 By Robert Coppenhaver Publication date: Apr 2018 { URL :https://subscription.packtpub.com/book/business-other/9781783001446/copyrightpg } #CodeNotAvailable
-13 Jul 2022 - Free eBook - Full-Stack Vue.js 2 and Laravel 5 ISBN : 9781788299589 By Anthony Gore Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/web-development/9781788299589/pref01 }
-14 Jul 2022 - Free eBook - Game Physics Cookbook ISBN : 9781787123663 By Gabor Szauer Publication date: Mar 2017 { URL : https://subscription.packtpub.com/book/game-development/9781787123663/copyrightpg }
-15 Jul 2022 - Free eBook - Getting started with JUCE ISBN : 9781783283316 By Martin Robinson Publication date: Oct 2013 { URL : https://subscription.packtpub.com/book/programming/9781783283316/copyrightpg }
-16 Jul 2022 - Free eBook - Google Cloud Platform for Architects ISBN : 9781788834308 By Vitthal Srinivasan , Janani Ravi , Judy Raj Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788834308/pref } #CodeNotAvailable
-17 Jul 2022 - Free eBook - Hands-On Deep Learning for Games ISBN : 9781788994071 By Micheal Lanham Publication date: Mar 2019 { URL : https://subscription.packtpub.com/book/data/9781788994071/pref } #CodeNotDownloaded #BookNotDownloaded
-18 Jul 2022 - Free eBook - Hands-On Deep Learning for IoT ISBN : 9781789616132 By Dr. Mohammad Abdur Razzaque , Md. Rezaul Karim Publication date: Jun 2019 { URL : https://subscription.packtpub.com/book/data/9781789616132/pref }
-19 Jul 2022 - Free eBook - Hands-On Design Patterns with Delphi ISBN : 9781789343243 By Primož Gabrijelcic Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/programming/9781789343243/pref01 } #CodeNotDownloaded #BookNotDownloaded
-20 Jul 2022 - Free eBook - Hands-On MQTT Programming with Python ISBN : 9781789138542 By Gaston C. Hillar Publication date: May 2018 { URL : https://subscription.packtpub.com/book/programming/9781789138542/pref }
-21 Jul 2022 - Free eBook - Learn QT 5 ISBN : 9781788478854 By Nicholas Sherriff Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/programming/9781788478854/pref }
-21 Jul 2022 - Free eBook - MaptCredit Video Course - Containerize Spring Boot CRUD App with Docker and Docker Compose ISBN : 9781803236346 By Ranjan Pandey  Publication date : Jun 2022 {URL : https://subscription.packtpub.com/video/cloud-and-networking/9781803236346/p1/video1_1/introduction }
-21 Jul 2022 - Free eBook - The TypeScript Workshop ISBN : 9781838828493 By Ben Grynhaus, Jordan Hudgens, Rayon Hunte, and 3 more  Publication date: Jun 2022 { URL : https://subscription.packtpub.com/book/programming/9781838828493/pref }
-21 Jul 2022 - Free eBook - The MySQL Workshop ISBN : 9781839214905 By Thomas Pettit, Scott Cosentino Publication date: April 2022 { URL : https://subscription.packtpub.com/book/data/9781839214905/pref }
-21 Jul 2022 - Free eBook - The Docker Workshop ISBN : 9781838983444 By Vincent Sesto, Onur Yilmaz, Sathsara Sarathchandra, and 3 more Publication date: Oct 2020 { URL : https://subscription.packtpub.com/book/cloud-and-networking/9781838983444/2/ch02lvl1sec10/introduction }
-22 Jul 2022 - Free eBook - Learning C# 7 By Developing Games with Unity 2017 - Third Edition Publication date: Dec 2017 ISBN : 9781788478922 By Micael DaGraca , Greg Lukosek { URL : https://subscription.packtpub.com/book/game-development/9781788478922/pref01 } #CodeNotAvailable
-23 Jul 2022 - Free eBook - Learning Predictive Analytics with Python ISBN : 9781783983261 By Ashish Kumar Publication date: Feb 2016 { URL : https://subscription.packtpub.com/book/data/9781783983261/copyrightpg }
-24 Jul 2022 - Missed { URL : }
-25 Jul 2022 - Free eBook - Learning Social Media Analytics with R ISBN : 9781787127524 By Raghav Bali , Dipanjan Sarkar , Tushar Sharma Publication date: May 2017 { URL : https://subscription.packtpub.com/book/data/9781787127524/copyrightpg }
-26 Jul 2022 - #Duplicate Free eBook - Machine Learning for Finance ISBN : 9781789136364 By Jannes Klaas Publication date: May 2019 { URL : https://subscription.packtpub.com/book/data/9781789136364/copyrightpg }
-27 Jul 2022 - Free eBook - Mastering Active Directory ISBN : 9781787289352 By Dishan Francis Publication date: Jun 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787289352/pref }
-28 Jul 2022 - Free eBook - Mastering Concurrency Programming with Java 9 - Second Edition ISBN : 9781785887949 By Javier Fernandez González Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/programming/9781785887949/pref01 }
-28 Jul 2022 - Free eBook - The Data Science Workshop - Second Edition ISBN : 9781800566927 By Anthony So, Thomas V. Joseph, Robert Thas John, and 3 more Publication date: Aug 2020 { URL : https://subscription.packtpub.com/book/data/9781800566927/pref }
-29 Jul 2022 - Free eBook - Mastering pfSense - Second Edition ISBN : 9781788993173 By David Zientara Publication date: May 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788993173/pref } #CodeNotAvailable
-30 Jul 2022 - Free eBook - Mastering Predictive Analytics with R ISBN : 9781783982806 By Rui Miguel Forte Publication date: Jun 2015 { URL : https://subscription.packtpub.com/book/data/9781783982806/copyrightpg }
-31 Jul 2022 - Free eBook - Mastering Predictive Analytics with R - Second Edition ISBN : 9781787121393 By James D. Miller , Rui Miguel Forte Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/data/9781787121393/copyrightpg }
+01 Aug 2022 - Free eBook - Mastering Python Networking - Second Edition ISBN : 9781789135992 By Eric Chou Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789135992/pref }
+02 Aug 2022 - { URL : }
+03 Aug 2022 - { URL : }
+04 Aug 2022 - { URL : }
+05 Aug 2022 - { URL : }
+06 Aug 2022 - { URL : }
+07 Aug 2022 - { URL : }
+08 Aug 2022 - { URL : }
+09 Aug 2022 - { URL : }
+10 Aug 2022 - { URL : }
