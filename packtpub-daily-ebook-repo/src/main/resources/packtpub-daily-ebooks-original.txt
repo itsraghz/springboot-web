@@ -850,7 +850,7 @@
 31 Jul 2022 - Free eBook - Mastering Predictive Analytics with R - Second Edition ISBN : 9781787121393 By James D. Miller , Rui Miguel Forte Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/data/9781787121393/copyrightpg }
 
 01 Aug 2022 - Free eBook - Mastering Python Networking - Second Edition ISBN : 9781789135992 By Eric Chou Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789135992/pref }
-02 Aug 2022 - { URL : }
+02 Aug 2022 - Free eBook - Mastering R for Quantitative Finance ISBN : 9781783552078 By Edina Berlinger , Ferenc Illés , Milán Badics and 15 more Publication date: Mar 2015 { URL : https://subscription.packtpub.com/book/data/9781783552078/copyrightpg }
 03 Aug 2022 - { URL : }
 04 Aug 2022 - { URL : }
 05 Aug 2022 - { URL : }
