@@ -852,7 +852,7 @@
 01 Aug 2022 - Free eBook - Mastering Python Networking - Second Edition ISBN : 9781789135992 By Eric Chou Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789135992/pref }
 02 Aug 2022 - Free eBook - Mastering R for Quantitative Finance ISBN : 9781783552078 By Edina Berlinger , Ferenc Illés , Milán Badics and 15 more Publication date: Mar 2015 { URL : https://subscription.packtpub.com/book/data/9781783552078/copyrightpg }
 03 Aug 2022 - Free eBook - Modern JavaScript Web Development Cookbook ISBN : 9781788992749 By Federico Kereki Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788992749/pref }
-04 Aug 2022 - { URL : }
+04 Aug 2022 - Free eBook - Network Security with pfSense ISBN : 9781789532975 By Manuj Aggarwal Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789532975/pref } #CodeNotAvailable
 05 Aug 2022 - { URL : }
 06 Aug 2022 - { URL : }
 07 Aug 2022 - { URL : }
