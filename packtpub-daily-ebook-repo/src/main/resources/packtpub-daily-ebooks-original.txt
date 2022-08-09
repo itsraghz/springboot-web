@@ -858,5 +858,15 @@
 07 Aug 2022 - Free eBook - Practical Linux Security Cookbook - Second Edition ISBN : 9781789138399 By Tajinder Kalsi Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/security/9781789138399/pref01 }
 08 Aug 2022 - Free eBook - Python Automation Cookbook ISBN : 9781789133806 By Jaime Buelta Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789133806/pref }
 08 Aug 2022 - Free eBook - Solutions Architect’s Handbook - Second Edition ISBN : 9781801816618 By Saurabh Shrivastava, Neelanjali Srivastav Publication date: Jan 2022 {URL : https://subscription.packtpub.com/book/web-development/9781801816618/pref } #CodeNotAvailable #SurveyGift
-09 Aug 2022 - { URL : }
+09 Aug 2022 - Free eBook - Python Data Science Essentials - Third Edition ISBN : 9781789537864 By Alberto Boschetti , Luca Massaron Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789537864/pref }
 10 Aug 2022 - { URL : }
+11 Aug 2022 - { URL : }
+12 Aug 2022 - { URL : }
+13 Aug 2022 - { URL : }
+14 Aug 2022 - { URL : }
+15 Aug 2022 - { URL : }
+16 Aug 2022 - { URL : }
+17 Aug 2022 - { URL : }
+18 Aug 2022 - { URL : }
+19 Aug 2022 - { URL : }
+20 Aug 2022 - { URL : }
