@@ -9,7 +9,8 @@
 08 Aug 2022 - Free eBook - Solutions Architect’s Handbook - Second Edition ISBN : 9781801816618 By Saurabh Shrivastava, Neelanjali Srivastav Publication date: Jan 2022 {URL : https://subscription.packtpub.com/book/web-development/9781801816618/pref } #CodeNotAvailable #SurveyGift
 09 Aug 2022 - Free eBook - Python Data Science Essentials - Third Edition ISBN : 9781789537864 By Alberto Boschetti , Luca Massaron Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789537864/pref }
 09 Aug 2022 - Free eBook - Mastering Microservices with Java 9 - Second Edition ISBN : 9781787281448 By Sourabh Sharma Publication date : Dec 2017 { URL : https://subscription.packtpub.com/book/application-development/9781787281448/pref } #SurveyGift
-10 Aug 2022 - { URL : }
+09 Aug 2022 - Free eBook - Mastering Microservices with Java - Third Edition ISBN : 9781789530728 By Sourabh Sharma Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789530728/1 } #SurveyGift #Duplicate
+10 Aug 2022 - Free eBook - Python Game Programming By Example ISBN : 9781785281532 By Alejandro Rodas de Paz , Joseph Howse Publication date: Sep 2015 { URL : https://subscription.packtpub.com/book/game-development/9781785281532/copyrightpg }
 11 Aug 2022 - { URL : }
 12 Aug 2022 - { URL : }
 13 Aug 2022 - { URL : }
