@@ -12,7 +12,7 @@
 09 Aug 2022 - Free eBook - Mastering Microservices with Java - Third Edition ISBN : 9781789530728 By Sourabh Sharma Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/application-development/9781789530728/1 } #SurveyGift #Duplicate
 10 Aug 2022 - Free eBook - Python Game Programming By Example ISBN : 9781785281532 By Alejandro Rodas de Paz , Joseph Howse Publication date: Sep 2015 { URL : https://subscription.packtpub.com/book/game-development/9781785281532/copyrightpg }
 11 Aug 2022 - Free eBook - Python GUI Programming Cookbook - Third Edition ISBN : 9781838827540 By Burkhard Meier Publication date: Oct 2019 { URL : https://subscription.packtpub.com/book/programming/9781838827540/pref } #Duplicate
-12 Aug 2022 - { URL : }
+12 Aug 2022 - Free eBook - Qt 5 and OpenCV 4 Computer Vision Projects ISBN : 9781789532586 By Zhuo Qingliang Publication date: Jun 2019 { URL : https://subscription.packtpub.com/book/data/9781789532586/pref }
 13 Aug 2022 - { URL : }
 14 Aug 2022 - { URL : }
 15 Aug 2022 - { URL : }
