@@ -866,7 +866,7 @@
 12 Aug 2022 - Free eBook - Qt 5 and OpenCV 4 Computer Vision Projects ISBN : 9781789532586 By Zhuo Qingliang Publication date: Jun 2019 { URL : https://subscription.packtpub.com/book/data/9781789532586/pref }
 13 Aug 2022 - Free eBook - R Web Scraping Quick Start Guide ISBN : 9781789138733 By Olgun Aydin Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/data/9781789138733/pref }
 14 Aug 2022 - Free eBook - Red Hat Enterprise Linux Troubleshooting Guide ISBN : 9781785283550 By Benjamin Cane Publication date: October 2015 { URL : https://subscription.packtpub.com/book/cloud-networking/9781785283550/copyrightpg } #CodeNotAvailable
-15 Aug 2022 - { URL : }
+15 Aug 2022 - Free eBook - Redis 4.x Cookbook ISBN : 9781783988167 By Pengcheng Huang , Zuofei Wang Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/data/9781783988167/pref01 }
 16 Aug 2022 - { URL : }
 17 Aug 2022 - { URL : }
 18 Aug 2022 - { URL : }
