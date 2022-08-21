@@ -871,8 +871,9 @@
 17 Aug 2022 - Free eBook - SolarWinds Orion Network Performance Monitor ISBN : 9781849688482 By Joe Dissmeyer Publication date: Apr 2013 { URL : https://subscription.packtpub.com/book/cloud-networking/9781849688482/copyrightpg } #BookNotDownloaded #CodeNotAvailable
 18 Aug 2022 - Free eBook - Swift Game Development - Third Edition ISBN : 9781788471152 By Siddharth Shekar , Stephen Haney Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/game-development/9781788471152/copyrightpg }
 19 Aug 2022 - Free eBook - Advanced Oracle PL/SQL Developer's Guide - Second Edition ISBN : 9781785284809 By Saurabh K. Gupta Publication date: Feb 2016 { URL : https://subscription.packtpub.com/book/data/9781785284809/copyrightpg }
-20 Aug 2022 - { URL : }
-21 Aug 2022 - { URL : }
+20 Aug 2022 - Free eBook - ARM® Cortex® M4 Cookbook ISBN : 9781782176503 By Dr. Mark Fisher Publication date: Mar 2016 { URL : https://subscription.packtpub.com/book/programming/9781782176503/copyrightpg } #BookNotDownloaded #CodeNotDownloaded
+20 Aug 2022 - Free eBook - The Machine Learning Workshop - Second Edition ISBN : 9781839219061 By Hyatt Saleh  Publication date: July 2020 { URL : https://subscription.packtpub.com/book/data/9781839219061/pref }
+21 Aug 2022 - Free eBook - Artificial Intelligence and Machine Learning Fundamentals ISBN : 9781789801651 By Zsolt Nagy Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/data/9781789801651/copyrightpg }
 22 Aug 2022 - { URL : }
 23 Aug 2022 - { URL : }
 24 Aug 2022 - { URL : }
