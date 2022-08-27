@@ -28,7 +28,7 @@
 24 Aug 2022 - Free eBook - Blender 3D Cookbook ISBN : 9781783984886 By Enrico Valenza Publication date: Jul 2015 { URL : https://subscription.packtpub.com/book/game-development/9781783984886/copyrightpg } #BookNotDownloaded #CodeNotDownloaded
 25 Aug 2022 - Free eBook - Building Smart LEGO MINDSTORMS EV3 Robots ISBN : 9781788471565 By Kyle Markland Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/iot-hardware/9781788471565/pref } #BookNotDownloaded #CodeNotDownloaded
 26 Aug 2022 - Free eBook - Cloud Native programming with Golang ISBN : 9781787125988 By Mina Andrawos, Martin Helmich Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787125988/pref01 }
-27 Aug 2022 - { URL : }
+27 Aug 2022 - Free eBook - Cognitive Computing with IBM Watson ISBN : 9781788478298 By Rob High , Tanmay Bakshi Publication date: Apr 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788478298/pref01 }
 28 Aug 2022 - { URL : }
 29 Aug 2022 - { URL : }
 30 Aug 2022 - { URL : }
