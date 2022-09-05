@@ -3,7 +3,7 @@
 02 Sep 2022 - Free eBook - The Machine Learning Workshop - Second Edition ISBN : 9781839219061 By Hyatt Saleh Publication date: July 2020 { URL : https://subscription.packtpub.com/book/data/9781839219061/pref } #SurveyGift
 03 Sep 2022 - Free eBook - Google Cloud Platform for Developers ISBN : 9781788837675 By Ted Hunter , Steven Porter Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788837675/pref }
 04 Sep 2022 - Free eBook - Guide to NoSQL with Azure Cosmos DB ISBN : 9781789612899 By Gaston C. Hillar , Daron Yöndem Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789612899/pref01 }
-05 Sep 2022 - { URL : }
+05 Sep 2022 - Free eBook - Hands-On Data Analysis with NumPy and Pandas ISBN : 9781789530797 By Curtis Miller Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/data/9781789530797/pref01 }
 06 Sep 2022 - { URL : }
 07 Sep 2022 - { URL : }
 08 Sep 2022 - { URL : }
