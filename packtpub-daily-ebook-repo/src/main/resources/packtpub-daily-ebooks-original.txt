@@ -893,7 +893,7 @@
 04 Sep 2022 - Free eBook - Guide to NoSQL with Azure Cosmos DB ISBN : 9781789612899 By Gaston C. Hillar , Daron Yöndem Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789612899/pref01 }
 05 Sep 2022 - Free eBook - Hands-On Data Analysis with NumPy and Pandas ISBN : 9781789530797 By Curtis Miller Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/data/9781789530797/pref01 }
 06 Sep 2022 - Free eBook - Hands-On Data Science and Python Machine Learning ISBN : 9781787280748 By Frank Kane Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/data/9781787280748/pref }
-07 Sep 2022 - { URL : }
+07 Sep 2022 - Free eBook - Hands-On DevOps with Vagrant ISBN : 9781789138054 By Alex Braunton Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789138054/pref01 }
 08 Sep 2022 - { URL : }
 09 Sep 2022 - { URL : }
 10 Sep 2022 - { URL : }
