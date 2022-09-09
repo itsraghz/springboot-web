@@ -895,5 +895,5 @@
 06 Sep 2022 - Free eBook - Hands-On Data Science and Python Machine Learning ISBN : 9781787280748 By Frank Kane Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/data/9781787280748/pref }
 07 Sep 2022 - Free eBook - Hands-On DevOps with Vagrant ISBN : 9781789138054 By Alex Braunton Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789138054/pref01 }
 08 Sep 2022 - Free eBook - Hands-On Ensemble Learning with Python ISBN : 9781789612851 By George Kyriakides , Konstantinos G. Margaritis Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/data/9781789612851/pref }
-09 Sep 2022 - { URL : }
+09 Sep 2022 - Free eBook - Hands-On Machine Learning with TensorFlow.js ISBN : 9781838821739 By Kai Sasaki Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/data/9781838821739/pref }
 10 Sep 2022 - { URL : }
