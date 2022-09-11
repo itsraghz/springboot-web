@@ -897,7 +897,7 @@
 08 Sep 2022 - Free eBook - Hands-On Ensemble Learning with Python ISBN : 9781789612851 By George Kyriakides , Konstantinos G. Margaritis Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/data/9781789612851/pref }
 09 Sep 2022 - Free eBook - Hands-On Machine Learning with TensorFlow.js ISBN : 9781838821739 By Kai Sasaki Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/data/9781838821739/pref }
 10 Sep 2022 - Free eBook - Hands-On Markov Models with Python ISBN : 9781788625449 By AnkurAnkan , Abinash Panda Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781788625449/pref }
-11 Sep 2022 - { URL : }
+11 Sep 2022 - Free eBook - Hands-On Microservices with Kotlin ISBN : 9781788471459 By Juan Antonio Medina Iglesias Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788471459/pref }
 12 Sep 2022 - { URL : }
 13 Sep 2022 - { URL : }
 14 Sep 2022 - { URL : }
