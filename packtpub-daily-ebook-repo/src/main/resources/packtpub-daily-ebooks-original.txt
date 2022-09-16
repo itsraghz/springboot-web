@@ -902,7 +902,7 @@
 13 Sep 2022 - Free eBook - IntelliJ IDEA Essentials ISBN : 9781784396930 By Jaroslaw Krochmalski Publication date: Dec 2014 { URL : https://subscription.packtpub.com/book/programming/9781784396930/copyrightpg } #CodeNotAvailable
 14 Sep 2022 - Free eBook - Internet of Things with Raspberry Pi 3 ISBN : 9781788627405 By Maneesh Rao Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/iot-hardware/9781788627405/pref }
 15 Sep 2022 - Free eBook - Java Deep Learning Projects ISBN : 9781788997454 By Md. Rezaul Karim Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/data/9781788997454/pref }
-16 Sep 2022 - { URL : }
+16 Sep 2022 - Free eBook - Kali Linux Network Scanning Cookbook - Second Edition ISBN : 9781787287907 By Michael Hixon , Justin Hutchens { URL : https://subscription.packtpub.com/book/cloud-networking/9781787287907/pref }
 17 Sep 2022 - { URL : }
 18 Sep 2022 - { URL : }
 19 Sep 2022 - { URL : }
