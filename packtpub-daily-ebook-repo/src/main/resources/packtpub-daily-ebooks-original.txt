@@ -904,6 +904,6 @@
 15 Sep 2022 - Free eBook - Java Deep Learning Projects ISBN : 9781788997454 By Md. Rezaul Karim Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/data/9781788997454/pref }
 16 Sep 2022 - Free eBook - Kali Linux Network Scanning Cookbook - Second Edition ISBN : 9781787287907 By Michael Hixon , Justin Hutchens { URL : https://subscription.packtpub.com/book/cloud-networking/9781787287907/pref }
 17 Sep 2022 - Free eBook - Learning Magento 2 Administration ISBN : 9781783288250 By Bret Williams , Cyndi Williams Publication date: May 2016 { URL : https://subscription.packtpub.com/book/web-development/9781783288250/copyrightpg } #CodeNotAvailable
-18 Sep 2022 - { URL : }
+18 Sep 2022 - Free eBook - Learning Python Web Penetration Testing ISBN : 9781789533972 By Christian Martorella Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/security/9781789533972/pref }
 19 Sep 2022 - { URL : }
 20 Sep 2022 - { URL : }
