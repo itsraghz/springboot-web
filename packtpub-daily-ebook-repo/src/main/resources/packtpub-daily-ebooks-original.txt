@@ -911,9 +911,9 @@
 22 Sep 2022 - Free eBook - Mastering AWS Security ISBN : 9781788293723 By Albert Anthony Publication date: Oct 2017 { URL : https://subscription.packtpub.com/book/security/9781788293723/pref } #CodeNotAvailable
 23 Sep 2022 - Free eBook - Mastering Python for Networking and Security ISBN : 9781788992510 By Jose Manuel Ortega Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788992510/pref }
 24 Sep 2022 - Free eBook - Mastering Python Scripting for System Administrators ISBN : 9781789133226 By Ganesh Sanjiv Naik Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789133226/pref }
-25 Sep 2022 - { URL : }
-26 Sep 2022 - { URL : }
-27 Sep 2022 - { URL : }
-28 Sep 2022 - { URL : }
+25 Sep 2022 - Free eBook - Mastering TypeScript 3 - Third Edition ISBN : 9781789536706 By Nathan Rozentals Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/programming/9781789536706/pref }
+26 Sep 2022 - Free eBook - Mastering Unity 2D Game Development - Second Edition ISBN : 9781786463456 By Dr. Ashley Godbold , Simon Jackson Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/game-development/9781786463456/copyrightpg } #BookNotDownloaded #CodeNotDownloaded
+27 Sep 2022 - ERROR - Something went wrong! - Free eBook - Mastering Zendesk By Cedric F. Jacob Publication date: Jan 2017 { URL : } #BookNotDownloaded #CodeNotAvailable
+28 Sep 2022 - Free eBook - Microsoft Dynamics GP 2016 Cookbook ISBN : 9781786463401 By Ian Grieve , Mark Polino Publication date: Aug 2016 { URL : https://subscription.packtpub.com/book/business-other/9781786463401/copyrightpg } #BookNotDownloaded #CodeNotAvailable
 29 Sep 2022 - { URL : }
 30 Sep 2022 - { URL : }
