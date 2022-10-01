@@ -1,31 +1,8 @@
-01 Sep 2022 - Free eBook - Getting Started with Simulink ISBN : 9781782171386 By Luca Zamboni Publication date : October 2013 { URL : https://subscription.packtpub.com/book/application-development/9781782171386/copyrightpg }
-02 Sep 2022 - Free eBook - Getting Started with WebRTC ISBN : 9781782166306 By Rob Manson Publication date: Sep 2013 { URL : https://subscription.packtpub.com/book/business-other/9781782166306/copyrightpg }
-02 Sep 2022 - Free eBook - The Machine Learning Workshop - Second Edition ISBN : 9781839219061 By Hyatt Saleh Publication date: July 2020 { URL : https://subscription.packtpub.com/book/data/9781839219061/pref } #SurveyGift
-03 Sep 2022 - Free eBook - Google Cloud Platform for Developers ISBN : 9781788837675 By Ted Hunter , Steven Porter Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788837675/pref }
-04 Sep 2022 - Free eBook - Guide to NoSQL with Azure Cosmos DB ISBN : 9781789612899 By Gaston C. Hillar , Daron Yöndem Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789612899/pref01 }
-05 Sep 2022 - Free eBook - Hands-On Data Analysis with NumPy and Pandas ISBN : 9781789530797 By Curtis Miller Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/data/9781789530797/pref01 }
-06 Sep 2022 - Free eBook - Hands-On Data Science and Python Machine Learning ISBN : 9781787280748 By Frank Kane Publication date: Jul 2017 { URL : https://subscription.packtpub.com/book/data/9781787280748/pref }
-07 Sep 2022 - Free eBook - Hands-On DevOps with Vagrant ISBN : 9781789138054 By Alex Braunton Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789138054/pref01 }
-08 Sep 2022 - Free eBook - Hands-On Ensemble Learning with Python ISBN : 9781789612851 By George Kyriakides , Konstantinos G. Margaritis Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/data/9781789612851/pref }
-09 Sep 2022 - Free eBook - Hands-On Machine Learning with TensorFlow.js ISBN : 9781838821739 By Kai Sasaki Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/data/9781838821739/pref }
-10 Sep 2022 - Free eBook - Hands-On Markov Models with Python ISBN : 9781788625449 By AnkurAnkan , Abinash Panda Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781788625449/pref }
-11 Sep 2022 - Free eBook - Hands-On Microservices with Kotlin ISBN : 9781788471459 By Juan Antonio Medina Iglesias Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788471459/pref }
-12 Sep 2022 - Free eBook - Hands-On Penetration Testing with Kali NetHunter ISBN : 9781788995177 By Glen D. Singh , Sean-Philip Oriyano Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/security/9781788995177/pref01 } #CodeNotAvailable
-13 Sep 2022 - Free eBook - IntelliJ IDEA Essentials ISBN : 9781784396930 By Jaroslaw Krochmalski Publication date: Dec 2014 { URL : https://subscription.packtpub.com/book/programming/9781784396930/copyrightpg } #CodeNotAvailable
-14 Sep 2022 - Free eBook - Internet of Things with Raspberry Pi 3 ISBN : 9781788627405 By Maneesh Rao Publication date: Apr 2018 { URL : https://subscription.packtpub.com/book/iot-hardware/9781788627405/pref }
-15 Sep 2022 - Free eBook - Java Deep Learning Projects ISBN : 9781788997454 By Md. Rezaul Karim Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/data/9781788997454/pref }
-16 Sep 2022 - Free eBook - Kali Linux Network Scanning Cookbook - Second Edition ISBN : 9781787287907 By Michael Hixon , Justin Hutchens { URL : https://subscription.packtpub.com/book/cloud-networking/9781787287907/pref }
-17 Sep 2022 - Free eBook - Learning Magento 2 Administration ISBN : 9781783288250 By Bret Williams , Cyndi Williams Publication date: May 2016 { URL : https://subscription.packtpub.com/book/web-development/9781783288250/copyrightpg } #CodeNotAvailable
-18 Sep 2022 - Free eBook - Learning Python Web Penetration Testing ISBN : 9781789533972 By Christian Martorella Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/security/9781789533972/pref }
-19 Sep 2022 - Free eBook - Learning Vulkan ISBN : 9781786469809 By Parminder Singh Publication date: Dec 2016 { URL : https://subscription.packtpub.com/book/game-development/9781786469809/copyrightpg } #BookNotDownloaded #CodeNotDownloaded
-20 Sep 2022 - Free eBook - Linux Administration Cookbook ISBN : 9781789342529 By Adam K. Dean Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789342529/pref }
-21 Sep 2022 - Free eBook - Mastering Assembly Programming ISBN : 9781787287488 By Alexey Lyashko Publication date: Sep 2017 { URL : https://subscription.packtpub.com/book/programming/9781787287488/pref }
-22 Sep 2022 - Free eBook - Mastering AWS Security ISBN : 9781788293723 By Albert Anthony Publication date: Oct 2017 { URL : https://subscription.packtpub.com/book/security/9781788293723/pref } #CodeNotAvailable
-23 Sep 2022 - Free eBook - Mastering Python for Networking and Security ISBN : 9781788992510 By Jose Manuel Ortega Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788992510/pref }
-24 Sep 2022 - Free eBook - Mastering Python Scripting for System Administrators ISBN : 9781789133226 By Ganesh Sanjiv Naik Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789133226/pref }
-25 Sep 2022 - Free eBook - Mastering TypeScript 3 - Third Edition ISBN : 9781789536706 By Nathan Rozentals Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/programming/9781789536706/pref }
-26 Sep 2022 - Free eBook - Mastering Unity 2D Game Development - Second Edition ISBN : 9781786463456 By Dr. Ashley Godbold , Simon Jackson Publication date: Oct 2016 { URL : https://subscription.packtpub.com/book/game-development/9781786463456/copyrightpg } #BookNotDownloaded #CodeNotDownloaded
-27 Sep 2022 - ERROR - Something went wrong! - Free eBook - Mastering Zendesk By Cedric F. Jacob Publication date: Jan 2017 { URL : } #BookNotDownloaded #CodeNotAvailable
-28 Sep 2022 - Free eBook - Microsoft Dynamics GP 2016 Cookbook ISBN : 9781786463401 By Ian Grieve , Mark Polino Publication date: Aug 2016 { URL : https://subscription.packtpub.com/book/business-other/9781786463401/copyrightpg } #BookNotDownloaded #CodeNotAvailable333333333333333333333333333333
-29 Sep 2022 - Free eBook - MongoDB 4 Quick Start Guide ISBN : 9781789343533 By Doug Bierer Publication date: Sep 2018 { URL : https://subscription.packtpub.com/book/data/9781789343533/pref }
-30 Sep 2022 - Free eBook - Moodle Course Design Best Practices - Second Edition ISBN : 9781789348606 By Susan Smith Nash Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/web-development/9781789348606/pref } #CodeNotAvailable
+01 Oct 2022 - Free eBook - Multimedia Programming with Pure Data ISBN : 9781782164647 By Bryan WC Chung Publication date: Jul 2013 { URL : https://subscription.packtpub.com/book/programming/9781782164647/copyrightpg }
+02 Oct 2022 - { URL : }
+03 Oct 2022 - { URL : }
+04 Oct 2022 - { URL : }
+05 Oct 2022 - { URL : }
+06 Oct 2022 - { URL : }
+07 Oct 2022 - { URL : }
+08 Oct 2022 - { URL : }
