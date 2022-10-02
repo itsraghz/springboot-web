@@ -919,7 +919,7 @@
 30 Sep 2022 - Free eBook - Moodle Course Design Best Practices - Second Edition ISBN : 9781789348606 By Susan Smith Nash Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/web-development/9781789348606/pref } #CodeNotAvailable
 
 01 Oct 2022 - Free eBook - Multimedia Programming with Pure Data ISBN : 9781782164647 By Bryan WC Chung Publication date: Jul 2013 { URL : https://subscription.packtpub.com/book/programming/9781782164647/copyrightpg }
-02 Oct 2022 - { URL : }
+02 Oct 2022 - Free eBook - Next.js Quick Start Guide ISBN : 9781788993661 By Kirill Konshin Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788993661/pref }
 03 Oct 2022 - { URL : }
 04 Oct 2022 - { URL : }
 05 Oct 2022 - { URL : }
