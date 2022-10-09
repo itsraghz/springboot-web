@@ -6,7 +6,7 @@
 06 Oct 2022 - Free eBook - Redux Quick Start Guide ISBN : 9781789610086 By James Lee, Tao Wei, Suresh Kumar Mukhiya Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/web-development/9781789610086/pref01 }
 07 Oct 2022 - Free eBook - Robot Framework Test Automation ISBN : 9781783283033 By Sumit Bisht Publication date: Oct 2013 { URL : https://subscription.packtpub.com/book/business-other/9781783283033/copyrightpg }
 08 Oct 2022 - Free eBook - Salesforce Lightning Reporting and Dashboards ISBN : 9781788297387 By Johan Yu Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/programming/9781788297387/pref } #CodeNotAvailable #BookNotDownloaded
-09 Oct 2022 - { URL : }
+09 Oct 2022 - Free eBook - Security Automation with Ansible 2 ISBN : 9781788394512 By Madhu Akula , Akash Mahajan Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/business-other/9781788394512/pref01 }
 10 Oct 2022 - { URL : }
 11 Oct 2022 - { URL : }
 12 Oct 2022 - { URL : }
