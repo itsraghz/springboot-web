@@ -930,7 +930,7 @@
 10 Oct 2022 - Free eBook - Selenium Framework Design in Data-Driven Testing ISBN : 9781788473576 By Carl Cocchiaro Publication date: Jan 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788473576/pref01 }
 11 Oct 2022 - Free eBook - Selenium Testing Tools Cookbook - Second Edition ISBN : 9781784392512 By Unmesh Gundecha Publication date: Oct 2015 { URL : https://subscription.packtpub.com/book/programming/9781784392512/copyrightpg }
 12 Oct 2022 - Free eBook - Selenium WebDriver 3 Practical Guide - Second Edition ISBN : 9781788999762 By Unmesh Gundecha Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/programming/9781788999762/pref }
-13 Oct 2022 - { URL : }
+13 Oct 2022 - Free eBook - Serverless Programming Cookbook ISBN : 9781788623797 By Heartin Kanikathottu Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788623797/pref }
 14 Oct 2022 - { URL : }
 15 Oct 2022 - { URL : }
 16 Oct 2022 - { URL : }
