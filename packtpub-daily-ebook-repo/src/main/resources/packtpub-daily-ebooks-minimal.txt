@@ -13,7 +13,7 @@
 13 Oct 2022 - Free eBook - Serverless Programming Cookbook ISBN : 9781788623797 By Heartin Kanikathottu Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781788623797/pref }
 14 Oct 2022 - Free eBook - The Complete Edition - Software Engineering for Real-Time Systems ISBN : 9781839216589 By Jim Cooling Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/business-other/9781839216589 } #CodeNotAvailable
 15 Oct 2022 - Free eBook - Unreal Engine 4 Game Development Essentials ISBN : 9781784391966 By Satheesh PV Publication date: Feb 2016 { URL : https://subscription.packtpub.com/book/game-development/9781784391966/copyrightpg }
-16 Oct 2022 - { URL : }
+16 Oct 2022 - Free eBook - Windows Forensics Cookbook ISBN : 9781784390495 By Oleg Skulkin , Scar de Courcier Publication date: Aug 2017 { URL : https://subscription.packtpub.com/book/security/9781784390495/pref } #CodeNotAvailable #BookNotDownloaded
 17 Oct 2022 - { URL : }
 18 Oct 2022 - { URL : }
 19 Oct 2022 - { URL : }
