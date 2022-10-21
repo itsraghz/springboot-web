@@ -18,7 +18,7 @@
 18 Oct 2022 - Free eBook - Applied Unsupervised Learning with Python ISBN : 9781789952292 By Benjamin Johnston , Aaron Jones , Christopher Kruger Publication date: May 2019 { URL : https://subscription.packtpub.com/book/data/9781789952292/copyrightpg }
 19 Oct 2022 - Free eBook - CCNA Cyber Ops : SECOPS - Certification Guide 210-255 ISBN : 9781838559861 By Andrew Chu Publication date: Jul 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781838559861/pref } #CodeNotAvailable
 20 Oct 2022 - Free eBook - Cisco ACI Cookbook ISBN : 9781787129214 By Stuart Fordham Publication date: May 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787129214/pref01 } #CodeNotAvailable
-21 Oct 2022 - { URL : }
+21 Oct 2022 - Free eBook - Ensemble Machine Learning Cookbook ISBN : 9781789136609 By Dipayan Sarkar , Vijayalakshmi Natarajan Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/data/9781789136609/pref }
 22 Oct 2022 - { URL : }
 23 Oct 2022 - { URL : }
 24 Oct 2022 - { URL : }
