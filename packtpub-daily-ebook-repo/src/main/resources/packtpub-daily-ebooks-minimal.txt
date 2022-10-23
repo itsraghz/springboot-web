@@ -20,7 +20,7 @@
 20 Oct 2022 - Free eBook - Cisco ACI Cookbook ISBN : 9781787129214 By Stuart Fordham Publication date: May 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787129214/pref01 } #CodeNotAvailable
 21 Oct 2022 - Free eBook - Ensemble Machine Learning Cookbook ISBN : 9781789136609 By Dipayan Sarkar , Vijayalakshmi Natarajan Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/data/9781789136609/pref }
 22 Oct 2022 - Free eBook - Enterprise Cloud Security and Governance ISBN : 9781788299558 By Zeal Vora Publication date: Dec 2017 { URL : https://subscription.packtpub.com/book/security/9781788299558 } #CodeNotAvailable
-23 Oct 2022 - { URL : }
+23 Oct 2022 - Free eBook - Extending SaltStack ISBN : 9781785888618 By Joseph Hall Publication date: Mar 2016 { URL : https://subscription.packtpub.com/book/cloud-networking/9781785888618/copyrightpg }
 24 Oct 2022 - { URL : }
 25 Oct 2022 - { URL : }
 26 Oct 2022 - { URL : }
