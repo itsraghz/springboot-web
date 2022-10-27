@@ -944,7 +944,7 @@
 24 Oct 2022 - Free eBook - Full-Stack React Projects ISBN : 9781788835534 By Shama Hoque Publication date: May 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788835534/pref01 } #Duplicate
 25 Oct 2022 - Free eBook - Game Development with Three.js ISBN : 9781782168539 By Isaac Sukin Publication date: Oct 2013 { URL : https://subscription.packtpub.com/book/game-development/9781782168539 }
 26 Oct 2022 - Free eBook - Getting Started with C++ Audio Programming for Game Development ISBN : 9781849699099 By David Gouveia Publication date: Aug 2013 { URL : https://subscription.packtpub.com/book/game-development/9781849699099/copyrightpg }
-27 Oct 2022 - { URL : }
+27 Oct 2022 - Free eBook - Getting Started with Microsoft System Center Operations Manager ISBN : 9781785289743 By Kevin Greene Publication date: Jun 2016 { URL : https://subscription.packtpub.com/book/cloud-networking/9781785289743/copyrightpg } #CodeNotAvailable #BookNotDownloaded
 28 Oct 2022 - { URL : }
 29 Oct 2022 - { URL : }
 30 Oct 2022 - { URL : }
