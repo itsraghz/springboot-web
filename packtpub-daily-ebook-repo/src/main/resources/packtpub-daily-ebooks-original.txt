@@ -947,5 +947,6 @@
 27 Oct 2022 - Free eBook - Getting Started with Microsoft System Center Operations Manager ISBN : 9781785289743 By Kevin Greene Publication date: Jun 2016 { URL : https://subscription.packtpub.com/book/cloud-networking/9781785289743/copyrightpg } #CodeNotAvailable #BookNotDownloaded
 28 Oct 2022 - Free eBook - Hands-On Big Data Modeling ISBN : 9781788620901 By James Lee , Tao Wei , Suresh Kumar Mukhiya Publication date: Nov 2018 { URL : https://subscription.packtpub.com/book/data/9781788620901/pref }
 29 Oct 2022 - Free eBook - Hands-On Functional Programming with TypeScript ISBN : 9781788831437 By Remo H. Jansen Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/programming/9781788831437 }
+29 Oct 2022 - Free eBook - Python Machine Learning - Third Edition ISBN : 9781789955750 By Sebastian Raschka, Vahid Mirjalili Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/data/9781789955750/pref }  #CodeNotDownloaded
 30 Oct 2022 - { URL : }
 31 Oct 2022 - { URL : }
