@@ -10,11 +10,13 @@
         <module name="springboot-web" />
         <module name="web-app-jsp" />
         <module name="spring-security-demo" />
+        <module name="datafaker-demo" />
         <module name="packtpub-daily-ebook-repo" />
         <module name="springboot-web-jsp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="datafaker-demo" target="19" />
       <module name="packtpub-daily-ebook-repo" target="11" />
       <module name="spring-security-demo" target="11" />
       <module name="springboot-thymeleaf" target="11" />
@@ -26,6 +28,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="datafaker-demo" options="-parameters" />
       <module name="packtpub-daily-ebook-repo" options="-parameters" />
       <module name="spring-security-demo" options="-parameters" />
       <module name="springboot-thymeleaf" options="-parameters" />
