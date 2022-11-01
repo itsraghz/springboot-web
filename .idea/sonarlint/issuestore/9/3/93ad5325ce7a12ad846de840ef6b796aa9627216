@@ -1,0 +1,10 @@
+
+P
+java:S1874".Remove this use of "Locale"; it is deprecated.(õ€Êïøÿÿÿÿ8­¦ØßÂ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·µ“»ùÿÿÿÿ8²¦ØßÂ0
+K
+java:S1481".Remove this unused "firstName" local variable.(ïÆæ8·¦ØßÂ0
+]	java:S125"<This block of commented-out lines of code should be removed.(”ö†—ÿÿÿÿÿ8º¦ØßÂ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(˜»òÍ8¾¦ØßÂ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¶ñ•ºùÿÿÿÿ8Å¦ØßÂ0
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(°×ëÃ8Ø¦ØßÂ0

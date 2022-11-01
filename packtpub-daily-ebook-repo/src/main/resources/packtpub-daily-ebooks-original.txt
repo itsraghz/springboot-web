@@ -954,3 +954,12 @@
 30 Oct 2022 - Free eBook - Purchased Video Course using Credits - Learn Angular 8 by Creating a Simple Full Stack Web App [Video] Duration 5 Hrs 30 Mins Credits Remaining 124 ISBN : 9781839213670 By Vinay Kumar, Frahaan Hussain Publication date: Aug 2019 { URL : https://subscription.packtpub.com/video/web_development/9781839213670 }
 30 Oct 2022 - Free eBook - Purchased Video Course using Credits - The Complete Kotlin Developer Course [Video] Duration 12 Hrs 17 Mins Credits Remaining 123 ISBN : 9781839214578 By Rob Percival, Nick Walter Publication date: Jul 2019 { URL : https://subscription.packtpub.com/video/programming/9781839214578 } #CodeNotAvailable
 31 Oct 2022 - #Duplicate Free eBook - Hands-On Neuroevolution with Python ISBN : 9781838824914 By Iaroslav Omelianenko Publication date: Dec 2019 { URL : https://subscription.packtpub.com/book/data/9781838824914/pref }
+
+01 Nov 2022 - Free eBook - Hands-On UX Design for Developers ISBN : 9781788626699 By Elvis Canziba Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788626699/pref01 } #Duplicate
+02 Nov 2022 - { URL : }
+03 Nov 2022 - { URL : }
+04 Nov 2022 - { URL : }
+05 Nov 2022 - { URL : }
+06 Nov 2022 - { URL : }
+07 Nov 2022 - { URL : }
+08 Nov 2022 - { URL : }
