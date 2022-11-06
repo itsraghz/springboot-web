@@ -960,6 +960,6 @@
 03 Nov 2022 - Free eBook - Implementing AWS: Design, Build, and Manage your Infrastructure ISBN : 9781788835770 By Yohan Wadia , Rowan Udell , Lucas Chan and 1 more Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/networking-and-servers/9781788835770/pref01 }
 04 Nov 2022 - Free eBook - Implementing Microsoft Dynamics 365 for Finance and Operations ISBN : 9781787283336 By Rahul Mohta , Yogesh Kasat , JJ Yadav Publication date: Sep 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787283336/pref01 }
 05 Nov 2022 - Free eBook - Implementing Oracle Integration Cloud Service ISBN : 9781786460721 By Robert van Mölken , Phil Wilkins Publication date: Jan 2017 { URL : https://subscription.packtpub.com/book/data/9781786460721/copyrightpg }
-06 Nov 2022 - { URL : }
+06 Nov 2022 - Free eBook - Kivy Blueprints ISBN : 9781783987849 By Mark Vasilkov Publication date: Jan 2015 { URL : https://subscription.packtpub.com/book/mobile/9781783987849/copyrightpg }
 07 Nov 2022 - { URL : }
 08 Nov 2022 - { URL : }
