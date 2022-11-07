@@ -4,5 +4,17 @@
 04 Nov 2022 - Free eBook - Implementing Microsoft Dynamics 365 for Finance and Operations ISBN : 9781787283336 By Rahul Mohta , Yogesh Kasat , JJ Yadav Publication date: Sep 2017 { URL : https://subscription.packtpub.com/book/cloud-networking/9781787283336/pref01 }
 05 Nov 2022 - Free eBook - Implementing Oracle Integration Cloud Service ISBN : 9781786460721 By Robert van Mölken , Phil Wilkins Publication date: Jan 2017 { URL : https://subscription.packtpub.com/book/data/9781786460721/copyrightpg }
 06 Nov 2022 - Free eBook - Kivy Blueprints ISBN : 9781783987849 By Mark Vasilkov Publication date: Jan 2015 { URL : https://subscription.packtpub.com/book/mobile/9781783987849/copyrightpg }
-07 Nov 2022 - { URL : }
+07 Nov 2022 - Free eBook - Learning Articulate Storyline ISBN : 9781849694223 By Stephanie Harnett Publication date: Jul 2013 { URL : https://subscription.packtpub.com/book/web-development/9781849694223/copyrightpg }
 08 Nov 2022 - { URL : }
+09 Nov 2022 - { URL : }
+10 Nov 2022 - { URL : }
+11 Nov 2022 - { URL : }
+12 Nov 2022 - { URL : }
+13 Nov 2022 - { URL : }
+14 Nov 2022 - { URL : }
+15 Nov 2022 - { URL : }
+16 Nov 2022 - { URL : }
+17 Nov 2022 - { URL : }
+18 Nov 2022 - { URL : }
+19 Nov 2022 - { URL : }
+20 Nov 2022 - { URL : }
