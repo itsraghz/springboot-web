@@ -1,9 +1,0 @@
-
-]	java:S125"<This block of commented-out lines of code should be removed.(Œ¥Æ¯üÿÿÿÿ8ÚíÆ«¾/
-X	java:S125%"<This block of commented-out lines of code should be removed.(ÆÜ†ò8ÿîÜ³Ø/
-j
-java:S11928"HDefine a constant instead of duplicating this literal "UNKNOWN" 3 times.(ÓèŸûÿÿÿÿ8İ˜´«¾/
-1
-java:S1700"Rename field "quote"(Ò©ÿ¢8ß˜´«¾/
-p
-java:S2637b"N"quote" is marked "lombok.NonNull" but is not initialized in this constructor.(áÎ±ûÿÿÿÿ8ê˜´«¾/
