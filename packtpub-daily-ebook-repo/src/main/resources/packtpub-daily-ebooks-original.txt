@@ -962,7 +962,7 @@
 05 Nov 2022 - Free eBook - Implementing Oracle Integration Cloud Service ISBN : 9781786460721 By Robert van Mölken , Phil Wilkins Publication date: Jan 2017 { URL : https://subscription.packtpub.com/book/data/9781786460721/copyrightpg }
 06 Nov 2022 - Free eBook - Kivy Blueprints ISBN : 9781783987849 By Mark Vasilkov Publication date: Jan 2015 { URL : https://subscription.packtpub.com/book/mobile/9781783987849/copyrightpg }
 07 Nov 2022 - Free eBook - Learning Articulate Storyline ISBN : 9781849694223 By Stephanie Harnett Publication date: Jul 2013 { URL : https://subscription.packtpub.com/book/web-development/9781849694223/copyrightpg }
-08 Nov 2022 - { URL : }
+08 Nov 2022 - Free eBook - Learning Boost C++ Libraries ISBN : 9781783551217 By Arindam Mukherjee Publication date: Jul 2015 { URL : https://subscription.packtpub.com/book/programming/9781783551217/copyrightpg }
 09 Nov 2022 - { URL : }
 10 Nov 2022 - { URL : }
 11 Nov 2022 - { URL : }
