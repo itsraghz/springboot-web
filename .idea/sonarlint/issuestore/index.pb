@@ -127,8 +127,6 @@ W
 hpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/types/BookFormatEnum.java,c\d\cd0e8482b0b257a6ccb99980308a9cc43c890c56
 ù
 mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/repository/BookRepository.java,a\f\af3a227241839ef007007aa6b2532571feb74998
-ó
-gpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/service/BookService.java,5\8\5878bbd4d674dabea110aad14eb1dc812e37a8c9
 †
 ppacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/service/impl/BookServiceImpl.java,6\6\66b0fb4301bbd0144fa275f512b68add91fb7ed1
 ë
@@ -157,8 +155,6 @@ zpacktpub-daily-ebook-repo/src/test/java/com/raghsonline/packtpubdailyebookrepo/
 hpacktpub-daily-ebook-repo/src/test/java/com/raghsonline/packtpubdailyebookrepo/ScalerAcademyArrayQ2.java,1\8\18d68095f3a43d2a82e657a1b90a7744dcc129b8
 ï
 epacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/dto/SearchBookDTO.java,d\d\dd8f50621c22b9fe874cc45f27a8f0b4b526425b
-ì
-cpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/util/SearchUtil.java,8\8\8804dd1a7059fbed19ee16fcb02d475f141d6f8d
 ë
 apacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/types/TagEnum.java,0\b\0b9a4bfcb75097ee6259a60be7918660431b3bd1
 å
@@ -375,20 +371,14 @@ w
 G.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml,a\b\abef0abf2ea6015291c28c5f5bb29bd82de3f020
 t
 D.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml,b\3\b381eacf50d7dd4d801526eee698668bc5ceb20f
-è
-_packtpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/entity/Book.java,6\b\6b6923f902cb417353462011ca10fb3564983f55
 ù
 mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/HomeController.java,b\e\be6c04eef6d941fe74faa40238e630c78625fc3e
-°
-qpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/BookRestController.java,9\2\92aa2ed1603aaebe6dc306be73d2ae82f170073d
 ñ
 fpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/util/TextExtractor.java,1\6\16c5e33047ebefebd9b31ce35359990fc2d5eaa0
 §
 tpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/service/FreeLearningEntryService.java,9\4\94ae9ae56531d8cdedf6d1c3a261772b28552ded
 ì
 cpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/dto/RawEntryDTO.java,a\1\a17ac2ad23d065ec067c4f5a73a4e20c4bc0da20
-ù
-mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/BookController.java,7\6\7664f54f49b21dae4b663518cee278e11aa53746
 ™
 zpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/FreeLearningEntryController.java,b\9\b9d94f3d0c89ea9d570814e2480a21da1dd85242
 ì
@@ -400,8 +390,6 @@ _
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-•
-upacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/PacktpubDailyEbookRepoApplication.java,8\b\8bec6877e1d72a23b3e5712f97d0834923f1857a
 Q
 !packtpub-daily-ebook-repo/pom.xml,3\8\38e01cc935f69442597e67fc2f239022fe8b192d
 ú

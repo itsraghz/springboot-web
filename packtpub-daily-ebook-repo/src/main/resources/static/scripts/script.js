@@ -154,8 +154,10 @@ function getHTMLTableForSearchResult(searchResultJSON) {
     var htmlTable = "<table>" +
         "<tr>" +
         "<th>Id</th>" +
+        "<th>Date</th>" +
         "<th>Title</th>" +
         "<th>ISBN</th>" +
+        "<th>Published On</th>" +
         "<th>Authors</th>" +
         "</tr>";
 
@@ -167,8 +169,10 @@ function getHTMLTableForSearchResult(searchResultJSON) {
                 "<td>" +
                     "<a href='/book/get?id=" + id + "'>" + id +  "</a>" +
                 "</td>" +
+                "<td>" + searchResultJSON[i].createdDate.slice(0, 10)  + "</td>" +
                 "<td>" + searchResultJSON[i].title + "</td>" +
                 "<td>" + searchResultJSON[i].isbn + "</td>" +
+                "<td>" + searchResultJSON[i].publicationDate + "</td>" +
                 "<td>" + searchResultJSON[i].authors + "</td>" +
             "</tr>";
     }
