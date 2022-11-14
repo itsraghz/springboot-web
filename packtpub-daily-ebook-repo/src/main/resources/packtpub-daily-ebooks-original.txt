@@ -596,7 +596,7 @@
 06 Dec 2021 - Free eBook - SELinux System Administration - Third Edition By Sven Vermeulen Publication Date: Dec 2020 { URL : https://subscription.packtpub.com/book/cloud_and_networking/9781800201477/1 }
 06 Dec 2021 - Free eBook - The Python Workshop By Andrew Bird , Dr Lau Cher Han , Mario Corchero Jiménez and 2 more Publication Date : Nov 2019 { URL : https://subscription.packtpub.com/book/programming/9781839218859/1 }
 07 Dec 2021 - #Duplicate Free eBook - Python Robotics Projects By Prof. Diwakar Vaish Publication date: May 2018 { URL : https://subscription.packtpub.com/book/hardware-and-creative/9781788832922/1 }
-08 Dec 2021 - Free eBook - React.js Essentials By Artemij Fedosejev Publication date: Aug 2015 { URL :https://subscription.packtpub.com/book/web-development/9781783551620 }
+08 Dec 2021 - Free eBook - React.js Essentials ISBN : 9781783551620 By Artemij Fedosejev Publication date: Aug 2015 { URL :https://subscription.packtpub.com/book/web-development/9781783551620 }
 08 Dec 2021 - #SurveyGift Free eBook - Automating Workflows with GitHub Actions By Priscila Heller Publication Date: Nov 2021.  {URL : https://subscription.packtpub.com/book/cloud_and_networking/9781800560406/2 }
 09 Dec 2021 - Free eBook - Real-World SRE By Nat Welch Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/web-development/9781788628884/1 }
 09 Dec 2021 - #SurveyGift Free eBook - Spring: Developing Java Applications for the Enterprise By Ravi Kant Soni, Amuthan Ganeshan, Rajesh RV Publication Date : Feb 2017 { URL : https://www.packtpub.com/product/spring-developing-java-applications-for-the-enterprise/9781787282223 }
