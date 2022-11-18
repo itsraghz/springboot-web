@@ -973,6 +973,6 @@
 15 Nov 2022 - Free eBook - Python Fundamentals ISBN : 9781789807325 By Ryan Marvin , Mark Ng’ang’a , Amos Omondi Publication date: Oct 2018 { URL : https://subscription.packtpub.com/book/programming/9781789807325/copyrightpg } #Duplicate
 16 Nov 2022 - Free eBook - The HTML and CSS Workshop ISBN : 9781838824532 By Lewis Coulson , Brett Jephson , Rob Larsen and 2 more Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/web-development/9781838824532/pref }
 17 Nov 2022 - Free eBook - Mastering Git ISBN : 9781783553754 By Jakub Narebski Publication date: Apr 2016 { URL : https://subscription.packtpub.com/book/programming/9781783553754/copyrightpg } #Duplicate
-18 Nov 2022 - { URL : }
+18 Nov 2022 - Free eBook - Learn Microsoft Office 2019 ISBN : 9781839217258   By Linda Foulkes Publication date: May 2020 { URL : https://subscription.packtpub.com/book/business-other/9781839217258/pref }
 19 Nov 2022 - { URL : }
 20 Nov 2022 - { URL : }
