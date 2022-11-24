@@ -27,7 +27,7 @@
 21 Nov 2022 - Free eBook - Free eBook - The Python Workshop ISBN : 9781839218859 By Andrew Bird , Dr. Lau Cher Han , Mario Corchero Jiménez and 2 more Publication date: Nov 2019 { URL : https://subscription.packtpub.com/book/programming/9781839218859/pref } #Duplicate
 22 Nov 2022 - Free eBook - Free eBook - Learning Malware Analysis ISBN : 9781788392501 By Monnappa K A Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/security/9781788392501/pref01 } #CodeNotAvailable
 23 Nov 2022 - Free eBook - Free eBook - Software Architect's Handbook ISBN : 9781788624060 By Joseph Ingeno Publication date: Aug 2018 { URL : https://subscription.packtpub.com/book/programming/9781788624060/pref } #CodeNotAvailable
-24 Nov 2022 - Free eBook - { URL : }
+24 Nov 2022 - Free eBook - Free eBook - Cybersecurity: The Beginner's Guide ISBN : 9781789616194 By Dr. Erdal Ozkaya Publication date: May 2019 { URL : https://subscription.packtpub.com/book/security/9781789616194/pref } #CodeNotAvailable
 25 Nov 2022 - Free eBook - { URL : }
 26 Nov 2022 - Free eBook - { URL : }
 27 Nov 2022 - Free eBook - { URL : }
