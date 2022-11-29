@@ -989,5 +989,5 @@
 26 Nov 2022 - Free eBook - Free eBook - Salesforce CRM - The Definitive Admin Handbook - Fifth Edition ISBN : 9781789619782 By Paul Goodey Publication date: Apr 2019 { URL : https://subscription.packtpub.com/book/programming/9781789619782/pref } #CodeNotAvailable
 27 Nov 2022 - Free eBook - Free eBook - Learn Ethereum ISBN : 9781789954111 By Xun (Brian) Wu , Zhihong Zou , Dongying Song Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/data/9781789954111/pref }
 28 Nov 2022 - Free eBook - Free eBook - Hands-On Design Patterns with C++ ISBN : 9781788832564 By Fedor G. Pikus Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/programming/9781788832564/pref }
-29 Nov 2022 - Free eBook - { URL : }
+29 Nov 2022 - Free eBook - Free eBook - Computer Programming for Absolute Beginners ISBN : 9781839216862 By Joakim Wassberg Publication date: Jul 2020 { URL : https://subscription.packtpub.com/book/programming/9781839216862/pref } #CodeNotAvailable
 30 Nov 2022 - Free eBook - { URL : }
