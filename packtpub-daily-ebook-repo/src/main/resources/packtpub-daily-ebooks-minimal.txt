@@ -33,4 +33,4 @@
 27 Nov 2022 - Free eBook - Free eBook - Learn Ethereum ISBN : 9781789954111 By Xun (Brian) Wu , Zhihong Zou , Dongying Song Publication date: Sep 2019 { URL : https://subscription.packtpub.com/book/data/9781789954111/pref }
 28 Nov 2022 - Free eBook - Free eBook - Hands-On Design Patterns with C++ ISBN : 9781788832564 By Fedor G. Pikus Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/programming/9781788832564/pref }
 29 Nov 2022 - Free eBook - Free eBook - Computer Programming for Absolute Beginners ISBN : 9781839216862 By Joakim Wassberg Publication date: Jul 2020 { URL : https://subscription.packtpub.com/book/programming/9781839216862/pref } #CodeNotAvailable
-30 Nov 2022 - Free eBook - { URL : }
+30 Nov 2022 - Free eBook - Free eBook - Expert C++ ISBN : 9781838552657 By Vardan Grigoryan , Shunguang Wu Publication date: Apr 2020 { URL : https://subscription.packtpub.com/book/programming/9781838552657/pref }
