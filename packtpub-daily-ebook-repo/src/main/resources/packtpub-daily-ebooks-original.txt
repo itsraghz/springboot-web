@@ -993,7 +993,7 @@
 30 Nov 2022 - Free eBook - Free eBook - Expert C++ ISBN : 9781838552657 By Vardan Grigoryan , Shunguang Wu Publication date: Apr 2020 { URL : https://subscription.packtpub.com/book/programming/9781838552657/pref }
 
 01 Dec 2022 - Free eBook - Free eBook - Microsoft Power Platform Enterprise Architecture ISBN : 9781800204577 By Robert Rybaric Publication date: Sep 2020 { URL : https://subscription.packtpub.com/book/business-other/9781800204577/pref }
-02 Dec 2022 - Free eBook - { URL : }
+02 Dec 2022 - Free eBook - Free eBook - Clean Code in C# ISBN : 9781838982973 By Jason Alls Publication date: Jul 2020 { URL : https://subscription.packtpub.com/book/programming/9781838982973/pref }
 03 Dec 2022 - Free eBook - { URL : }
 04 Dec 2022 - Free eBook - { URL : }
 05 Dec 2022 - Free eBook - { URL : }
