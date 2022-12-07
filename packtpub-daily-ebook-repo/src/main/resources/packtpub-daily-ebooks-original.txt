@@ -998,5 +998,5 @@
 04 Dec 2022 - Free eBook - Free eBook - Python Penetration Testing Cookbook ISBN : 9781784399771 By Rejah Rehim Publication date: Nov 2017 { URL : https://subscription.packtpub.com/book/security/9781784399771/pref }
 05 Dec 2022 - Free eBook - Free eBook - R Deep Learning Essentials - Second Edition ISBN : 9781788992893 By Mark Hodnett , Joshua F. Wiley { URL : https://subscription.packtpub.com/book/data/9781788992893/pref }
 06 Dec 2022 - Free eBook - Free eBook - Seven NoSQL Databases in a Week ISBN : 9781787288867 By Aaron Ploetz , Devram Kandhare , Sudarshan Kadambi and 1 more Publication date: Mar 2018 { URL :  https://subscription.packtpub.com/book/data/9781787288867/pref01 }
-07 Dec 2022 - Free eBook - { URL : }
+07 Dec 2022 - Free eBook - Free eBook - Splunk Essentials - Second Edition ISBN : 9781785889462 By Betsy Page Sigman , Erickson Delgado Publication date: Sep 2016 { URL : https://subscription.packtpub.com/book/data/9781785889462/copyrightpg }
 08 Dec 2022 - Free eBook - { URL : }
