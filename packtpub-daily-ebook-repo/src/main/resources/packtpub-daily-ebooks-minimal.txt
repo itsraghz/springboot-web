@@ -6,3 +6,12 @@
 06 Dec 2022 - Free eBook - Free eBook - Seven NoSQL Databases in a Week ISBN : 9781787288867 By Aaron Ploetz , Devram Kandhare , Sudarshan Kadambi and 1 more Publication date: Mar 2018 { URL :  https://subscription.packtpub.com/book/data/9781787288867/pref01 }
 07 Dec 2022 - Free eBook - Free eBook - Splunk Essentials - Second Edition ISBN : 9781785889462 By Betsy Page Sigman , Erickson Delgado Publication date: Sep 2016 { URL : https://subscription.packtpub.com/book/data/9781785889462/copyrightpg }
 08 Dec 2022 - Free eBook - Free eBook - Spring 5.0 Projects ISBN : 9781788390415 By Nilang Patel Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/programming/9781788390415/pref01 }
+09 Dec 2022 - Free eBook - Free eBook - SQL Server 2016 Developer's Guide ISBN : 9781786465344 By Dejan Sarka , Miloš Radivojevic , William Durkin Publication date: Mar 2017 { URL : https://subscription.packtpub.com/book/data/9781786465344/copyrightpg }
+10 Dec 2022 - Free eBook - { URL : }
+11 Dec 2022 - Free eBook - { URL : }
+12 Dec 2022 - Free eBook - { URL : }
+13 Dec 2022 - Free eBook - { URL : }
+14 Dec 2022 - Free eBook - { URL : }
+15 Dec 2022 - Free eBook - { URL : }
+16 Dec 2022 - Free eBook - { URL : }
+17 Dec 2022 - Free eBook - { URL : }

@@ -404,5 +404,3 @@ qpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/
 _packtpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/entity/Book.java,6\b\6b6923f902cb417353462011ca10fb3564983f55
 ù
 mpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/BookController.java,7\6\7664f54f49b21dae4b663518cee278e11aa53746
-
-Osrc/main/java/com/raghsonline/springbootweb/qms/controller/QuoteController.java,e\5\e5551572427f843223b1a24cd7c1287e2bc04516
