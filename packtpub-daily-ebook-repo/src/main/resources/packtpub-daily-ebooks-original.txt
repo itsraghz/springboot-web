@@ -1004,8 +1004,8 @@
 10 Dec 2022 - Free eBook - The Agile Developer's Handbook ISBN : 9781787280205 By Paul Flewelling Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/business-other/9781787280205/pref } #CodeNotAvailable
 11 Dec 2022 - Free eBook - Zabbix 4 Network Monitoring - Third Edition ISBN : 9781789340266 By Patrik Uytterhoeven , Rihards Olups Publication date: Jan 2019 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789340266/pref }
 12 Dec 2022 - Free eBook - Advanced C++ ISBN : 9781838821135 By Gazihan Alankus , Olena Lizina , Rakesh Mane and 2 more Publication date: Oct 2019  { URL : https://subscription.packtpub.com/book/programming/9781838821135/pref01 }
-13 Dec 2022 - Free eBook - AI Blueprints ISBN : 9781788992879 By Dr. Joshua Eckroth Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/data/9781788992879/copyrightpg } 
-14 Dec 2022 - Free eBook - { URL : }
+13 Dec 2022 - Free eBook - AI Blueprints ISBN : 9781788992879 By Dr. Joshua Eckroth Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/data/9781788992879/copyrightpg }
+14 Dec 2022 - Free eBook - Apple Motion 5 Cookbook ISBN : 9781849693806 By Nick Harauz Publication date: May 2013 { URL : https://subscription.packtpub.com/book/business-other/9781849693806/copyrightpg }
 15 Dec 2022 - Free eBook - { URL : }
 16 Dec 2022 - Free eBook - { URL : }
 17 Dec 2022 - Free eBook - { URL : }
