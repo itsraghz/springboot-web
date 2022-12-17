@@ -14,4 +14,4 @@
 14 Dec 2022 - Free eBook - Apple Motion 5 Cookbook ISBN : 9781849693806 By Nick Harauz Publication date: May 2013 { URL : https://subscription.packtpub.com/book/business-other/9781849693806/copyrightpg }
 15 Dec 2022 - Free eBook - Artificial Intelligence ISBN : 9781788990547 By Example By Denis Rothman Publication date: May 2018 { URL : https://subscription.packtpub.com/book/data/9781788990547/pref }
 16 Dec 2022 - Free eBook - Blender 3D Printing Essentials ISBN : 9781783284597 By Gordon Fisher Publication date: Nov 2013 { URL : https://subscription.packtpub.com/book/iot-hardware/9781783284597/copyrightpg } #CodeNotDownloaded #BookNotDownloaded
-17 Dec 2022 - Free eBook - { URL : }
+17 Dec 2022 - Free eBook - Hands-On Data Structures and Algorithms with Kotlin ISBN : 9781788994019 By Chandra Sekhar Nayak , Rivu Chakraborty Publication date: Feb 2019 { URL : https://subscription.packtpub.com/book/programming/9781788994019/pref }
