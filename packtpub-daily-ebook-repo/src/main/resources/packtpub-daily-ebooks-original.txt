@@ -1025,7 +1025,7 @@
 31 Dec 2022 - Free eBook - Gamification with Moodle ISBN : 9781782173076 By Natalie Denmeade Publication date: Oct 2015  { URL : https://subscription.packtpub.com/book/web-development/9781782173076 } #CodeNotAvailable
 
 01 Jan 2023 - Free eBook - Getting Started with Terraform - Second Edition ISBN : 9781788623537 By Kirill Shirinkin Publication date: Jul 2017  { URL : https://subscription.packtpub.com/book/cloud-networking/9781788623537/pref01 }
-02 Jan 2023 - Free eBook - { URL : }
+02 Jan 2023 - Free eBook - GitHub Essentials - Second Edition ISBN : 9781789138337 By Achilleas Pipinellis Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/programming/9781789138337/pref }
 03 Jan 2023 - Free eBook - { URL : }
 04 Jan 2023 - Free eBook - { URL : }
 05 Jan 2023 - Free eBook - { URL : }
