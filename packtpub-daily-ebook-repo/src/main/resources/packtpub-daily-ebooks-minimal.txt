@@ -2,6 +2,6 @@
 02 Jan 2023 - Free eBook - GitHub Essentials - Second Edition ISBN : 9781789138337 By Achilleas Pipinellis Publication date: Jun 2018 { URL : https://subscription.packtpub.com/book/programming/9781789138337/pref }
 03 Jan 2023 - Free eBook - Go Machine Learning Projects ISBN : 9781788993401 By Xuanyi Chew Publication date: Nov 2018  { URL : https://subscription.packtpub.com/book/data/9781788993401/pref }
 04 Jan 2023 - Free eBook - Google Apps Script for Beginners ISBN : 9781783552177 By Serge Gabet Publication date: Feb 2014 { URL : https://subscription.packtpub.com/book/web-development/9781783552177/copyrightpg }
-05 Jan 2023 - Free eBook - { URL : }
+05 Jan 2023 - Free eBook - Hands-On Automated Machine Learning ISBN : 9781788629898 By Sibanjan Das , Umit Mert Cakmak Publication date: Apr 2018  { URL : https://subscription.packtpub.com/book/data/9781788629898/pref }
 06 Jan 2023 - Free eBook - { URL : }
 07 Jan 2023 - Free eBook - { URL : }
