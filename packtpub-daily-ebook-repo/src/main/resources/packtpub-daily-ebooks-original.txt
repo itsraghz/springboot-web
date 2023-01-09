@@ -1032,3 +1032,4 @@
 06 Jan 2023 - Free eBook - Hands-On Bug Hunting for Penetration Testers ISBN : 9781789344202 By Joe Marshall Publication date: Sep 2018  { URL : https://subscription.packtpub.com/book/security/9781789344202/pref }
 07 Jan 2023 - Free eBook - Hands-On Data Analysis with Scala ISBN : 9781789346114 By Rajesh Gupta Publication date: May 2019 { URL : https://subscription.packtpub.com/book/data/9781789346114/pref }
 08 Jan 2023 - Free eBook - Hands-On Data Science with Anaconda ISBN : 9781788831192 By Dr. Yuxing Yan , James Yan Publication date: May 2018  { URL : https://subscription.packtpub.com/book/data/9781788831192/pref }
+09 Jan 2023 - Free eBook - Hands-On Data Science with R ISBN : 9781789139402 By Vitor Bianchi Lanzetta, Nataraj Dasgupta, Ricardo Anjoleto Farias Publication date: Nov 2018  { URL : https://subscription.packtpub.com/book/data/9781789139402/pref }
