@@ -1056,7 +1056,7 @@
 22 Jan 2023 - Free eBook - Learning SciPy for Numerical and Scientific Computing - Second Edition ISBN : 9781783987702 By Sergio J. Rojas G. , Erik A Christensen , Francisco J. Blanco-Silva Publication date: Feb 2015  { URL : https://subscription.packtpub.com/book/data/9781783987702/copyrightpg }
 23 Jan 2023 - Free eBook - Learning ServiceNow ISBN : 9781785883323 By Tim Woodruff Publication date: Mar 2017  { URL : https://subscription.packtpub.com/book/cloud-networking/9781785883323 } #CodeNotAvailable
 24 Jan 2023 - Free eBook - Learning Vue.js 2 ISBN : 9781786469946 By Olga Filipova Publication date: Dec 2016  { URL : https://subscription.packtpub.com/book/web-development/9781786469946 }
-25 Jan 2023 - Free eBook - { URL : }
+25 Jan 2023 - Free eBook - Machine Learning Algorithms - Second Edition ISBN : 9781789347999 By Giuseppe Bonaccorso Publication date: Aug 2018  { URL : https://subscription.packtpub.com/book/data/9781789347999/pref }
 26 Jan 2023 - Free eBook - { URL : }
 27 Jan 2023 - Free eBook - { URL : }
 28 Jan 2023 - Free eBook - { URL : }
