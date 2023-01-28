@@ -26,7 +26,7 @@
 25 Jan 2023 - Free eBook - Machine Learning Algorithms - Second Edition ISBN : 9781789347999 By Giuseppe Bonaccorso Publication date: Aug 2018  { URL : https://subscription.packtpub.com/book/data/9781789347999/pref }
 26 Jan 2023 - Free eBook - Machine Learning with Spark - Second Edition ISBN : 9781785889936 By Rajdeep Dua , Manpreet Singh Ghotra , Nick Pentreath Publication date: Apr 2017  { URL : https://subscription.packtpub.com/book/data/9781785889936/pref }
 27 Jan 2023 - Free eBook - MariaDB Essentials ISBN : 9781783982868 By Emilien Kenler , Federico Razzoli Publication date: Oct 2015  { URL : https://subscription.packtpub.com/book/data/9781783982868/copyrightpg }
-28 Jan 2023 - Free eBook - { URL : }
+28 Jan 2023 - Free eBook - Mastering Data Visualization with Microsoft Visio Professional 2016 ISBN : 9781785882661 By David Parker Publication date: May 2016  { URL : https://subscription.packtpub.com/book/data/9781785882661/copyrightpg }
 29 Jan 2023 - Free eBook - { URL : }
 30 Jan 2023 - Free eBook - { URL : }
 31 Jan 2023 - Free eBook - { URL : }
