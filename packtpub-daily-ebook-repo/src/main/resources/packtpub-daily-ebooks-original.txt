@@ -1065,7 +1065,7 @@
 31 Jan 2023 - Free eBook - Mastering KVM Virtualization ISBN : 9781784399054 By Humble Devassy Chirammal , Prasad Mukhedkar , Anil Vettathu Publication date: Aug 2016 { URL : https://subscription.packtpub.com/book/cloud-networking/9781784399054/copyrightpg } #CodeNotAvailable
 
 01 Feb 2023 - Free eBook - Mastering MariaDB ISBN : 9781783981540 By Federico Razzoli Publication date: Sep 2014  { URL : https://subscription.packtpub.com/book/data/9781783981540/copyrightpg }
-02 Feb 2023 - Free eBook - { URL : }
+02 Feb 2023 - Free eBook - Mastering Redis ISBN : 9781783988181 By Jeremy Nelson Publication date: May 2016  { URL : https://subscription.packtpub.com/book/data/9781783988181/copyrightpg }
 03 Feb 2023 - Free eBook - { URL : }
 04 Feb 2023 - Free eBook - { URL : }
 65 Feb 2023 - Free eBook - { URL : }
