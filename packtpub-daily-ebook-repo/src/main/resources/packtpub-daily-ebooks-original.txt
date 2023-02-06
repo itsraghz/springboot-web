@@ -1069,5 +1069,13 @@
 03 Feb 2023 - Free eBook - ERROR - Mastering SQL Queries for SAP Business One ISBN : By Gordon Du Publication date: May 2011  { URL : https://www.packtpub.com/product/mastering-sql-queries-for-sap-business-one/9781849682367 } #BookNotDownloaded #CodeNotDownloaded
 04 Feb 2023 - Free eBook - Microsoft Dynamics 365 Enterprise Edition - Financial Management (Third Edition) ISBN : 9781788839297 By Mohamed Aamer Publication date: Mar 2018  { URL : https://subscription.packtpub.com/book/business-other/9781788839297/pref01 } #CodeNotAvailable
 05 Feb 2023 - Free eBook - openFrameworks Essentials ISBN : 9781784396145 By Denis Perevalov , Igor Tatarnikov Publication date: Apr 2015  { URL : https://subscription.packtpub.com/book/programming/9781784396145/copyrightpg }
-06 Feb 2023 - Free eBook - { URL : }
+06 Feb 2023 - Free eBook - MobX Quick Start Guide ISBN : 9781789344837 By Pavan Podila , Michel Weststrate Publication date: Jul 2018 { URL : https://subscription.packtpub.com/book/web-development/9781789344837 }
 07 Feb 2023 - Free eBook - { URL : }
+08 Feb 2023 - Free eBook - { URL : }
+09 Feb 2023 - Free eBook - { URL : }
+10 Feb 2023 - Free eBook - { URL : }
+11 Feb 2023 - Free eBook - { URL : }
+12 Feb 2023 - Free eBook - { URL : }
+13 Feb 2023 - Free eBook - { URL : }
+14 Feb 2023 - Free eBook - { URL : }
+15 Feb 2023 - Free eBook - { URL : }
