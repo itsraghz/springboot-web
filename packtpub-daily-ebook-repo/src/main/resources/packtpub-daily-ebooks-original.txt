@@ -1076,6 +1076,6 @@
 10 Feb 2023 - Free eBook - Programming Microsoft Dynamics NAV - Fifth Edition ISBN : 9781786468192 By Marije Brummel , David A. Studebaker , Christopher D. Studebaker Publication date: Apr 2017 - { URL : https://subscription.packtpub.com/book/business-other/9781786468192/pref } #BookNotDownloaded #ReadOnly
 11 Feb 2023 - Free eBook - Python Deep Learning - Second Edition ISBN : 9781789348460 By Ivan Vasilev , Daniel Slater , Gianmario Spacagna and 2 more Publication date: Jan 2019  { URL : https://subscription.packtpub.com/book/data/9781789348460/pref } #BookNotDownloaded #ReadOnly
 12 Feb 2023 - Free eBook - Python Web Scraping - Second Edition ISBN : 9781786462589 By Katharine Jarmul , Richard Lawson Publication date: May 2017  { URL : https://subscription.packtpub.com/book/data/9781786462589/pref } #BookNotDownloaded
-13 Feb 2023 - Free eBook - { URL : }
+13 Feb 2023 - Free eBook - PyTorch Deep Learning Hands-On ISBN : 9781788834131 By Sherin Thomas , Sudhanshu Passi Publication date: Apr 2019  { URL : https://subscription.packtpub.com/book/data/9781788834131/pref } #BookNotDownloaded
 14 Feb 2023 - Free eBook - { URL : }
 15 Feb 2023 - Free eBook - { URL : }
