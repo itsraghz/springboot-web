@@ -1091,5 +1091,5 @@
 24 Feb 2023 - Free eBook - Teaching with Google Classroom ISBN : 9781786466280 By Michael Zhang Publication date: Sep 2016  { URL : https://subscription.packtpub.com/book/business-other/9781786466280/copyrightpg } #CodeNotAvailable
 25 Feb 2023 - Free eBook - The Complete Guide to DAZ Studio 4 ISBN : 9781849694087 By Paolo Ciccone Publication date: Oct 2013  { URL : https://subscription.packtpub.com/book/business-other/9781849694087 }
 26 Feb 2023 - Free eBook - The PHP Workshop ISBN : 9781838648916 By Alexandru Busuioc , David Carr , Markus Gray and 4 more Publication date: Oct 2019  { URL : https://subscription.packtpub.com/book/programming/9781838648916 } #Duplicate
-27 Feb 2023 - Free eBook - { URL : }
+27 Feb 2023 - Free eBook - The Professional ScrumMaster's Handbook ISBN : 9781849688024 By Stacia Viscardi Publication date: Apr 2013  { URL : https://subscription.packtpub.com/book/business-other/9781849688024/copyrightpg } #CodeNotAvailable
 28 Feb 2023 - Free eBook - { URL : }
