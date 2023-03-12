@@ -221,6 +221,7 @@ public class FreeLearningEntryController {
 
         FreeLearningEntryDTO entryDTO = new FreeLearningEntryDTO();
 
+        entryDTO.setId(entry.getId());
         entryDTO.setBookId(null!=entry.getBook() ? entry.getBook().getId() : -1);
         entryDTO.setDescription(entry.getDescription());
         entryDTO.setDuplicate(entry.isDuplicate());

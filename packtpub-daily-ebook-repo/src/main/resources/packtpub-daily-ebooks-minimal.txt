@@ -5,5 +5,16 @@
 05 Mar 2023 - Free eBook - WebRTC Integrator's Guide ISBN : 9781783981267 By Altanai Publication date: Oct 2014 { URL : https://subscription.packtpub.com/book/business-other/9781783981267 }
 06 Mar 2023 - Free eBook - Yocto for Raspberry Pi ISBN : 9781785281952 By Pierre-Jean Texier , Petter Mabäcker Publication date: Jun 2016  { URL : https://subscription.packtpub.com/book/iot-hardware/9781785281952/copyrightpg }
 07 Mar 2023 - Free eBook - App Inventor 2 Essentials ISBN : 9781785281105 By Felicia Kamriani , Krishnendu Roy Publication date: Apr 2016  { URL : https://subscription.packtpub.com/book/programming/9781785281105 }
-08 Mar 2023 - Free eBook - Applied Supervised Learning with Python ISBN : 9781789954920 By Benjamin Johnston , Ishita Mathur Publication dte : Apr 2019 { URL : https://subscription.packtpub.com/book/data/9781789954920 }
+08 Mar 2023 - Free eBook - Applied Supervised Learning with Python ISBN : 9781789954920 By Benjamin Johnston , Ishita Mathur Publication date : Apr 2019 { URL : https://subscription.packtpub.com/book/data/9781789954920 }
 09 Mar 2023 - Free eBook - ArcGIS Pro 2.x Cookbook ISBN : 9781788299039 By Tripp Corbin, GISP Publication date: Feb 2018 { URL : https://subscription.packtpub.com/book/programming/9781788299039/pref01 }
+10 Mar 2023 - Free eBook - Azure DevOps Server 2019 Cookbook - Second Edition ISBN : 9781788839259 By Tarun Arora , Utkarsh Shigihalli Publication date: May 2019  { URL : https://subscription.packtpub.com/book/cloud-networking/9781788839259/pref01 }
+11 Mar 2023 - Free eBook - Become a Python Data Analyst ISBN : 9781789531701 By Alvaro Fuentes Publication date: Aug 2018  { URL : https://subscription.packtpub.com/book/data/9781789531701/pref }
+12 Mar 2023 - Free eBook - Building Forms with Vue.js ISBN : 9781839213335 By Marina Mosti Publication date: Oct 2019  { URL : https://subscription.packtpub.com/book/web-development/9781839213335/pref01 }
+13 Mar 2023 - Free eBook - { URL : }
+14 Mar 2023 - Free eBook - { URL : }
+15 Mar 2023 - Free eBook - { URL : }
+16 Mar 2023 - Free eBook - { URL : }
+17 Mar 2023 - Free eBook - { URL : }
+18 Mar 2023 - Free eBook - { URL : }
+19 Mar 2023 - Free eBook - { URL : }
+20 Mar 2023 - Free eBook - { URL : }
