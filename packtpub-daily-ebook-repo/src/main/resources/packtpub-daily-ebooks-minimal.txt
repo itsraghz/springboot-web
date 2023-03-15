@@ -12,7 +12,7 @@
 12 Mar 2023 - Free eBook - Building Forms with Vue.js ISBN : 9781839213335 By Marina Mosti Publication date: Oct 2019  { URL : https://subscription.packtpub.com/book/web-development/9781839213335/pref01 }
 13 Mar 2023 - Free eBook - Burp Suite Essentials ISBN : 9781783550111 By Akash Mahajan Publication date: Nov 2014  { URL : https://subscription.packtpub.com/book/web-development/9781783550111 } #CodeNotAvailable
 14 Mar 2023 - Free eBook - CCENT/CCNA: ICND1 100-105 Certification Guide ISBN : 9781788621434 By Bekim Dauti Publication date: Apr 2018  { URL : https://subscription.packtpub.com/book/cloud-networking/9781788621434/pref } #CodeNotAvailable
-15 Mar 2023 - Free eBook - { URL : }
+15 Mar 2023 -  Free eBook - CentOS Quick Start Guide ISBN : 9781789344875 By Shiwang Kalkhanda Publication date: Dec 2018 { URL : https://subscription.packtpub.com/book/cloud-networking/9781789344875 } #CodeNotAvailable
 16 Mar 2023 - Free eBook - { URL : }
 17 Mar 2023 - Free eBook - { URL : }
 18 Mar 2023 - Free eBook - { URL : }
