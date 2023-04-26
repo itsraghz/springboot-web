@@ -121,8 +121,6 @@ q
 Asrc/main/java/com/raghsonline/springbootweb/qms/dto/QuoteDTO.java,5\3\5370feed42b8a7be29c0a1c5e16469f3efd1e830
 T
 $packtpub-daily-ebook-repo/.gitignore,6\e\6e1207cfdf6b9d2c922804cb02d419761c3ab111
-W
-'packtpub-daily-ebook-repo/sql/backup.sh,9\f\9f45286da886085e3a7a617232fc37adac54b0fe
 ò
 hpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/types/BookFormatEnum.java,c\d\cd0e8482b0b257a6ccb99980308a9cc43c890c56
 ù
@@ -379,8 +377,6 @@ cpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/
 cpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/util/StringUtil.java,0\c\0cf244cb4c26e4d9f07473d32f69868387a3d0a3
 õ
 kpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/runner/BookInsertRunner.java,6\4\64ea615461afa9ff4a854397cc24414c9c350026
-_
-/packtpub-daily-ebook-repo/src/VersionHistory.md,5\e\5ebe08949cb5034d970aaacec1e0877af905aad1
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
