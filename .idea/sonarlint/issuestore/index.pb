@@ -37,8 +37,6 @@ j
 :springboot-web-jsp/src/main/webapp/WEB-INF/jsp/index01.jsp,4\6\464d270fc874aea407d2c85165e9a9544810bb03
 Ž
 ^springboot-web-jsp/src/main/java/com/raghsonline/springbootwebjsp/controller/MyController.java,0\b\0b5669bedc1b41997ac7e50c5cc95d520c36d548
-J
-springboot-web-jsp/pom.xml,d\b\dbac3422b298ed4c56b38231b050105131282054
 C
 web-app-jsp/pom.xml,3\1\311648e0f1174d1bd5f8e60f37b3c1d79a0f25da
 ~
@@ -408,3 +406,7 @@ tpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/
 zpacktpub-daily-ebook-repo/src/main/java/com/raghsonline/packtpubdailyebookrepo/controller/FreeLearningEntryController.java,b\9\b9d94f3d0c89ea9d570814e2480a21da1dd85242
 E
 java-pdf-read/pom.xml,9\9\99fdca0723bfb3b041303cc3cc034a114977e816
+W
+'packtpub-daily-ebook-repo/sql/backup.sh,9\f\9f45286da886085e3a7a617232fc37adac54b0fe
+_
+/packtpub-daily-ebook-repo/src/VersionHistory.md,5\e\5ebe08949cb5034d970aaacec1e0877af905aad1

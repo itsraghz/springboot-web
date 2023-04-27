@@ -125,7 +125,10 @@
 26 Apr 2023 - Free eBook - Mastering Spring Boot 2.0 ISBN : 9781787127562 By Dinesh Rajput Publication date: May 2018  { URL : https://subscription.packtpub.com/book/programming/9781787127562 }
   Learn to develop, test, and deploy your Spring Boot distributed application and explore various best practices.
   Spring is one of the best frameworks on the market for developing web, enterprise, and cloud ready software. Spring Boot simplifies the building of complex software dramatically by reducing the amount of boilerplate code, and by providing production-ready features and a simple deployment model. This book will address the challenges related to power that come with Spring Boot's great configurability and flexibility.
-27 Apr 2023 - Free eBook - { URL : }
+27 Apr 2023 - Free eBook - Mastering Sublime Text ISBN : 9781849698429 By Dan Peleg  { URL : https://subscription.packtpub.com/book/web-development/9781849698429/copyrightpg } #CodeNotAvailable
+  When it comes to cross-platform text and source code editing, Sublime Text has few rivals. This book will teach you all its great features and help you develop and publish plugins. A brilliantly inclusive guide.
+  Sublime is the leading platform for developing websites, applications, and software. Sublime Text is a sophisticated, cross-platform text and source code editor. It supports a number of different programming languages and is extremely efficient and feature rich. With Sublime Text, programmers can develop their web applications faster and with more efficiency.
+28 Apr 2023 - Free eBook - { URL : }
 28 Apr 2023 - Free eBook - { URL : }
 29 Apr 2023 - Free eBook - { URL : }
 30 Apr 2023 - Free eBook - { URL : }
