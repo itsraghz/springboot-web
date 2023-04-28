@@ -1239,7 +1239,9 @@
 27 Apr 2023 - Free eBook - Mastering Sublime Text ISBN : 9781849698429 By Dan Peleg  { URL : https://subscription.packtpub.com/book/web-development/9781849698429/copyrightpg } #CodeNotAvailable
   When it comes to cross-platform text and source code editing, Sublime Text has few rivals. This book will teach you all its great features and help you develop and publish plugins. A brilliantly inclusive guide.
   Sublime is the leading platform for developing websites, applications, and software. Sublime Text is a sophisticated, cross-platform text and source code editor. It supports a number of different programming languages and is extremely efficient and feature rich. With Sublime Text, programmers can develop their web applications faster and with more efficiency.
-28 Apr 2023 - Free eBook - { URL : }
+28 Apr 2023 - Free eBook - MEAN Web Development - Second Edition ISBN : 9781785886300 By Amos Q. Haviv Publication date: Nov 2016  { URL : https://subscription.packtpub.com/book/web-development/9781785886300/copyrightpg }
+  Develop your real-time MEAN application efficiently using a combination of MongoDB, Express, Angular, and Node
+  The MEAN stack is a collection of the most popular modern tools for web development that helps you build fast, robust, and maintainable web applications. Starting with the MEAN core frameworks, this pragmatic guide will explain the key concepts of each framework, how to set them up properly, and how to use popular modules to connect it all together.
 28 Apr 2023 - Free eBook - { URL : }
 29 Apr 2023 - Free eBook - { URL : }
 30 Apr 2023 - Free eBook - { URL : }
